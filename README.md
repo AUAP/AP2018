@@ -116,7 +116,6 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - [p5.js examples - Interactivity 2](https://p5js.org/examples/hello-p5-interactivity-2.html)
   - [p5.dom library reference](https://p5js.org/reference/#/libraries/p5.dom)
   - [p5.js video tutorial: slider dance by Daniel Shiffman](https://www.youtube.com/watch?v=CMsD3IigG7g)
-  - [p5.js video tutorial: checkbox Mirror by Daniel Shiffman](https://www.youtube.com/watch?v=m1G6WBvrOBE)
   - Suggested playlist: [HTML/CSS/DOM- p5.js Tutorial by Daniel Shiffman](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX)
 - **Weekly mini ex4: due week 10, Monday night | ?** 
   - check mini_ex folder > mini_ex4.md
