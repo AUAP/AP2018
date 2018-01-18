@@ -4,8 +4,9 @@
 **Time:** Every Tue 0800 – 1100 (3 hours)  
 **Location:** 5361-144
 
-**Tutorial: Every Wed 14.00-16.00 @ 5361-144 or 5361-135, conducted by Ann Karring and Nynne Lucca Christiansen
-**Optional shutup and code: Wk 6-10, Friday 10.00-14.00 @ 5361-144
+!NB:
+**Tutorial: Every Wed 14.00-16.00 @ 5361-144 or 5361-135, conducted by Ann Karring and Nynne Lucca Christiansen**
+**Optional shutup and code: Wk 6-10, Friday 10.00-14.00 @ 5361-144**
 
 class detail: [etherpad](https://etherpad.net/p/ap2018) 
 
