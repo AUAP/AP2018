@@ -57,7 +57,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 - **Read/Watch before class:** 
   - Make sure you have read previous class' readings
   - [30 mins Video lecture on Learning While Making P5 JS by Lauren McCarthay. OPENVIS Conference, 2015.](https://www.youtube.com/watch?v=1k3X4DLDHdc)
-  - [Short video on Introduction - p5.js Tutorial by Daniel Shiffman](https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+  - [Short p5.js video by Daniel Shiffman](https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)(watch 1.1 and 1.2)
   - [p5.js: Get Started](https://p5js.org/get-started/)
   - [Video on Github: Sharing/version control/operation/hosting by Daniel Shiffman](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) (must watch: 1.1, 1.2, 1.4, 1.8)
 - **Weekly mini ex1: due week 7** 
@@ -66,9 +66,16 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 #### Class 02 | Week 7 | 13 Feb 2018: Having fun with basics
 ##### Wed tutorial session and Fri shutup and code session.
 - **Class structure:**
-
+  - basic structure: HTML, CSS, JS
+  - Coordinate system
+  - Shape drawing
+  - Variable
+  - Errors and console.log
+  - In-class ex: Grid paper drawing
 - **Read/Watch before class:** 
-
+  - Goriunova, Oga. *Fun and Software: Exploring Pleasure, Paradox and Pain in Computing*. Bloomsbury Academic, 2014, pp.1-19. (check blackboard - Introduction)
+  - [p5.js Simple Shapes](https://p5js.org/examples/hello-p5-simple-shapes.html)
+  - [Short p5.js video by Daniel Shiffman](https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)(watch 1.3, 1.4, 2.1, 2.2)
 - **Weekly mini ex1: due week 8** 
   - check mini ex2 folder
 
