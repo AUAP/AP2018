@@ -82,9 +82,18 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 #### Class 03 | Week 8 | 20 Feb 2018: Infinite loops
 ##### Wed tutorial session and Fri shutup and code session.
 - **Class structure:**
-  - XX
+  - Loops and Conditions
+  - Frame Rate, setTimeInterval
+  - Transform
+  - Function Parameters
+  - In-class ex: Decoding a throbber
+- **Peer-tutoring: Group 1 / Respondents: Group 2, Topic: push()/pop()**
+  - Describe the syntax, and how to use it? (see [ref](http://genekogan.com/code/p5js-transformations/))
+  - Your sample and creative code
+  - Think of an in-class exercise that make use of github as a tinkering/demonstrating/collaborative platform
 - **Read/Watch before class:** 
-  - XX
+  - [p5.js examples - load/display](https://p5js.org/examples/image-load-and-display-image.html) 
+  - [Short p5.js video by Daniel Shiffman](https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)(watch 3.1, 3.2, 3.3, 3.4, 4.1, 4.2, 5.1, 5.2, 5.3)
 - **Weekly mini ex3: due week 9, Monday night** 
   - check mini ex3 folder
 
