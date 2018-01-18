@@ -90,13 +90,34 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - Function Parameters
   - In-class ex: Decoding a throbber
 - **Peer-tutoring: Group 1 / Respondents: Group 2, Topic: push()/pop()**
-  - Describe the syntax, and how to use it? (see [ref](http://genekogan.com/code/p5js-transformations/))
+  - Describe the syntax, and how to use it? (see [ref1](http://genekogan.com/code/p5js-transformations/) and [ref2](https://www.youtube.com/watch?v=E4RyStef-gY&index=109&list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH))
   - Your sample and creative code
   - Think of an in-class exercise that make use of github as a tinkering/demonstrating/collaborative platform
 - **Read/Watch before class:** 
   - [p5.js examples - load/display](https://p5js.org/examples/image-load-and-display-image.html) 
   - [Short p5.js video by Daniel Shiffman](https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) (watch 3.1, 3.2, 3.3, 3.4, 4.1, 4.2, 5.1, 5.2, 5.3)
-  - [for coming mini ex] Soon, Winnie. ["Executing Micro-temporality."](http://www.data-browser.net/pdf/DB06_Executing_Practices.pdf)*Executing Practices*. Eds. Helen P, Eric S and Magda T.Carver. Autonomedia, 2017. 89-102.
+  - [for coming mini ex] Soon, Winnie. ["Executing Micro-temporality."](http://www.data-browser.net/pdf/DB06_Executing_Practices.pdf)*Executing Practices*. Eds. Helen P, Eric S and Magda T. C. Autonomedia, 2017. 89-102.
   - [for coming mini ex] Farman, Jason. [Fidget Spinners](http://reallifemag.com/fidget-spinners/). *Real Life*, 2017.
+- **Weekly mini ex3: due week 9, Monday night | Throbber** 
+  - check mini_ex folder > mini_ex3.md
+---
+#### Class 04 | Week 9 | 27 Feb 2018: Feedback (loops)
+##### Wed tutorial session and Fri shutup and code session.
+- **Class structure:**
+  - Interactivity: Mouse, Audio, Web Camera
+  - Buttons/Forms
+  - Cybernetics: control and regulation
+  - In-class ex: Decoding logics
+- **Peer-tutoring: Group 2 / Respondents: Group 3, Topic: Conditions with sound and video files**
+  - How to incorporate sound and video in your sketch?
+  - Your sample and creative code
+- **Read/Watch before class:** 
+  - [p5.js examples - Interactivity 1](https://p5js.org/examples/hello-p5-interactivity-1.html)
+  - [p5.js examples - Interactivity 2](https://p5js.org/examples/hello-p5-interactivity-2.html)
+  - [p5.dom library reference](https://p5js.org/reference/#/libraries/p5.dom)
+  - [p5.js video tutorial: slider dance by Daniel Shiffman](https://www.youtube.com/watch?v=CMsD3IigG7g)
+  - [p5.js video tutorial: checkbox Mirror by Daniel Shiffman](https://www.youtube.com/watch?v=m1G6WBvrOBE)
+  - [p5.js video tutorial: Other Events and inputs by Daniel Shiffman](https://www.youtube.com/watch?v=HsDVz2_Qgow)
+  - Suggested playlist: [HTML/CSS/DOM- p5.js Tutorial by Daniel Shiffman](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX)
 - **Weekly mini ex3: due week 9, Monday night | Throbber** 
   - check mini_ex folder > mini_ex3.md
