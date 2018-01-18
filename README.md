@@ -33,11 +33,12 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 
 ## CLASS SCHEDULE:
 ---
-### Class 01 | Week 5 | 30 Jan 2018: Transmediale visit - No physical class. No tutorial session. No shutup and code session.
+#### Class 01 | Week 5 | 30 Jan 2018: Transmediale visit - No physical class. No tutorial session. No shutup and code session.
 - [Transmediale Festival 2018: Face Value](https://2018.transmediale.de/)
   - Suggested events: [conference curated by Daphne Dragona] (https://2018.transmediale.de/program/text/conference)
   - #5, research values | #12, Calculating Life | [Exhibition: Territories of Complicity](https://2018.transmediale.de/program/exhibition)
 - **Reading/Listening:** 
-  - [Video lecture: 1 hr](https://www.youtube.com/watch?v=C2Pq4N-iE4I) Computational Thinking and Thinking About Compututing by Jeannette M. Wing (2009)
-- Thinking line: 
+  - [Video lecture: 1 hr](https://www.youtube.com/watch?v=C2Pq4N-iE4I): Computational Thinking and Thinking About Compututing by Jeannette M. Wing (2009)
+- **Thinking line:**
+  - Why do you think you need to know programming? Why is it important to know programming in the area of digital design?
 
