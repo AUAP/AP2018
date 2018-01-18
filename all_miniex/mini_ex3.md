@@ -18,6 +18,8 @@
 - Think about a throbber that you have encounted in digital culture e.g streaming video on YouTube or loading latest feeds on Facebook or waiting ticket transaction, what do you think a throbber tells us, or hide, about? 
 5. Provide peer-feedback to 2 of your classmates on their works by creating "issues" on his/her github corresponding repository. Write with the issue title "Feedback on mini_ex(?) by (YOUR FULL NAME)"
 
+NB!: Feel Free to explore and experiment more syntax.
+
 **What is peer-feedback?**
 1. First you describe what is the work, what are the elements in the work? like what you have seen, what you have experienced and what syntax he/she has used.
 2. What is the emphasis? What does the work express? What does this work say or mean to you? How would you interpretate the work?
