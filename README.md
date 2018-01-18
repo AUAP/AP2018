@@ -46,7 +46,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 - **Thinking line:**
   - Why do you think you need to know programming? Why is it important to know programming in the area of digital design?
 ---
-#### Class 01 | Week 6 | 6 Feb 2018: Coding Practice
+#### Class 01 | Week 6 | 6 Feb 2018: Coding Practice & Getting Started
 ##### Wed tutorial session and Fri shutup and code session.
 - **Class structure:**
   - Why we need to learn programming?
@@ -62,5 +62,13 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - [Video on Github: Sharing/version control/operation/hosting by Daniel Shiffman](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) (must watch: 1.1, 1.2, 1.4, 1.8)
 - **Weekly mini ex1: due week 7** 
   - check mini ex1 folder
+---
+#### Class 02 | Week 7 | 13 Feb 2018: Having fun with basics
+##### Wed tutorial session and Fri shutup and code session.
+- **Class structure:**
 
+- **Read/Watch before class:** 
+
+- **Weekly mini ex1: due week 8** 
+  - check mini ex2 folder
 
