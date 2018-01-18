@@ -105,7 +105,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 ##### Wed tutorial session and Fri shutup and code session.
 - **Class structure:**
   - Interactivity: Mouse, Audio, Web Camera
-  - Buttons/Forms
+  - Buttons/Form objects
   - Cybernetics: control and regulation
   - In-class ex: Decoding logics
 - **Peer-tutoring: Group 2 / Respondents: Group 3, Topic: Conditions with sound and video files**
