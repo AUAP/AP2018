@@ -56,7 +56,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - Examples showcase and discussion
 - **Read/Watch before class:** 
   - Make sure you have read previous class' readings
-  - [30 mins Video lecture: McCarthy, Lauren. Learning While Making P5 JS. OPENVIS Conference, 2015.](https://www.youtube.com/watch?v=1k3X4DLDHdc)
+  - [30 mins Video lecture on Learning While Making P5 JS by Lauren McCarthay. OPENVIS Conference, 2015.](https://www.youtube.com/watch?v=1k3X4DLDHdc)
   - [Short video on Introduction - p5.js Tutorial by Daniel Shiffman](https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
   - [p5.js: Get Started](https://p5js.org/get-started/)
   - [Video on Github: Sharing/version control/operation/hosting by Daniel Shiffman](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) (must watch: 1.1, 1.2, 1.4, 1.8)
