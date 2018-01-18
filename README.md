@@ -22,7 +22,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 4. FINAL group project - in the form of a “readme” and a “runme” (software) packaged + in class presentation 
 5. Oral exam (Date: to be confirmed)
 
-!NB: 20 ECTS is equivalent to around 25 hours per week, including lecture and tutorial. As such, you are required to spend around 20 hours per week in reading and programming. The more you practice everyday, the more you get out of the course.
+!NB: 20 ECTS is equivalent to around 25 hours per week, including lecture and tutorial. As such, you are required to spend around 20 hours per week in reading and programming. The more you practice everyday, the more you get out of the course. There is no short cut and the best way is to PRACTICE!
 
 ## Other learning support environment:
 1. Weekly 2 hours tutorial session (every Wed - Mandatory)
