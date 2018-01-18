@@ -60,7 +60,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - [Short p5.js video by Daniel Shiffman](https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)(watch 1.1 and 1.2)
   - [p5.js: Get Started](https://p5js.org/get-started/)
   - [Video on Github: Sharing/version control/operation/hosting by Daniel Shiffman](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) (must watch: 1.1, 1.2, 1.4, 1.8)
-- **Weekly mini ex1: due week 7** 
+- **Weekly mini ex1: due week 7, Monday night** 
   - check mini ex1 folder
 ---
 #### Class 02 | Week 7 | 13 Feb 2018: Having fun with basics
@@ -76,6 +76,15 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - Goriunova, Oga. *Fun and Software: Exploring Pleasure, Paradox and Pain in Computing*. Bloomsbury Academic, 2014, pp.1-19. (check blackboard - Introduction)
   - [p5.js Simple Shapes](https://p5js.org/examples/hello-p5-simple-shapes.html)
   - [Short p5.js video by Daniel Shiffman](https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)(watch 1.3, 1.4, 2.1, 2.2)
-- **Weekly mini ex1: due week 8** 
+- **Weekly mini ex2: due week 8, Monday night** 
   - check mini ex2 folder
+---
+#### Class 03 | Week 8 | 20 Feb 2018: Infinite loops
+##### Wed tutorial session and Fri shutup and code session.
+- **Class structure:**
+  - 
+- **Read/Watch before class:** 
+  - 
+- **Weekly mini ex3: due week 9, Monday night** 
+  - check mini ex3 folder
 
