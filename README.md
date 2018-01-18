@@ -37,7 +37,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 #### Class 01 | Week 5 | 30 Jan 2018: Transmediale visit 
 #### No physical class. No tutorial session. No shutup and code session.
 - [Transmediale Festival 2018: Face Value](https://2018.transmediale.de/)
-  - Suggested events: [conference curated by Daphne Dragona] (https://2018.transmediale.de/program/text/conference)
+  - Suggested events: [conference curated by Daphne Dragona](https://2018.transmediale.de/program/text/conference)
   - #5, research values | #12, Calculating Life | [Exhibition: Territories of Complicity](https://2018.transmediale.de/program/exhibition)
 - **Reading/Listening:** 
   - [1 hr video lecture](https://www.youtube.com/watch?v=C2Pq4N-iE4I): Computational Thinking and Thinking About Compututing by Jeannette M. Wing (2009)
