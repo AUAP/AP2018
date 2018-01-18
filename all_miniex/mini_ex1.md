@@ -1,4 +1,4 @@
-# Weekly mini ex1: due week 7 - Your first program
+# Weekly mini ex1: due week 7, Monday night - Your first program
 
 **Objective:**
 - To learn the basic setup, including independent study of code syntax, uploading files on github, creating a readme file, etc. 
