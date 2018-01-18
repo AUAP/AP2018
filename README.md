@@ -82,9 +82,9 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 #### Class 03 | Week 8 | 20 Feb 2018: Infinite loops
 ##### Wed tutorial session and Fri shutup and code session.
 - **Class structure:**
-  - 
+  - XX
 - **Read/Watch before class:** 
-  - 
+  - XX
 - **Weekly mini ex3: due week 9, Monday night** 
   - check mini ex3 folder
 
