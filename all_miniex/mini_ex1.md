@@ -17,6 +17,8 @@
 - How do you feel about read and write code? What might be the potential and possibilitiby of coding practice?
 7. Provide peer-feedback to 2 of your classmates on their works by creating "issues" on his/her github corresponding repository. Write with the issue title "Feedback on mini_ex(?) by (YOUR FULL NAME)"
 
+NB!: Feel Free to explore and experiment more syntax
+
 **What is peer-feedback?**
 1. First you describe what is the work, what are the elements in the work? like what you have seen, what you have experienced and what syntax he/she has used.
 2. What is the emphasis? What does the work express? What does this work say or mean to you? How would you interpretate the work?
