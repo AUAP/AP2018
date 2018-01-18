@@ -15,7 +15,7 @@
 - A URL link to your program and run on a browser, see: https://rawgit.com/
 - Describe your first independent coding process
 - How do you feel about read and write code? What might be the potential and possibilitiby of coding practice?
-7. Provide peer-feedback to 2 of your classmates on their works by creating "issues" in his/her github corresponding repository. Write with the issue title "Feedback on mini_ex(?) by (YOUR FULL NAME)"
+7. Provide peer-feedback to 2 of your classmates on their works by creating "issues" on his/her github corresponding repository. Write with the issue title "Feedback on mini_ex(?) by (YOUR FULL NAME)"
 
 **What is peer-feedback?**
 1. First you describe what is the work, what are the elements in the work? like what you have seen, what you have experienced and what syntax he/she has used.
