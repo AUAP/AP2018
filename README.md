@@ -34,13 +34,30 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 
 ## CLASS SCHEDULE:
 ---
-#### Class 01 | Week 5 | 30 Jan 2018: Transmediale visit 
-#### No physical class. No tutorial session. No shutup and code session.
+#### Class 00 | Week 5 | 30 Jan 2018: Transmediale visit 
+##### No physical class. No tutorial session. No shutup and code session.
 - [Transmediale Festival 2018: Face Value](https://2018.transmediale.de/)
   - Suggested events: [conference curated by Daphne Dragona](https://2018.transmediale.de/program/text/conference)
   - #5, research values | #12, Calculating Life | [Exhibition: Territories of Complicity](https://2018.transmediale.de/program/exhibition)
-- **Reading/Listening:** 
+- **Read/Watch:** 
   - [1 hr video lecture](https://www.youtube.com/watch?v=C2Pq4N-iE4I): Computational Thinking and Thinking About Computing by Jeannette M. Wing (2009)
+  - Montfort, Nick. *Exploratory Programming For the Arts and Humanities*. MIT Press, 2016. (check blackboard - Appendix A: Why Program?)
+  - Vee, Annette. *Coding Literacty: How Computer Programming Is Changing Writing*. MIT Press, 2017. (Check blackboard - Introduction: Computer Programming as Literacy)
 - **Thinking line:**
   - Why do you think you need to know programming? Why is it important to know programming in the area of digital design?
+---
+#### Class 01 | Week 6 | 6 Feb 2018: Coding Practice
+##### Wed tutorial session and Fri shutup and code session.
+- Why we need to learn programming?
+- What is and why p5.js? 
+- Setting up: Github + p5.js lib + Atom 
+- Run the first p5.js program
+- Examples showcase and discussion
+- **Read/Watch before class:** 
+  - Make sure you have read previous class' readings
+  - [30 mins Video lecture] McCarthy, Lauren. Learning While Making P5 JS. OPENVIS Conference, 2015.
+  - 
+- **Weekly mini ex1: due week 7** 
+  - check mini ex1 folder
+
 
