@@ -73,7 +73,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - Errors and console.log
   - In-class ex: Grid paper drawing
 - **Read/Watch before class:** 
-  - Goriunova, Oga. *Fun and Software: Exploring Pleasure, Paradox and Pain in Computing*. Bloomsbury Academic, 2014, pp.1-19. (check blackboard - Introduction)
+  - Goriunova, Oga. *Fun and Software: Exploring Pleasure, Paradox and Pain in Computing*. Bloomsbury Academic, 2014. 1-19. (check blackboard - Introduction)
   - [p5.js Simple Shapes](https://p5js.org/examples/hello-p5-simple-shapes.html)
   - [Short p5.js video by Daniel Shiffman](https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)(watch 1.3, 1.4, 2.1, 2.2)
 - **Weekly mini ex2: due week 8, Monday night | Fun drawing** 
@@ -94,8 +94,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 - **Read/Watch before class:** 
   - [p5.js examples - load/display](https://p5js.org/examples/image-load-and-display-image.html) 
   - [Short p5.js video by Daniel Shiffman](https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) (watch 3.1, 3.2, 3.3, 3.4, 4.1, 4.2, 5.1, 5.2, 5.3)
+  - [for coming mini ex]Soon, Winnie. ["Executing Micro-temporality."](http://www.data-browser.net/pdf/DB06_Executing_Practices.pdf)*Executing Practices*. Eds. Helen P, Eric S and Magda T.Carver. Autonomedia, 2017. 89-102.
   - [for coming mini ex]Farman, Jason. [Fidget Spinners](http://reallifemag.com/fidget-spinners/). *Real Life*, 2017.
-  - [for coming mini ex]Soon, Winnie. [Executing Microtemporality]() in *Executing Practices*. Autonomedia, 2017.
 - **Weekly mini ex3: due week 9, Monday night | Throbber** 
   - check mini_ex folder > mini_ex3.md
-
