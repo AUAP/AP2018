@@ -12,10 +12,10 @@
 3. Upload your program/result to your own Github account under a folder called **mini_ex3**. (Make sure your program can be run on a web browser) 
 4. Create a readme file (README.md) and upload to the same mini_ex3 directory (see [this](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for editing the README). The readme file should contain the followings:
 - A screenshot of your program
-- A URL link to your program and run on a browser, see: https://rawgit.com/
-- Describe about your throbber design, both conceptually and technically
+- A URL link to your program and run on a browser, see: https://rawgit.com/.
+- Describe about your throbber design, both conceptually and technically.
 - What is the time-related syntax/function that you have used in your program? and why you use in this way?
-- Think about a throbber that you encounted in digital culture e.g streaming video on YouTube or loading latest feeds on Facebook or waiting ticket transaction, what do you think a throbber tell us, or hide, about? 
+- Think about a throbber that you have encounted in digital culture e.g streaming video on YouTube or loading latest feeds on Facebook or waiting ticket transaction, what do you think a throbber tells us, or hide, about? 
 5. Provide peer-feedback to 2 of your classmates on their works by creating "issues" on his/her github corresponding repository. Write with the issue title "Feedback on mini_ex(?) by (YOUR FULL NAME)"
 
 **What is peer-feedback?**
