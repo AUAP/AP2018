@@ -119,5 +119,5 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - [p5.js video tutorial: checkbox Mirror by Daniel Shiffman](https://www.youtube.com/watch?v=m1G6WBvrOBE)
   - [p5.js video tutorial: Other Events and inputs by Daniel Shiffman](https://www.youtube.com/watch?v=HsDVz2_Qgow)
   - Suggested playlist: [HTML/CSS/DOM- p5.js Tutorial by Daniel Shiffman](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX)
-- **Weekly mini ex3: due week 9, Monday night | Throbber** 
-  - check mini_ex folder > mini_ex3.md
+- **Weekly mini ex4: due week 10, Monday night | ?** 
+  - check mini_ex folder > mini_ex4.md
