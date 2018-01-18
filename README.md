@@ -40,7 +40,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - Suggested events: [conference curated by Daphne Dragona](https://2018.transmediale.de/program/text/conference)
   - #5, research values | #12, Calculating Life | [Exhibition: Territories of Complicity](https://2018.transmediale.de/program/exhibition)
 - **Reading/Listening:** 
-  - [1 hr video lecture](https://www.youtube.com/watch?v=C2Pq4N-iE4I): Computational Thinking and Thinking About Compututing by Jeannette M. Wing (2009)
+  - [1 hr video lecture](https://www.youtube.com/watch?v=C2Pq4N-iE4I): Computational Thinking and Thinking About Computing by Jeannette M. Wing (2009)
 - **Thinking line:**
   - Why do you think you need to know programming? Why is it important to know programming in the area of digital design?
 
