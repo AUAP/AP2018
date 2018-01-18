@@ -12,11 +12,11 @@
   ```
   git config --global user.email [email address] 
   ```
-- Download the github files to local: 
+- Download the github files to local: (replace your file)
   ```
-  git pull https://github.com/siusoon/VocableCode.git
+  git pull https://github.com/xxxxx.git
   ```
-If the downloaded files different from the local, it will merge with the local. Just input the message and then esc (meaning save) > :wq (meaning exit)
+If the downloaded files are different from the local, they will then merge with the local. Just input the message and then esc (meaning save) > :wq (meaning exit)
 - Sign up: [github account](https://github.com/) and create your own repository "Respositories" > click the "New" button
 - Modify your file, add your code files etc
 - See cheatsheet [here](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
