@@ -2,7 +2,7 @@
 
 **Objective:**
 - To learn the basic setup, including independent study of code syntax, uploading files on github, creating a readme file, etc. 
-- To get familiar with the process of weekly mini exercises
+- To get familiar with the building and feedback process of weekly mini exercises
 
 **Tasks:**
 1. Make sure you have read/watch the required readings/videos
