@@ -244,7 +244,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 - **Suggested reading/video**
   - [ConvNetJS: Deep Learning in your browser](https://cs.stanford.edu/people/karpathy/convnetjs/)
   - [20 mins video - A Return to Machine Learning by Kyle McDonald](https://www.youtube.com/watch?v=POrPIABj2MI)
-- **Weekly mini ex11: due week 17, Monday mid-night | Draft of synopsis**
+- **Weekly mini ex11: due week 17, Sun night | Draft of synopsis**
   - check mini_ex folder > mini_ex11.md
 ---
 #### Class 12 | Week 17 | 24 Apr 2018: Group supervision
@@ -258,3 +258,45 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 **NO CLASS ON TUE. The class is changed from 8 May to 11 May 2018!!!** 
 **NO Wed tutorial session**
 - Details will follow soon, and it would be a rather long day.
+---
+<br>
+<br>
+
+## CORE REFERENCES:  
+- Daniel Shiffman, Learning Processing: A Beginner’s Guide to Programming Images, Animations, and Interaction, Morgan Kaufmann 2015 (Second Edition)
+-	Getting Started with p5.js: Making interactive graphics in Javascript and Processing (Make) by Lauren McCarthy, Casey Reas and Ben Fry
+-	[Text and source code: Coding Projects with p5.js by Catherine Leung](https://cathyatseneca.gitbooks.io/coding-projects-with-p5-js/)
+-	[Video: Foundations of Programming in Javascript - p5.js Tutorial by Daniel Shiffman](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) 
+-	[Video: Crockford on Javascript (more historical context)](https://www.youtube.com/watch?v=JxAXlJEmNMg&list=PLK2r_jmNshM9o-62zTR2toxyRlzrBsSL2) 
+- A simple introduction to HTML and CSS: https://sites.google.com/sas.edu.sg/code/learn-to-code
+
+<br>
+<br>
+
+## NOTES for mini exercises:
+- You are advised to at least spend 10 hours on the weekly mini exercises or coding. 
+- If the mini exercises are too simple, feel free to program something more complex and advance by exploring other syntax.
+- But it is absolutely fine if the program is a simple one and not having a "well designed" screen. 
+- It is important to address all the questions in the mini exercise, as they help you to understand the subject matter both technically and conceptually.
+- Make use of your peers to learn different syntax, functions and operators and to ask questions.
+- The more you practice, the more you will get out of the course. 
+- The aims of having weekly mini exercises are to encourage experimentation, practice programming and stimulate thinking, therefore there is no grade for this.
+- Make sure the sketch folder contains necessary libraries, files and a correct directory. It should be able to run on a github server through a web browser. 
+- In general, the mini ex needs to submit on github on Monday (before the lecture), and peer-feedback should be done on Tue (before the tutorial class)
+- It is mandatory to submit weekly mini exercises and to provide feedback to your peers. Those who fails to do any of them may incur a penalty of absence in one class. 
+
+## Peer tutoring/ respondents format
+-  Within 20 mins presentation (peer tutoring)
+  - Technical understanding (provide sample code)
+  - Teaching (able to describe/speak about code with your language)
+  - Articulation (able to apply and elaborate on how you do it, your process)
+  - Send your slides to the respondents a day before the class. i.e on Monday.
+
+- Within 10 mins response by respondents (feedback and ask questions)
+  - Demonstrate your understanding of the assigned theme
+  - Set some questions in mind and lead the discussion
+
+## RULES:
+1. To pass the participation requirement and to enter Exam A, you need to attend at least 75% of the course which means you can only skip maximum 3 classes and 3 tutorials. 
+2. Weekly mini exercises (together with peer-feedback) is part of the course participation, those who fail to submit their work may incur a penalty of absence in one class. 
+
