@@ -234,7 +234,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 -**Class Structure**
   - What is Machine Learning? 
   - Introducing ML's js library
-  - Discussion of students' project
+  - Discussion on students' project
 - **Peer-tutoring: Group 8 / Respondents: Group 9, Topic: Node.js**
   - What is node.js? 
   - Experiment 1 or 2 npm (package manager) and walkthrough with the class? 
