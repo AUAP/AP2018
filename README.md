@@ -213,12 +213,14 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 #### Class 10 | Week 15 | 13 Apr 2018 (FRI): Algorithms + Guest lecture by Anders Visti
 ##### NO CLASS ON TUE. The class is changed from 10 Apr to 13 Apr 2018!!!
 ##### Wed WITH tutorial session
+
 -**Class Structure**
   - Start at 12.00
   - Peer-tutoring 
   - Flow chart and Algorithms
   - Guest Lecture (14.00). Details will follow soon 
 - **Read/watch before class**
+
   -[4 mins video: Algorithms in pseudocode and flow diagrams](https://www.youtube.com/watch?v=XDWw4Ltfy5w) 
   -[18 mins video: Algorithms BBC](https://www.youtube.com/watch?v=gOKVwRIyWdg) and full ver (optional) is [here](https://www.youtube.com/watch?v=T1os88EvPc4&t=0s)
   -[Flow chart symbols by Robert L. Oakman](http://www.wiley.com/college/busin/icmis/oakman/outline/chap05/slides/symbols.htm)
