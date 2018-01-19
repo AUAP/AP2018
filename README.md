@@ -81,7 +81,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 - **Weekly mini ex2: due week 8, Monday night | Fun drawing** 
   - check mini_ex folder > mini_ex2.md
 ---
-#### Class 03 | Week 8 | 20 Feb 2018: Infinite loops
+#### Class 03 | Week 8 | 20 Feb 2018: Temporality: Infinite loops
 ##### Wed tutorial session and Fri shutup and code session.
 - **Class structure:**
   - Loops and Conditions
@@ -101,7 +101,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 - **Weekly mini ex3: due week 9, Monday night | Throbber** 
   - check mini_ex folder > mini_ex3.md
 ---
-#### Class 04 | Week 9 | 27 Feb 2018: Feedback (loops)
+#### Class 04 | Week 9 | 27 Feb 2018: Interactivity: Feedback (loops)
 ##### Wed tutorial session and Fri shutup and code session.
 - **Class structure:**
   - Interactivity: Mouse, Keyboard, Audio, Web Camera
@@ -121,7 +121,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 - **Weekly mini ex4: due week 10, Monday night | Feedback loops** 
   - check mini_ex folder > mini_ex4.md
 ---
-#### Class 05 | Week 10 | 6 Mar 2018: Object-oriented Programming
+#### Class 05 | Week 10 | 6 Mar 2018: Object Orientation
 ##### Wed tutorial session and Fri shutup and code session.
 - **Class structure:**
   - Objects, Behaviors and Arguments
