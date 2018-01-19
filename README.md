@@ -191,7 +191,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - Second hr: Guest Lecture. Details will follow soon 
  ---
  #### Week 13, no class due to Easter Holiday
- #####No Wed tutorial session and NO Fri shutup and code session.
+ ##### No Wed tutorial session and NO Fri shutup and code session.
  ---
 #### Class 09 | Week 14 | 3 Apr 2018: API and Datafication
 ##### Wed tutorial session and NO Fri shutup and code session.
