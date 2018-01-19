@@ -140,3 +140,19 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - Dahl, Ole-Johan. [The Birth of Object Orientation: the Simula Languages](https://link.springer.com/chapter/10.1007/978-3-540-39993-3_3). *Object-Orientation to Formal Methods*. Eds. Owe O., Krogdahl S., Lyche T. Lecture Notes in Computer Science, vol 2635. Springer, Berlin, Heidelberg . 2004.
 - **Weekly mini ex5: due week 11, Monday night | Games with objects** 
   - check mini_ex folder > mini_ex5.md
+  ---
+#### Class 06 | Week 11 | 13 Mar 2018: Language Plus Code
+##### Wed tutorial session and NO Fri shutup and code session.
+- **Class structure:**
+  - Typography and textuality
+  - Codework
+  - Mid-way evaluation
+- **Peer-tutoring: Group 4 / Respondents: Group 5, Topic: JSON**
+  - 
+- **Read/Watch before class:** 
+  - 
+- **Suggested reading/video**
+  - 
+- **Weekly mini ex6: due week 11, Monday night | e-literature** 
+  - check mini_ex folder > mini_ex6.md
+
