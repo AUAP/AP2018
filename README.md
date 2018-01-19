@@ -135,6 +135,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - [p5.js examples - Array of Objects](https://p5js.org/examples/objects-array-of-objects.html)
   - Lee, Roger Y. *Software Engineering: A Hands-On Approach*. Springer, 2013. 17-38 (Check Blackboard - ch. 2 Object-Oriented concepts)
 - **Suggested reading/video**
+  - [p5.js coding challenge #31: Flappy Bird by Daniel Shiffman](https://www.youtube.com/watch?v=cXgA1d_E-jY)
   - Crutzen, Cecile and Kotkamp Erna. Object Orientation. Software Studies\a lexicon. Eds Matthew F. MIT Press, 2008. 200-207
   - Black, Andrew P. [Object-oriented Programming: some history, and challenges for the next fifty years](https://arxiv.org/abs/1303.0427). 2013.
   - Dahl, Ole-Johan. [The Birth of Object Orientation: the Simula Languages](https://link.springer.com/chapter/10.1007/978-3-540-39993-3_3). *Object-Orientation to Formal Methods*. Eds. Owe O., Krogdahl S., Lyche T. Lecture Notes in Computer Science, vol 2635. Springer, Berlin, Heidelberg . 2004.
