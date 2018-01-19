@@ -184,30 +184,39 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 - **Weekly mini ex7: due week 14, Monday night | Generative Art** 
   - check mini_ex folder > mini_ex7.md
  ---
- #### Class 07.5 | Week 12 | 22 Mar 2018: Guest Lecture by Nick Montfort
- Details will follow soon
+ #### Class 07.5 | Week 12 | 22 Mar 2018 (FRI): Guest Lecture by Nick Montfort
+ - Start at 13.00
+ - First hr: Revisit basic coding
+ - Second hr: Guest Lecture. Details will follow soon 
  ---
  #### Week 13, no class due to Easter Holiday
  ---
-#### Class 08 | Week 14 | 20 Mar 2018: Generativity
+#### Class 08 | Week 14 | 3 Apr 2018: API and Datafication
 ##### Wed tutorial session and NO Fri shutup and code session.
 - **Class structure:**
-  - Randomness, loops and rules
-  - In-class ex: 10 print
-  - Introduce the final code project
-- **Peer-tutoring: Group 5 / Respondents: Group 6, Topic: p5.dom libary**
-  - How to import and use p5.dom library in your sketch?
-  - What is the benefits of using p5.dom objects?
+  - API
+  - In-class ex: Walkthrough Google API
+  - Guest lecture: Don't Erase Me by Tilde Lageri Damborg and Tobias Stenberg Christensen
+- **Peer-tutoring: Group 6 / Respondents: Group 7, Topic: Parsing**
+  - What is parsing? 
   - Provide sample and creative code
 - **Read/Watch before class:** 
-  - Soon, Winnie. Executing Liveness. PhD dissertation. Aarhus University, 2016. 82-90
-  - [1 hr video] [Beautiful Rules: Generative models of creativity](https://vimeo.com/26594644) (2007) by Marius Watz
+  - [p5.js video tutorial: working with data by Daniel Shiffman](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r)(watch 10.1-10.10)
+  - Critical Software Thing. Executing. Draft. 2017. (check blackboard) 
 - **Suggested reading/video**
-  - [The Recode Project](http://recodeproject.com/)
-  - Galanter, Philip. "[Generative Art Theory](http://cmuems.com/2016/60212/resources/galanter_generative.pdf)". *A Companion to Digital Art*. Eds. Christiane P, 2016. 
-  - [6 mins Video] [How to Draw with Code](https://www.youtube.com/watch?v=_8DMEHxOLQE) by Casey Reas
-  - [p5.js Coding Challenge #14: Fractal Trees - Recursive by Daniel Shiffman](https://www.youtube.com/watch?v=0jjeOYMjmDU)
-  - [p5.js Coding Challenge #76: Recursion by Daniel Shiffman](https://www.youtube.com/watch?v=jPsZwrV9ld0)
-- **Weekly mini ex7: due week 14, Monday night | Generative Art** 
-  - check mini_ex folder > mini_ex7.md
+  - Bucher, Taina, “Objects of intense feeling: The case of the Twitter API”, in Computational Culture: a journal of software studies. 2013. Web. 27 Nov. 2013. <http://computationalculture.net/article/objects-of-intense-feeling-the-case-of-the-twitter-api>
+- **Weekly mini ex8: due week 15, Monday night | Working with APIs** 
+  - check mini_ex folder > mini_ex8.md
+---
+#### Class 09 | Week 15 | 13 Apr 2018 (FRI): Guest lecture by Anders Visti
+**NO CLASS ON TUE. The class is changed from 10 Apr to 13 Apr 2018!!! 
 
+ - Start at 13.00
+ - Peer-tutoring
+ - Flow chart
+ - Guest Lecture. Details will follow soon 
+- **Peer-tutoring: Group 7 / Respondents: Group 8, Topic: Your coding challenge**
+  - Feel free to suggest your own coding challenge
+  - Provide sample and creative code
+- **Weekly mini ex8: due week 16, Monday night | Flow Chart** 
+  - check mini_ex folder > mini_ex9.md
