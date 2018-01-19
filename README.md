@@ -158,7 +158,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - [Text and type by Allison Parrish](https://creative-coding.decontextualize.com/text-and-type/)
 - **Suggested reading/video**
   - [Matrix Digital Rain video tutorial by Emily Xie](https://www.youtube.com/watch?v=S1TQCi9axzg)
-  - [Raley, Rita]. [Interferences:[Net.Writing] and the Practice of Codework](http://www.electronicbookreview.com/thread/electropoetics/net.writing). *electronic book review*, 2002.
+  - Raley, Rita. [Interferences:[Net.Writing] and the Practice of Codework](http://www.electronicbookreview.com/thread/electropoetics/net.writing). *electronic book review*, 2002.
 - **Weekly mini ex6: due week 12, Monday night | e-literature** 
   - check mini_ex folder > mini_ex6.md
 ---
