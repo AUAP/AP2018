@@ -219,8 +219,8 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - Flow chart and Algorithms
   - Guest Lecture (14.00). Details will follow soon 
 - **Read/watch before class**
-  -[Video: Algorithms in pseudocode and flow diagrams](https://www.youtube.com/watch?v=XDWw4Ltfy5w) 
-  -[Video: Algorithm](https://www.youtube.com/watch?v=gOKVwRIyWdg) and full ver (optional) is [here](https://www.youtube.com/watch?v=T1os88EvPc4&t=0s)
+  -[4 mins video: Algorithms in pseudocode and flow diagrams](https://www.youtube.com/watch?v=XDWw4Ltfy5w) 
+  -[18 mins video: Algorithms BBC](https://www.youtube.com/watch?v=gOKVwRIyWdg) and full ver (optional) is [here](https://www.youtube.com/watch?v=T1os88EvPc4&t=0s)
   -[Flow chart symbols by Robert L. Oakman](http://www.wiley.com/college/busin/icmis/oakman/outline/chap05/slides/symbols.htm)
   -[Flow chart examples by Richa](https://blog.udemy.com/flowchart-examples/) 
 - **Peer-tutoring: Group 7 / Respondents: Group 8, Topic: Your coding challenge**
