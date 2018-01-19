@@ -184,14 +184,15 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 - **Weekly mini ex7: due week 14, Monday night | Generative Art** 
   - check mini_ex folder > mini_ex7.md
  ---
- #### Class 07.5 | Week 12 | 22 Mar 2018 (FRI): Guest Lecture by Nick Montfort
- - Start at 13.00
- - First hr: Revisit basic coding
- - Second hr: Guest Lecture. Details will follow soon 
+ #### Class 08 | Week 12 | 22 Mar 2018 (FRI): Guest Lecture by Nick Montfort
+ -**Class Structure**
+  - Start at 12.00
+  - First hr: Revisit basic coding
+  - Second hr: Guest Lecture. Details will follow soon 
  ---
  #### Week 13, no class due to Easter Holiday
  ---
-#### Class 08 | Week 14 | 3 Apr 2018: API and Datafication
+#### Class 09 | Week 14 | 3 Apr 2018: API and Datafication
 ##### Wed tutorial session and NO Fri shutup and code session.
 - **Class structure:**
   - API
@@ -205,18 +206,53 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - Critical Software Thing. Executing. Draft. 2017. (check blackboard) 
 - **Suggested reading/video**
   - Bucher, Taina, “Objects of intense feeling: The case of the Twitter API”, in Computational Culture: a journal of software studies. 2013. Web. 27 Nov. 2013. <http://computationalculture.net/article/objects-of-intense-feeling-the-case-of-the-twitter-api>
-- **Weekly mini ex8: due week 15, Monday night | Working with APIs** 
-  - check mini_ex folder > mini_ex8.md
+- **Weekly mini ex9: due week 15, Monday night | Working with APIs** 
+  - check mini_ex folder > mini_ex9.md
 ---
-#### Class 09 | Week 15 | 13 Apr 2018 (FRI): Guest lecture by Anders Visti
-**NO CLASS ON TUE. The class is changed from 10 Apr to 13 Apr 2018!!! 
-
- - Start at 13.00
- - Peer-tutoring
- - Flow chart
- - Guest Lecture. Details will follow soon 
+#### Class 10 | Week 15 | 13 Apr 2018 (FRI): Algorithms + Guest lecture by Anders Visti
+**NO CLASS ON TUE. The class is changed from 10 Apr to 13 Apr 2018!!!** 
+**Wed tutorial session**
+-**Class Structure**
+ - Start at 12.00
+ - Peer-tutoring 
+ - Flow chart and Algorithms
+ - Guest Lecture (14.00). Details will follow soon 
+- **Read/watch before class**
+  -[Video: Algorithms in pseudocode and flow diagrams](https://www.youtube.com/watch?v=XDWw4Ltfy5w) 
+  -[Video: Algorithm](https://www.youtube.com/watch?v=gOKVwRIyWdg) and full ver (optional) is [here](https://www.youtube.com/watch?v=T1os88EvPc4&t=0s)
+  -[Flow chart symbols by Robert L. Oakman](http://www.wiley.com/college/busin/icmis/oakman/outline/chap05/slides/symbols.htm)
+  -[Flow chart examples by Richa](https://blog.udemy.com/flowchart-examples/) 
 - **Peer-tutoring: Group 7 / Respondents: Group 8, Topic: Your coding challenge**
   - Feel free to suggest your own coding challenge
   - Provide sample and creative code
-- **Weekly mini ex8: due week 16, Monday night | Flow Chart** 
-  - check mini_ex folder > mini_ex9.md
+- **Weekly mini ex10: due week 16, Monday night | Flow Chart** 
+  - check mini_ex folder > mini_ex10.md
+---
+#### Class 11 | Week 16 | 17 Apr 2018: Machine Learning and Prediction
+##### Wed tutorial session and NO Fri shutup and code session.
+-**Class Structure**
+  - What is Machine Learning? 
+  - Introducing ML's js library
+  - Discussion of students' project
+- **Peer-tutoring: Group 8 / Respondents: Group 9, Topic: Node.js**
+  - What is node.js? 
+  - Experiment 1 or 2 npm (package manager) and walkthrough with the class? 
+- **Peer-tutoring: Group 9 / Respondents: Group 1, Topic: coding challenge**
+  - Feel free to suggest your own coding challenge
+  - Provide sample and creative code
+- **Suggested reading/video**
+  - [ConvNetJS: Deep Learning in your browser](https://cs.stanford.edu/people/karpathy/convnetjs/)
+  - [20 mins video - A Return to Machine Learning by Kyle McDonald](https://www.youtube.com/watch?v=POrPIABj2MI)
+- **Weekly mini ex11: due week 17, Monday mid-night | Draft of synopsis**
+  - check mini_ex folder > mini_ex11.md
+---
+#### Class 12 | Week 17 | 24 Apr 2018: Group supervision
+##### Wed tutorial session and NO Fri shutup and code session.
+- Details will follow soon
+---
+#### Week 18 | NO CLASS, FINAL PROJECT PREPARATION
+##### Wed tutorial session and NO Fri shutup and code session.
+---
+#### Class 13 | Week 19 | 8 May 2018: FINAL PROJECT PRESENTATION + ORAL EXAM + EVALUATION
+##### NO Wed tutorial session and NO Fri shutup and code session.
+- Details will follow soon
