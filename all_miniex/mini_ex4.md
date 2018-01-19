@@ -15,7 +15,8 @@
 - A screenshot of your program
 - A URL link to your program and run on a browser, see: https://rawgit.com/.
 - Try to use the concept of cybernetics to describe your work both conceptually and technically. 
-5. Provide peer-feedback to 2 of your classmates on their works by creating "issues" on his/her github corresponding repository. Write with the issue title "Feedback on mini_ex(?) by (YOUR FULL NAME)"
+5. Can you mention and discuss one of the experiences of cybernetics in digital culture?
+6. Provide peer-feedback to 2 of your classmates on their works by creating "issues" on his/her github corresponding repository. Write with the issue title "Feedback on mini_ex(?) by (YOUR FULL NAME)"
 
 NB!: Feel Free to explore and experiment more syntax/data input devices.
 
