@@ -112,7 +112,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - How to incorporate sound and video in your sketch?
   - Your sample and creative code
 - **Read/Watch before class:** 
-  - Noll, A. Michael. "[The digital computer as a creative medium.](http://noll.uscannenberg.org/Art%20Papers/Creative%20Medium.pdf) *IEEE Spectr*. 4, 10 (October 1967), 89-95.
+  - Shanken, Edward A. ["From Cybernetics to Telematics."](https://issuu.com/xixkoo/docs/91723085-from-cybernetics-to-telema) *Telematic Embrace: Visionary Theories of Art, Technology, and Consciousness.* Eds. Edward A. S. University of Carlifornia Press, 2003. 18-51. (start with CYBERNETICS) 
   - [p5.js examples - Interactivity 1](https://p5js.org/examples/hello-p5-interactivity-1.html)
   - [p5.js examples - Interactivity 2](https://p5js.org/examples/hello-p5-interactivity-2.html)
   - [p5.dom library reference](https://p5js.org/reference/#/libraries/p5.dom)
