@@ -18,7 +18,7 @@
 5. Create a readme file (README.md) and upload to the same mini_ex5 directory (see [this](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for editing the README). The readme file should contain the followings:
 - A screenshot of your program
 - A URL link to your program and run on a browser, see: https://rawgit.com/.
-- Describe how does your game work?
+- Describe how does your game work? (from a user/player perspective)
 - Describe how you use your objects and their related attributes and methods in your game.
 - Extend your game project to wider digital culture context, can you think of a digital example and describe how complex details and operations are being abstracted?  
 6. Provide peer-feedback to 2 of your classmates on their works by creating "issues" on his/her github corresponding repository. Write with the issue title "Feedback on mini_ex(?) by (YOUR FULL NAME)"
