@@ -212,6 +212,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 #### Class 10 | Week 15 | 13 Apr 2018 (FRI): Algorithms + Guest lecture by Anders Visti
 **NO CLASS ON TUE. The class is changed from 10 Apr to 13 Apr 2018!!!** 
 **Wed tutorial session**
+
 -**Class Structure**
  - Start at 12.00
  - Peer-tutoring 
