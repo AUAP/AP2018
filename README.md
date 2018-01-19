@@ -231,7 +231,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 ---
 #### Class 11 | Week 16 | 17 Apr 2018: Machine Learning and Prediction
 ##### Wed tutorial session and NO Fri shutup and code session.
--**Class Structure**
+- **Class Structure**
   - What is Machine Learning? 
   - Introducing ML's js library
   - Discussion on students' project
