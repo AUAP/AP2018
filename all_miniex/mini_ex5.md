@@ -14,6 +14,7 @@
   - [p5.play library - examples, Pong](http://p5play.molleindustria.org/examples/index.html?fileName=pong.js)
   - [p5.play library - examples, Asteroid](http://p5play.molleindustria.org/examples/index.html?fileName=asteroids.js)
   - [p5.play library - examples, Breakout](http://p5play.molleindustria.org/examples/index.html?fileName=breakout.js)
+- [Characterror: 90 second time challenge demo](http://characterror.decontextualize.com/) by Allison Parrish
 4. Upload your game to your own Github account under a folder called **mini_ex5**. (Make sure your program can be run on a web browser, and if it requires downloading other library or other devices, please specify in your readme file) 
 5. Create a readme file (README.md) and upload to the same mini_ex5 directory (see [this](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for editing the README). The readme file should contain the followings:
 - A screenshot of your program
