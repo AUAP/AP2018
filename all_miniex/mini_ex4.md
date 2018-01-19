@@ -22,6 +22,6 @@ NB!: Feel Free to explore and experiment more syntax/data input devices.
 
 **What is peer-feedback?**
 1. First you describe what is the work, what are the elements in the work? like what you have seen, what you have experienced and what syntax he/she has used.
-2. What is the emphasis? What does the work express? What does this work say or mean to you? How would you interpretate the work?
+2. What is the emphasis? What does the work express? What does this work say or mean to you? How would you interprete the work?
 3. Do you like this program, and Why? and which aspect do you like the most? 
 4. Provide suggestion for improvement or expansion of the program/thoughts
