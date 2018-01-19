@@ -185,7 +185,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - check mini_ex folder > mini_ex7.md
  ---
  #### Class 08 | Week 12 | 22 Mar 2018 (FRI): Guest Lecture by Nick Montfort
- -**Class Structure**
+ - **Class Structure**
   - Start at 12.00
   - First hr: Revisit basic coding
   - Second hr: Guest Lecture. Details will follow soon 
