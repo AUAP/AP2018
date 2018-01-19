@@ -43,8 +43,8 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - #5, research values | #12, Calculating Life | [Exhibition: Territories of Complicity](https://2018.transmediale.de/program/exhibition)
 - **Read/Watch:** 
   - [1 hr video lecture](https://www.youtube.com/watch?v=C2Pq4N-iE4I): Computational Thinking and Thinking About Computing by Jeannette M. Wing (2009)
-  - Montfort, Nick. *Exploratory Programming For the Arts and Humanities*. MIT Press, 2016. (check blackboard - Appendix A: Why Program?)
-  - Vee, Annette. *Coding Literacty: How Computer Programming Is Changing Writing*. MIT Press, 2017. (Check blackboard - Introduction: Computer Programming as Literacy)
+  - Montfort, Nick. *Exploratory Programming For the Arts and Humanities*. MIT Press, 2016. 267-277 (check blackboard - Appendix A: Why Program?)
+  - Vee, Annette. *Coding Literacty: How Computer Programming Is Changing Writing*. MIT Press, 2017.43-93 (Check blackboard - 1 Coding for Everyone and the Legacy of Mass Literacy)
 - **Thinking line:**
   - Why do you think you need to know programming? Why is it important to know programming in the area of digital design?
 ---
