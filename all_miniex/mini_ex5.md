@@ -1,7 +1,7 @@
 # Weekly mini ex5: due week 11, Monday night - Games with objects
 
 **Objective:**
-- To implement objects via designing objects and behaviors. 
+- To implement an object-oriented game via designing objects and behaviors. 
 - To reflect upon objects in the domain of digital culture.
 
 **Tasks:**
