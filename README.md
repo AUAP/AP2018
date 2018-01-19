@@ -286,6 +286,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 - It is mandatory to submit weekly mini exercises and to provide feedback to your peers. Those who fails to do any of them may incur a penalty of absence in one class. 
 
 ## Peer tutoring/ respondents format
+
 -  Within 20 mins presentation (peer tutoring)
   - Technical understanding (provide sample code)
   - Teaching (able to describe/speak about code with your language)
