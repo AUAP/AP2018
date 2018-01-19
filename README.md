@@ -257,5 +257,5 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 ---
 #### Class 13 | Week 19 | 11 May 2018: FINAL PROJECT PRESENTATION + ORAL EXAM + EVALUATION
 **NO CLASS ON TUE. The class is changed from 8 May to 11 May 2018!!!** 
-##### NO Wed tutorial session
+**NO Wed tutorial session**
 - Details will follow soon, and it would be a rather long day.
