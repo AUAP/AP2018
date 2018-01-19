@@ -104,10 +104,9 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 #### Class 04 | Week 9 | 27 Feb 2018: Feedback (loops)
 ##### Wed tutorial session and Fri shutup and code session.
 - **Class structure:**
-  - Interactivity: Mouse, Audio, Web Camera
+  - Interactivity: Mouse, Keyboard, Audio, Web Camera
   - Buttons/Form objects
   - Cybernetics: control and regulation
-  - In-class ex: Decoding logics
 - **Peer-tutoring: Group 2 / Respondents: Group 3, Topic: Conditions with sound and video files**
   - How to incorporate sound and video in your sketch?
   - Your sample and creative code
@@ -119,5 +118,25 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - [p5.js video tutorial: slider dance by Daniel Shiffman](https://www.youtube.com/watch?v=CMsD3IigG7g)
 - **Suggested reading/video**
   - playlist: [HTML/CSS/DOM- p5.js Tutorial by Daniel Shiffman](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX)
-- **Weekly mini ex4: due week 10, Monday night | ?** 
+- **Weekly mini ex4: due week 10, Monday night | Feedback loops** 
+  - check mini_ex folder > mini_ex4.md
+---
+#### Class 05 | Week 10 | 6 Mar 2018: Object-oriented Programming
+##### Wed tutorial session and Fri shutup and code session.
+- **Class structure:**
+  - Objects, Behaviors and Arguments
+- **Peer-tutoring: Group 3 / Respondents: Group 4, Topic: p5.dom library**
+  - How to import and use p5.dom library in your sketch?
+  - What is the benefits of using p5.dom objects?
+  - Provide sample and creative code
+- **Read/Watch before class:** 
+  - [Short p5.js video by Daniel Shiffman](https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) (watch 2.3, 6.1, 6.2, 6.3, 7.1, 7.2, 7.3)
+  - [p5.js examples - Objects](https://p5js.org/examples/objects-objects.html)
+  - [p5.js examples - Array of Objects](https://p5js.org/examples/objects-array-of-objects.html)
+  - Lee, Roger Y. *Software Engineering: A Hands-On Approach*. Springer, 2013. 17-38 (Check Blackboard - ch. 2 Object-Oriented concepts)
+- **Suggested reading/video**
+  - Crutzen, Cecile and Kotkamp Erna. Object Orientation. Software Studies\a lexicon. Eds Matthew F. MIT Press, 2008. 200-207
+  - Black, Andrew P. [Object-oriented Programming: some history, and challenges for the next fifty years](https://arxiv.org/abs/1303.0427). 2013.
+  - Dahl, Ole-Johan. [The Birth of Object Orientation: the Simula Languages](https://link.springer.com/chapter/10.1007/978-3-540-39993-3_3). *Object-Orientation to Formal Methods*. Eds. Owe O., Krogdahl S., Lyche T. Lecture Notes in Computer Science, vol 2635. Springer, Berlin, Heidelberg . 2004.
+- **Weekly mini ex4: due week 10, Monday night | Feedback loops** 
   - check mini_ex folder > mini_ex4.md
