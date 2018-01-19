@@ -159,9 +159,9 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 - **Suggested reading/video**
   - [Matrix Digital Rain video tutorial by Emily Xie](https://www.youtube.com/watch?v=S1TQCi9axzg)
   - [Raley, Rita]. [Interferences:[Net.Writing] and the Practice of Codework](http://www.electronicbookreview.com/thread/electropoetics/net.writing). *electronic book review*, 2002.
-- **Weekly mini ex6: due week 11, Monday night | e-literature** 
+- **Weekly mini ex6: due week 12, Monday night | e-literature** 
   - check mini_ex folder > mini_ex6.md
- ---
+---
 #### Class 07 | Week 12 | 20 Mar 2018: Generativity
 ##### Wed tutorial session and NO Fri shutup and code session.
 - **Class structure:**
@@ -173,13 +173,41 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - What is the benefits of using p5.dom objects?
   - Provide sample and creative code
 - **Read/Watch before class:** 
-  - Soon, Winnie. Executing Liveness. PhD dissertation. Aarhus University, 2016. xx-xx
-  - 
+  - Soon, Winnie. Executing Liveness. PhD dissertation. Aarhus University, 2016. 82-90
+  - [1 hr video] [Beautiful Rules: Generative models of creativity](https://vimeo.com/26594644) (2007) by Marius Watz
 - **Suggested reading/video**
   - [The Recode Project](http://recodeproject.com/)
   - Galanter, Philip. "[Generative Art Theory](http://cmuems.com/2016/60212/resources/galanter_generative.pdf)". *A Companion to Digital Art*. Eds. Christiane P, 2016. 
   - [6 mins Video] [How to Draw with Code](https://www.youtube.com/watch?v=_8DMEHxOLQE) by Casey Reas
   - [p5.js Coding Challenge #14: Fractal Trees - Recursive by Daniel Shiffman](https://www.youtube.com/watch?v=0jjeOYMjmDU)
-- **Weekly mini ex6: due week 11, Monday night | Generative Art** 
-  - check mini_ex folder > mini_ex6.md
+  - [p5.js Coding Challenge #76: Recursion by Daniel Shiffman](https://www.youtube.com/watch?v=jPsZwrV9ld0)
+- **Weekly mini ex7: due week 14, Monday night | Generative Art** 
+  - check mini_ex folder > mini_ex7.md
+ ---
+ #### Class 07.5 | Week 12 | 22 Mar 2018: Guest Lecture by Nick Montfort
+ Details will follow soon
+ ---
+ #### Week 13, no class due to Easter Holiday
+ ---
+#### Class 08 | Week 14 | 20 Mar 2018: Generativity
+##### Wed tutorial session and NO Fri shutup and code session.
+- **Class structure:**
+  - Randomness, loops and rules
+  - In-class ex: 10 print
+  - Introduce the final code project
+- **Peer-tutoring: Group 5 / Respondents: Group 6, Topic: p5.dom libary**
+  - How to import and use p5.dom library in your sketch?
+  - What is the benefits of using p5.dom objects?
+  - Provide sample and creative code
+- **Read/Watch before class:** 
+  - Soon, Winnie. Executing Liveness. PhD dissertation. Aarhus University, 2016. 82-90
+  - [1 hr video] [Beautiful Rules: Generative models of creativity](https://vimeo.com/26594644) (2007) by Marius Watz
+- **Suggested reading/video**
+  - [The Recode Project](http://recodeproject.com/)
+  - Galanter, Philip. "[Generative Art Theory](http://cmuems.com/2016/60212/resources/galanter_generative.pdf)". *A Companion to Digital Art*. Eds. Christiane P, 2016. 
+  - [6 mins Video] [How to Draw with Code](https://www.youtube.com/watch?v=_8DMEHxOLQE) by Casey Reas
+  - [p5.js Coding Challenge #14: Fractal Trees - Recursive by Daniel Shiffman](https://www.youtube.com/watch?v=0jjeOYMjmDU)
+  - [p5.js Coding Challenge #76: Recursion by Daniel Shiffman](https://www.youtube.com/watch?v=jPsZwrV9ld0)
+- **Weekly mini ex7: due week 14, Monday night | Generative Art** 
+  - check mini_ex folder > mini_ex7.md
 
