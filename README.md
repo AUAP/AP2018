@@ -165,19 +165,19 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 #### Class 07 | Week 12 | 20 Mar 2018: Generativity
 ##### Wed tutorial session and NO Fri shutup and code session.
 - **Class structure:**
-  - 10 print
-  - Codework
-  - Mid-way evaluation
+  - Randomness, loops and rules
+  - In-class ex: 10 print
+  - Introduce the final code project
 - **Peer-tutoring: Group 5 / Respondents: Group 6, Topic: p5.dom libary**
-  - How to import and use p5.domlibrary in your sketch?
+  - How to import and use p5.dom library in your sketch?
   - What is the benefits of using p5.dom objects?
   - Provide sample and creative code
 - **Read/Watch before class:** 
-  - Soon, Winnie. Executing Liveness. PhD dissertation. Aarhus University, 2017. xx-xx
+  - Soon, Winnie. Executing Liveness. PhD dissertation. Aarhus University, 2016. xx-xx
   - 
 - **Suggested reading/video**
   - [The Recode Project](http://recodeproject.com/)
-  - Galanter, Philip. [Generative Art Theory](http://cmuems.com/2016/60212/resources/galanter_generative.pdf). 2016. 
+  - Galanter, Philip. "[Generative Art Theory](http://cmuems.com/2016/60212/resources/galanter_generative.pdf)". *A Companion to Digital Art*. Eds. Christiane P, 2016. 
   - [6 mins Video] [How to Draw with Code](https://www.youtube.com/watch?v=_8DMEHxOLQE) by Casey Reas
   - [p5.js Coding Challenge #14: Fractal Trees - Recursive by Daniel Shiffman](https://www.youtube.com/watch?v=0jjeOYMjmDU)
 - **Weekly mini ex6: due week 11, Monday night | Generative Art** 
