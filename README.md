@@ -189,7 +189,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - Start at 12.00
   - First hr: Revisit basic coding
   - Second hr: Guest Lecture. Details will follow soon 
- ---
+---
  #### Week 13, no class due to Easter Holiday
  ##### No Wed tutorial session and NO Fri shutup and code session.
  ---
