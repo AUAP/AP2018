@@ -288,11 +288,10 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 ## Peer tutoring/ respondents format
 
 -  Within 20 mins presentation (peer tutoring)
-  - Technical understanding (provide sample code)
-  - Teaching (able to describe/speak about code with your language)
-  - Articulation (able to apply and elaborate on how you do it, your process)
-  - Send your slides to the respondents a day before the class. i.e on Monday.
-
+    - Technical understanding (provide sample code)
+    - Teaching (able to describe/speak about code with your language)
+    - Articulation (able to apply and elaborate on how you do it, your process)
+    - Send your slides to the respondents a day before the class. i.e on Monday.
 - Within 10 mins response by respondents (feedback and ask questions)
   - Demonstrate your understanding of the assigned theme
   - Set some questions in mind and lead the discussion
