@@ -13,6 +13,7 @@
 - [e-lit collection3](http://collection.eliterature.org/3/)
 - [Digital Poetry by David Jhave Johnston](http://glia.ca/)
 - [Poems by Ian Hatcher](http://ianhatcher.net/#!/poems)
+- [Rita library](http://rednoise.org/rita/) by Daniel Howe (you need to make sure you have time to experiment with the library)
 3. Design and Develop an electronic literature (it can be something very simple as long as you use text as the main medium)
 4. Upload your e-lit to your own Github account under a folder called **mini_ex6**. (Make sure your program can be run on a web browser, and if it requires downloading other library or other devices, please specify in your readme file) 
 5. Create a readme file (README.md) and upload to the same mini_ex6 directory (see [this](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for editing the README). The readme file should contain the followings:
