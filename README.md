@@ -149,11 +149,17 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - Codework
   - Mid-way evaluation
 - **Peer-tutoring: Group 4 / Respondents: Group 5, Topic: JSON**
-  - 
+  - What is JSON? How to use JSON?
+  - Why is it important to know JSON or Why JSON is so popular?
+  - How may we understand data processing through JSON?
+  - sample and creative code
 - **Read/Watch before class:** 
-  - 
+  - Cox, Geoff and McLean, Alex. Speaking Code. MIT Press, 2013. 17-38. (check blackboard - ch.1 Vocable Code)
+  - [p5.js reference - Typography](https://p5js.org/reference/#group-Typography) (All functions within Typography category)
+  - [Text and type by Allison Parrish](https://creative-coding.decontextualize.com/text-and-type/)
 - **Suggested reading/video**
-  - 
+  - [Matrix Digital Rain video tutorial by Emily Xie](https://www.youtube.com/watch?v=S1TQCi9axzg)
+  - [Raley, Rita]. [Interferences:[Net.Writing] and the Practice of Codework](http://www.electronicbookreview.com/thread/electropoetics/net.writing). *electronic book review*, 2002.
 - **Weekly mini ex6: due week 11, Monday night | e-literature** 
   - check mini_ex folder > mini_ex6.md
 
