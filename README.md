@@ -112,7 +112,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - How to incorporate sound and video in your sketch?
   - Your sample and creative code
 - **Read/Watch before class:** 
-  -  Noll, A. Michael. "T[he digital computer as a creative medium.](http://noll.uscannenberg.org/Art%20Papers/Creative%20Medium.pdf)" *IEEE Spectrum*. 1967.
+  - Noll, A. Michael. "[The digital computer as a creative medium.](http://noll.uscannenberg.org/Art%20Papers/Creative%20Medium.pdf) *IEEE Spectr*. 4, 10 (October 1967), 89-95.
   - [p5.js examples - Interactivity 1](https://p5js.org/examples/hello-p5-interactivity-1.html)
   - [p5.js examples - Interactivity 2](https://p5js.org/examples/hello-p5-interactivity-2.html)
   - [p5.dom library reference](https://p5js.org/reference/#/libraries/p5.dom)
