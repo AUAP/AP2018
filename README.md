@@ -125,9 +125,8 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 ##### Wed tutorial session and Fri shutup and code session.
 - **Class structure:**
   - Objects, Behaviors and Arguments
-- **Peer-tutoring: Group 3 / Respondents: Group 4, Topic: p5.dom library**
-  - How to import and use p5.dom library in your sketch?
-  - What is the benefits of using p5.dom objects?
+- **Peer-tutoring: Group 3 / Respondents: Group 4, Topic: p5.play library**
+  - How to import and use p5.play library in your sketch?
   - Provide sample and creative code
 - **Read/Watch before class:** 
   - [Short p5.js video by Daniel Shiffman](https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) (watch 2.3, 6.1, 6.2, 6.3, 7.1, 7.2, 7.3)
@@ -161,5 +160,26 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - [Matrix Digital Rain video tutorial by Emily Xie](https://www.youtube.com/watch?v=S1TQCi9axzg)
   - [Raley, Rita]. [Interferences:[Net.Writing] and the Practice of Codework](http://www.electronicbookreview.com/thread/electropoetics/net.writing). *electronic book review*, 2002.
 - **Weekly mini ex6: due week 11, Monday night | e-literature** 
+  - check mini_ex folder > mini_ex6.md
+ ---
+#### Class 07 | Week 12 | 20 Mar 2018: Generativity
+##### Wed tutorial session and NO Fri shutup and code session.
+- **Class structure:**
+  - 10 print
+  - Codework
+  - Mid-way evaluation
+- **Peer-tutoring: Group 5 / Respondents: Group 6, Topic: p5.dom libary**
+  - How to import and use p5.domlibrary in your sketch?
+  - What is the benefits of using p5.dom objects?
+  - Provide sample and creative code
+- **Read/Watch before class:** 
+  - Soon, Winnie. Executing Liveness. PhD dissertation. Aarhus University, 2017. xx-xx
+  - 
+- **Suggested reading/video**
+  - [The Recode Project](http://recodeproject.com/)
+  - Galanter, Philip. [Generative Art Theory](http://cmuems.com/2016/60212/resources/galanter_generative.pdf). 2016. 
+  - [6 mins Video] [How to Draw with Code](https://www.youtube.com/watch?v=_8DMEHxOLQE) by Casey Reas
+  - [p5.js Coding Challenge #14: Fractal Trees - Recursive by Daniel Shiffman](https://www.youtube.com/watch?v=0jjeOYMjmDU)
+- **Weekly mini ex6: due week 11, Monday night | Generative Art** 
   - check mini_ex folder > mini_ex6.md
 
