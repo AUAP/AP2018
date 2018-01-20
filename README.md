@@ -170,7 +170,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - Introduce the final code project
 - **Peer-tutoring: Group 5 / Respondents: Group 6, Topic: p5.dom libary**
   - How to import and use p5.dom library in your sketch?
-  - What is the benefits of using p5.dom objects?
+  - What are the benefits of using p5.dom objects?
   - Provide sample and creative code
 - **Read/Watch before class:** 
   - Soon, Winnie. Executing Liveness. PhD dissertation. Aarhus University, 2016. 82-90  (session on Generativity)
