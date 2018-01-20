@@ -1,4 +1,5 @@
 [The concept of git in command line and github](http://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
+[Git Tutorial - for command line users](https://try.github.io/levels/1/challenges/1)
 - [Install git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 - Setup git 1: prepare a working directory, then type 
   ```
