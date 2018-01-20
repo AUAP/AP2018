@@ -186,9 +186,8 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
  ---
  #### Class 08 | Week 12 | 22 Mar 2018 (FRI): Guest Lecture by Nick Montfort
  - **Class Structure**
-  - Start at 12.00
-  - First hr: Revisit basic coding
-  - Second hr: Guest Lecture. Details will follow soon 
+  - 11.00-12.30: Revisit the basic coding (no new stuff)
+  - 14.00-16.00: Guest Lecture. Details will follow soon 
 ---
  #### Week 13, no class due to Easter Holiday
  ##### No Wed tutorial session and NO Fri shutup and code session.
@@ -216,10 +215,11 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 ##### NO CLASS ON TUE. The class is changed from 10 Apr to 13 Apr 2018!!!
 ##### Wed WITH tutorial session
 - **Class Structure**
-  - Start at 12.00
-  - Peer-tutoring 
-  - Flow chart and Algorithms
-  - Guest Lecture (14.00). Details will follow soon 
+  - 11.00-12.30
+    - Peer-tutoring 
+    - Flow chart and Algorithms
+  - 14.00-16.00
+    - Guest Lecture by Anders Visti. Details will follow soon 
 - **Read/watch before class**
   - [4 mins video: Algorithms in pseudocode and flow diagrams](https://www.youtube.com/watch?v=XDWw4Ltfy5w)
   - [18 mins video: Algorithms in BBC](https://www.youtube.com/watch?v=gOKVwRIyWdg) and full ver (optional) is [here](https://www.youtube.com/watch?v=T1os88EvPc4&t=0s)
