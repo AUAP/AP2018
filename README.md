@@ -231,7 +231,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 - **Weekly mini ex10: due week 16, Monday night | Flow Chart** 
   - check mini_ex folder > mini_ex10.md
 ---
-#### Class 11 | Week 16 | 17 Apr 2018: Machine Learning and Prediction
+#### Class 11 | Week 16 | 17 Apr 2018: Advanced topics: Machine Learning and Prediction
 ##### Wed tutorial session and NO Fri shutup and code session.
 - **Class Structure**
   - What is Machine Learning? 
