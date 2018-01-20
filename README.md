@@ -16,7 +16,7 @@ class detail: Groups in [etherpad](https://etherpad.net/p/ap2018)
 The course is designed to complement the parallel course in SOFTWARE STUDIES where further critical work will be developed and expanded but without losing sight of coding as critical work in itself. Examples of artists and designers will be introduced that work with coding as their expressive material.   
 
 ## TASKS:   
-1. Weekly mini exercises (mostly individual with few group work) + peer feedback 
+1. Weekly mini exercises (mostly individual with a few group works) + peer feedback 
 2. Peer-tutoring/Peer-feedback: within 20 mins in-class presentation with respondents 
 3. Active participation in class discussion and exercises
 4. FINAL group project - in the form of a “readme” and a “runme” (software) packaged + in class presentation 
