@@ -289,7 +289,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 
 ## Peer tutoring/ respondents format
 
--  Within 20 mins presentation (peer tutoring)
+-  Within 15-20 mins presentation (peer tutoring)
     - Technical understanding (provide sample code)
     - Teaching (able to describe/speak about code with your language)
     - Articulation (able to apply and elaborate on how you do it, your process)
