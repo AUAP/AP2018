@@ -173,7 +173,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - What is the benefits of using p5.dom objects?
   - Provide sample and creative code
 - **Read/Watch before class:** 
-  - Soon, Winnie. Executing Liveness. PhD dissertation. Aarhus University, 2016. 82-90
+  - Soon, Winnie. Executing Liveness. PhD dissertation. Aarhus University, 2016. 82-90  (session on Generativity)
   - [1 hr video] [Beautiful Rules: Generative models of creativity](https://vimeo.com/26594644) (2007) by Marius Watz
 - **Suggested reading/video**
   - [The Recode Project](http://recodeproject.com/)
