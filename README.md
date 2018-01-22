@@ -2,7 +2,7 @@
 **Course title:** Aesthetic Programming (20 ECTS), 2018  
 **Name:** Winnie Soon (wsoon@cc.au.dk)  
 **Time:** Every Tue 0800 – 1100 (3 hours)  
-**Location:** 5361-144
+**Location:** 5361-144 unless otherwise stated
 
 !NB:<br>
 **Tutorial:** Every Wed 14.00-16.00 @ 5361-144 or 5361-135, conducted by Ann Karring and Nynne Lucca Christiansen
@@ -186,12 +186,12 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
  ---
  #### Class 08 | Week 12 | 22 Mar 2018 (FRI): Guest Lecture by Nick Montfort
  - **Class Structure**
-  - 11.00-12.30: Revisit the basic coding (no new stuff)
-  - 14.00-16.00: Guest Lecture. Details will follow soon 
+  - 11.00-12.30 @ 5361-144: Revisit the basic coding (no new stuff)
+  - 14.00-16.00, venue TBC: Guest Lecture. Details will follow soon 
 ---
  #### Week 13, no class due to Easter Holiday
  ##### No Wed tutorial session and NO Fri shutup and code session.
- ---
+---
 #### Class 09 | Week 14 | 3 Apr 2018: API and Datafication
 ##### Wed tutorial session and NO Fri shutup and code session.
 - **Class structure:**
