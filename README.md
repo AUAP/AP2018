@@ -2,7 +2,7 @@
 **Course title:** Aesthetic Programming (20 ECTS), 2018  
 **Name:** Winnie Soon (wsoon@cc.au.dk)  
 **Time:** Every Tue 0800 – 1100 (3 hours)  
-**Location:** 5361-144 unless otherwise stated
+**Location:** 5361-144, unless otherwise stated
 
 !NB:<br>
 **Tutorial:** Every Wed 14.00-16.00 @ 5361-144 or 5361-135, conducted by Ann Karring and Nynne Lucca Christiansen
@@ -300,6 +300,6 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - Set some questions in mind and lead the discussion
 
 ## RULES:
-1. To pass the participation requirement and to enter Exam A, you need to attend at least 75% of the course which means you can only skip maximum 3 classes and 3 tutorials. 
+1. To pass the participation requirement and to enter Exam A, you need to attend at least 75% of the course including guest lectures which means you can only skip maximum 3 classes and 3 tutorials. 
 2. Weekly mini exercises (together with peer-feedback) is part of the course participation, those who fail to submit their work may incur a penalty of absence in one class. 
 
