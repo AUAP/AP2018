@@ -14,7 +14,7 @@
 - A screenshot about your program
 - A URL link to your program and run on a browser, see: https://rawgit.com/
 - Describe your first independent coding process
-- How do you feel about read and write code? What might be the potential and possibilitiby of coding practice?
+- How do you feel about read and write code? What might be the potential and possibility of coding practice?
 7. Provide peer-feedback to 2 of your classmates on their works by creating "issues" on his/her github corresponding repository. Write with the issue title "Feedback on mini_ex(?) by (YOUR FULL NAME)"
 
 NB!: Feel Free to explore and experiment more syntax
