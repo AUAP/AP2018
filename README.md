@@ -40,7 +40,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 ##### No physical class. No tutorial session. No shutup and code session.
 - [Transmediale Festival 2018: Face Value](https://2018.transmediale.de/)
   - Suggested events: [conference curated by Daphne Dragona](https://2018.transmediale.de/program/text/conference)
-  - #5, research values | #12, Calculating Life | [Exhibition: Territories of Complicity](https://2018.transmediale.de/program/exhibition)
+  - [#5, research values](https://2018.transmediale.de/content/research-values) | [#12, Calculating Life](https://2018.transmediale.de/program/event/calculating-life) | [#45, Hard feelings: A conversation on Computation and Affect](https://2018.transmediale.de/program/event/hard-feelings-a-conversation-on-computation-and-affect) | [Exhibition: Territories of Complicity](https://2018.transmediale.de/program/exhibition)
 - **Read/Watch:** 
   - [1 hr video lecture](https://www.youtube.com/watch?v=C2Pq4N-iE4I): Computational Thinking and Thinking About Computing by Jeannette M. Wing (2009)
   - Montfort, Nick. *Exploratory Programming For the Arts and Humanities*. MIT Press, 2016. 267-277 (check blackboard - Appendix A: Why Program?)
