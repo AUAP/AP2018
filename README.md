@@ -186,7 +186,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
  ---
  #### Class 08 | Week 12 | 22 Mar 2018 (FRI): Guest Lecture by Nick Montfort
  - **Class Structure**
-  - 11.00-12.30 @ 5361-144: Revisit the basic coding (no new stuff)
+  - 11.00-12.30 @ 5361-135: Revisit the basic coding (no new stuff)
   - 14.00-16.00, venue TBC: Guest Lecture. Details will follow soon 
 ---
  #### Week 13, no class due to Easter Holiday
