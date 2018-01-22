@@ -211,7 +211,8 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 - **Weekly mini ex9: due week 15, Monday night | Working with APIs** 
   - check mini_ex folder > mini_ex9.md
 ---
-#### Class 10 | Week 15 | 13 Apr 2018 (FRI): Algorithms + Guest lecture by Anders Visti
+#### Class 10 | Week 15 | 13 Apr 2018 (FRI) @ The small Auditorium, Building 5510, INCUBA Science Park
+##### Algorithms + Guest lecture by Anders Visti
 ##### NO CLASS ON TUE. The class is changed from 10 Apr to 13 Apr 2018!!!
 ##### Wed WITH tutorial session
 - **Class Structure**
@@ -256,7 +257,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 #### Week 18 | NO CLASS, FINAL PROJECT PREPARATION
 ##### Wed tutorial session and NO Fri shutup and code session.
 ---
-#### Class 13 | Week 19 | 11 May 2018: FINAL PROJECT PRESENTATION + ORAL EXAM + EVALUATION
+#### Class 13 | Week 19 | 11 May 2018 @ 5361-144: FINAL PROJECT PRESENTATION + ORAL EXAM + EVALUATION
 **NO CLASS ON TUE. The class is changed from 8 May to 11 May 2018!!!** 
 **NO Wed tutorial session**
 - Details will follow soon, and it would be a rather long day.
