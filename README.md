@@ -11,7 +11,7 @@
 class detail: Groups in [etherpad](https://etherpad.net/p/ap2018) 
 
 ## OUTLINE:  
-“Aesthetic Programming” is a practice-oriented course requires no prior programming experience but with an interest in using code to explore the relationship between art, design, technology and culture within the context of software studies. The course introduces computer coding as an aesthetic, creative and critical endeavour beyond its functional application. It explores coding as a practice of reading, writing and building, as well as thinking with and in the world, and understanding the complex computational procedures that underwrite our experiences and realities in digital culture. Through coding practice, students are able to contextualize, conceptualize, articulate, design, build, write and run a piece of software. Emphasis is placed on the student acquiring practical skills of expression through an introduction to programming, and this course uses [P5.js](https://p5js.org/) primarily, which serves as a foundation for further courses on Digital Design.   
+“Aesthetic Programming” is a practice-oriented course requires no prior programming experience but with an interest in using code to explore the relationship between art, design, technology and culture within the context of software studies. The course introduces computer coding as an aesthetic, expressive, creative and critical endeavour beyond its functional application. It explores coding as a practice of reading, writing and building, as well as thinking with and in the world, and understanding the complex computational procedures that underwrite our experiences and realities in digital culture. Through coding practice, students are able to contextualize, conceptualize, articulate, design, build, write and run a piece of software. Emphasis is placed on the student acquiring practical skills of expression through an introduction to programming, and this course uses [P5.js](https://p5js.org/) primarily, which serves as a foundation for further courses on Digital Design.   
   
 The course is designed to complement the parallel course in SOFTWARE STUDIES where further critical work will be developed and expanded but without losing sight of coding as critical work in itself. Examples of artists and designers will be introduced that work with coding as their expressive material.   
 
@@ -29,8 +29,8 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 2. Weekly 4 hours shut up+code or code study group discussion (every Friday 10.00-14.00- Optional in 5361-144)
 
 ## LEARNING OUTCOMES:
-1. Learn basic concepts in computer programming, such as structures, functions, drawing, arrays, conditional statements, objects, and interactivity.
-2. Acquire ability to design, read, write and build/develop computational artefacts.
+1. Learn foundamental concepts in computer programming, such as abstraction, structure, function, iteration, variables and arrays, conditional statements, objects, feedback and interactivity.
+2. Acquire ability to design, read and write processes via computer code and build/develop computational artefacts.
 3. Integrate practical and theoretical skills to articulte and conceptualize computational artefacts.
 4. Recognize coding practice as a way of thinking and inquiry to understand wider cultural systems (computational thinking).
 
