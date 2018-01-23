@@ -159,7 +159,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 - **Suggested reading/video**
   - [Matrix Digital Rain video tutorial by Emily Xie](https://www.youtube.com/watch?v=S1TQCi9axzg)
   - Raley, Rita. [Interferences:[Net.Writing] and the Practice of Codework](http://www.electronicbookreview.com/thread/electropoetics/net.writing). *electronic book review*, 2002.
-  - [Six Selections by the Oulipo](http://itp.nyu.edu/varwiki/uploads/six%20selections%20from%20the%20oulipo). The New Media Reader. Eds. Noah W-F and Nick M. The MIT Press, 2003. 147-189.
+  - [Six Selections by the Oulipo](http://itp.nyu.edu/varwiki/uploads/six%20selections%20from%20the%20oulipo). *The New Media Reader*. Eds. Noah W-F and Nick M. The MIT Press, 2003. 147-189.
 - **Weekly mini ex6: due week 12, Monday night | e-literature** 
   - check mini_ex folder > mini_ex6.md
 ---
