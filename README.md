@@ -118,6 +118,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - [p5.js video tutorial: slider dance by Daniel Shiffman](https://www.youtube.com/watch?v=CMsD3IigG7g)
 - **Suggested reading/video**
   - playlist: [HTML/CSS/DOM- p5.js Tutorial by Daniel Shiffman](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX)
+  - [clmtrackr - Face tracking javascript library](https://github.com/auduno/clmtrackr) by Audun M. Øygard
 - **Weekly mini ex4: due week 10, Monday night | Feedback loops** 
   - check mini_ex folder > mini_ex4.md
 ---
