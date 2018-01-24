@@ -24,5 +24,6 @@ Agenda:
  - Setting up a [Github account](http://www.github.com)
 ## Example showcase
 ## Task for next week
+- Why mini exercises?
 - mini exercise 01 (mini_ex01)
 
