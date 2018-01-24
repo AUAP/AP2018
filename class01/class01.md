@@ -4,12 +4,15 @@ Agenda:
 - Examples
 - Task for next week
 
-## Why do you think you need to know programming? Why is it important to know programming in the area of digital design?
-## What is programming and computational thinking? 
-## Walkthrough the syllabus 
+## Intro
+- Why do you think you need to know programming? Why is it important to know programming in the area of digital design?
+- What is programming and computational thinking? 
+- Walkthrough the syllabus 
 - forming groups
-## What is javascript and p5.js? 
-## Setting up 
-## Next week mini exercise (mini_ex01)
+## Setting up
+- What is javascript and p5.js? 
+- Setting up 
 ## Example showcase
+## Task for next week
+- mini exercise 01 (mini_ex01)
 
