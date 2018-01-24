@@ -11,11 +11,11 @@ Agenda:
 - forming groups
 ## Setting up
 - What is javascript and p5.js? 
-- Setting up the coding environment
+- Setting up the coding environent
   - Download the complete [p5.js library](https://p5js.org/download/)
   - A web Browser (suggest Firefox), how to open the [console window](https://developer.mozilla.org/en-US/docs/Tools/Web_Console/Console_messages) (Tools > Web Developer > Web console)
-  - Code editor - [Atom](https://atom.io/)
- - Setting up a Github account
+  - A Code editor - [Atom](https://atom.io/)
+ - Setting up a [Github account](http://www.github.com)
 ## Example showcase
 ## Task for next week
 - mini exercise 01 (mini_ex01)
