@@ -158,6 +158,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - [p5.js reference - Typography](https://p5js.org/reference/#group-Typography) (All functions within Typography category)
   - [Text and type by Allison Parrish](https://creative-coding.decontextualize.com/text-and-type/)
 - **Suggested reading/video**
+  - Rhee, Margaret. “Reflecting on Robots, Love, and Poetry.” XRDS 24, no. 2 (December 2017): 44–46. (can find in uni's lib)
   - [Matrix Digital Rain video tutorial by Emily Xie](https://www.youtube.com/watch?v=S1TQCi9axzg)
   - Raley, Rita. [Interferences:[Net.Writing] and the Practice of Codework](http://www.electronicbookreview.com/thread/electropoetics/net.writing). *electronic book review*, 2002.
   - Queneau, Ramond, et al. [Six Selections by the Oulipo](http://itp.nyu.edu/varwiki/uploads/six%20selections%20from%20the%20oulipo). *The New Media Reader*. Eds. Noah W-F and Nick M. The MIT Press, 2003. 147-189.
