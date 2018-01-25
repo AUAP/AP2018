@@ -24,7 +24,7 @@ Agenda:
   - Download the complete [p5.js library](https://p5js.org/download/)
   - A web Browser (suggest Firefox), how to open the [console window](https://developer.mozilla.org/en-US/docs/Tools/Web_Console/Console_messages) (Tools > Web Developer > Web console)
   - A Code editor - [Atom](https://atom.io/)
-    - setup [atom-live-server](https://www.youtube.com/watch?v=0Xy3yDDY4IE) >> preference > settings > install > type atom-live-server > install. After the installation, go to menu bar > Packages > atom-live-server > start 
+    - setup [atom-live-server](https://www.youtube.com/watch?v=0Xy3yDDY4IE) for live preview of code modification on a browser | Go to Preference > settings > install > type atom-live-server > install. After the installation, go to menu bar > Packages > atom-live-server > start (or use mac short cut: control + Option + L)
  - Setting up a [Github account](http://www.github.com)
 ## Example showcase
 ## Task for next week
