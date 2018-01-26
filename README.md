@@ -70,15 +70,15 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 - **Class structure:**
   - basic structure: HTML, CSS, JS
   - Coordinate system
-  - Shape drawing
-  - Variable
+  - Shapes drawing
+  - Variables
   - Errors and console.log
   - In-class ex: Grid paper drawing
 - **Read/Watch before class:** 
   - Goriunova, Oga. *Fun and Software: Exploring Pleasure, Paradox and Pain in Computing*. Bloomsbury Academic, 2014. 1-19. (check blackboard - Introduction)
   - [p5.js Simple Shapes](https://p5js.org/examples/hello-p5-simple-shapes.html)
   - [Short p5.js video by Daniel Shiffman](https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)(watch 1.3, 1.4, 2.1, 2.2)
-- **Weekly mini ex2: due week 8, Monday night | Fun drawing** 
+- **Weekly mini ex2: due week 8, Monday night | A fun drawing** 
   - check mini_ex folder > mini_ex2.md
 ---
 #### Class 03 | Week 8 | 20 Feb 2018: Temporality: Infinite loops
@@ -98,7 +98,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - [Short p5.js video by Daniel Shiffman](https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) (watch 3.1, 3.2, 3.3, 3.4, 4.1, 4.2, 5.1, 5.2, 5.3)
   - [for coming mini ex] Soon, Winnie. ["Executing Micro-temporality."](http://www.data-browser.net/pdf/DB06_Executing_Practices.pdf)*Executing Practices*. Eds. Helen P, Eric S and Magda T. C. Autonomedia, 2017. 89-102.
   - [for coming mini ex] Farman, Jason. [Fidget Spinners](http://reallifemag.com/fidget-spinners/). *Real Life*, 2017.
-- **Weekly mini ex3: due week 9, Monday night | Throbber** 
+- **Weekly mini ex3: due week 9, Monday night | Design a Throbber** 
   - check mini_ex folder > mini_ex3.md
 ---
 #### Class 04 | Week 9 | 27 Feb 2018: Interactivity: Feedback (loops)
@@ -119,13 +119,14 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 - **Suggested reading/video**
   - playlist: [HTML/CSS/DOM- p5.js Tutorial by Daniel Shiffman](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX)
   - [clmtrackr - Face tracking javascript library](https://github.com/auduno/clmtrackr) by Audun M. Øygard
-- **Weekly mini ex4: due week 10, Monday night | Feedback loops** 
+- **Weekly mini ex4: due week 10, Monday night | Feedback Machines** 
   - check mini_ex folder > mini_ex4.md
 ---
 #### Class 05 | Week 10 | 6 Mar 2018: Object Orientation
 ##### Wed tutorial session and Fri shutup and code session.
 - **Class structure:**
   - Objects, Behaviors and Arguments
+  - Design/Artwork example: [ToFu Go](http://tofu-go.com/) by Francis Lam | See more [here]()
 - **Peer-tutoring: Group 3 / Respondents: Group 4, Topic: p5.play library**
   - How to import and use p5.play library in your sketch?
   - Provide sample and creative code
