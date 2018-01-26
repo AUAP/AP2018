@@ -181,7 +181,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - Soon, Winnie. Executing Liveness. PhD dissertation. Aarhus University, 2016. 82-90  (session on Generativity)
   - [1 hr video] [Beautiful Rules: Generative models of creativity](https://vimeo.com/26594644) (2007) by Marius Watz
 - **Suggested reading/video**
-  - [The Recode Project](http://recodeproject.com/)
+  - [The Recode Project](http://recodeproject.com/) and [Memory Slam](http://nickm.com/memslam/) by Nick Montfort
   - Galanter, Philip. "[Generative Art Theory](http://cmuems.com/2016/60212/resources/galanter_generative.pdf)". *A Companion to Digital Art*. Eds. Christiane P, 2016. 
   - [6 mins Video] [How to Draw with Code](https://www.youtube.com/watch?v=_8DMEHxOLQE) by Casey Reas
   - [p5.js Coding Challenge #14: Fractal Trees - Recursive by Daniel Shiffman](https://www.youtube.com/watch?v=0jjeOYMjmDU)
