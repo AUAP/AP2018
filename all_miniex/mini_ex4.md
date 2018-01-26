@@ -1,4 +1,4 @@
-# Weekly mini ex4: due week 10, Monday night - feedback loops
+# Weekly mini ex4: due week 10, Monday night - feedback machines
 
 **Objective:**
 - To reflect upon cybernetics in digital culture via the feedback operation of input and output. 
