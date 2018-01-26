@@ -170,7 +170,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 - **Class structure:**
   - Randomness, loops and rules
   - In-class ex: 10 print
-  - Artwork example: [A House of Dust](http://www.zachwhalen.net/pg/dust/) (a simulation of a 1967 poem by Alison Knowles and James Tenney) by Zach Whalen | see more info [here](https://www.centerforthehumanities.org/james-gallery/exhibitions/house-of-dust)
+  - Artwork example: [A House of Dust](http://www.zachwhalen.net/pg/dust/) (a simulation of a 1967 poem by Alison Knowles and James Tenney) by Zach Whalen | see more background info [here](http://www.artbytranslation.org/_pdf/HOUSE_OF_DUST_JOURNAL_25_08_2016_BDEF_PREVIEW.pdf)
   - Introduce the final code project
 - **Peer-tutoring: Group 5 / Respondents: Group 6, Topic: p5.dom libary**
   - How to import and use p5.dom library in your sketch?
