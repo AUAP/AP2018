@@ -1,4 +1,4 @@
-# Weekly mini ex2: due week 8, Monday night - Fun Drawing
+# Weekly mini ex2: due week 8, Monday night - A Fun Drawing
 
 **Objective:**
 - To understand the notion of fun in both practice and theory by drawing upon Goriunova's text. 
