@@ -251,6 +251,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - Provide sample and creative code
 - **Suggested reading/video**
   - [ConvNetJS: Deep Learning in your browser](https://cs.stanford.edu/people/karpathy/convnetjs/)
+  - [p5ML.js](https://itpnyu.github.io/p5-deeplearn-js/)
   - [20 mins video - A Return to Machine Learning by Kyle McDonald](https://www.youtube.com/watch?v=POrPIABj2MI)
 - **Weekly mini ex11: due week 17, Sun night | Draft of synopsis**
   - check mini_ex folder > mini_ex11.md
