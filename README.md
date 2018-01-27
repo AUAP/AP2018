@@ -275,8 +275,13 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 - Daniel Shiffman, Learning Processing: A Beginner’s Guide to Programming Images, Animations, and Interaction, Morgan Kaufmann 2015 (Second Edition)
 -	[Video: Foundations of Programming in Javascript - p5.js Tutorial by Daniel Shiffman](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) 
 
-## OTHER REFERENCES:
+## SKETCH INSPIRATION:
 - [Daily sketch in Processing](https://twitter.com/sasj_nl) by Saskia Freeke
+- [dwitter.net-within 140 characters of JS](https://www.dwitter.net)
+- [zach lieberman](https://twitter.com/zachlieberman)
+- [Creative Coding with Processing and P5.JS](https://www.facebook.com/groups/creativecodingp5/)
+
+## OTHER REFERENCES:
 - [Text and source code: Coding Projects with p5.js by Catherine Leung](https://cathyatseneca.gitbooks.io/coding-projects-with-p5-js/)
 - [Video: Crockford on Javascript (more historical context)](https://www.youtube.com/watch?v=JxAXlJEmNMg&list=PLK2r_jmNshM9o-62zTR2toxyRlzrBsSL2) 
 - [A simple introduction to HTML and CSS](https://sites.google.com/sas.edu.sg/code/learn-to-code)
