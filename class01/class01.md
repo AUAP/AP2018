@@ -16,6 +16,8 @@ Agenda:
     - **Montfort, Nick. Exploratory Programming For the Arts and Humanities. MIT Press, 2016. 267-277** (check blackboard - Appendix A: Why Program?)
     - **Vee, Annette. Coding Literacty: How Computer Programming Is Changing Writing. MIT Press, 2017.43-93** (Check blackboard - 1 Coding for Everyone and the Legacy of Mass Literacy)
 - What is programming and computational thinking? 
+    - Musical instruments: craft / practice / scores 
+    - Drawing Vs Describing 
 - Walkthrough the syllabus 
 - forming groups
 ## Setting up
