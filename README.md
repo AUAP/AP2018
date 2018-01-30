@@ -106,9 +106,10 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 - **Class structure:**
   - Interacting with captured data: Mouse, Keyboard, Audio, Web Camera
   - Capturing and Tracking
-- **Peer-tutoring: Group 2 / Respondents: Group 3, Topic: Conditions with sound and video files**
-  - How to incorporate sound and video in your sketch?
-  - Your sample and creative code
+- **Peer-tutoring: Group 2 / Respondents: Group 3, Topic: p5.dom libary**
+  - How to import and use p5.dom library in your sketch?
+  - What are the benefits of using p5.dom objects?
+  - Provide sample and creative code
 - **Read/Watch before class:** 
   - Gerlitz, Carolin, and Anne Helmond. “The like Economy: Social Buttons and the Data-Intensive Web.” New Media & Society 15, no. 8 (December 1, 2013): 1348–65. (can access via e-library)
   - [p5.js examples - Interactivity 1](https://p5js.org/examples/hello-p5-interactivity-1.html)
@@ -171,12 +172,11 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - In-class ex: 10 print
   - Artwork example: [A House of Dust](http://www.zachwhalen.net/pg/dust/) (a simulation of a 1967 poem by Alison Knowles and James Tenney) by Zach Whalen | see more background info [here](http://www.artbytranslation.org/_pdf/HOUSE_OF_DUST_JOURNAL_25_08_2016_BDEF_PREVIEW.pdf)
   - Introduce the final code project
-- **Peer-tutoring: Group 5 / Respondents: Group 6, Topic: p5.dom libary**
-  - How to import and use p5.dom library in your sketch?
-  - What are the benefits of using p5.dom objects?
-  - Provide sample and creative code
+- **Peer-tutoring: Group 5 / Respondents: Group 6, Topic: Conditions with sound and video files**
+  - How to incorporate sound and video in your sketch?
+  - Your sample and creative code
 - **Read/Watch before class:** 
-  - Soon, Winnie. Executing Liveness. PhD dissertation. Aarhus University, 2016. 82-90  (session on Generativity)
+  - Soon, Winnie. Executing Liveness. PhD dissertation. Aarhus University, 2016. 82-90  (the section on Generativity)
   - [1 hr video] [Beautiful Rules: Generative models of creativity](https://vimeo.com/26594644) (2007) by Marius Watz
 - **Suggested reading/video**
   - [The Recode Project](http://recodeproject.com/) and [Memory Slam](http://nickm.com/memslam/) by Nick Montfort
@@ -195,7 +195,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
  #### Week 13, no class due to Easter Holiday
  ##### No Wed tutorial session and NO Fri shutup and code session.
 ---
-#### Class 09 | Week 14 | 3 Apr 2018: API and Datafication
+#### Class 09 | Week 14 | 3 Apr 2018: Queries and APIs
 ##### Wed tutorial session and NO Fri shutup and code session.
 - **Class structure:**
   - API
