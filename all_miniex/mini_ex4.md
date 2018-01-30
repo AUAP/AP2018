@@ -8,7 +8,7 @@
 1. Make sure you have read the text by Carolin and Anne: 
   - Gerlitz, Carolin, and Anne Helmond. “The like Economy: Social Buttons and the Data-Intensive Web.” New Media & Society 15, no. 8 (December 1, 2013): 1348–65. (can access via e-library)
 2. Experiment various data capturing input and interactive devices, such as audio, mouse, keyboard, web camera, etc.
-3. Develop a sketch that response to the open call "[CAPTURE ALL](https://transmediale.de/content/call-for-works-2015)' from Transmediale 2015 as the guideline for this mini exercise.
+3. Develop a sketch that response loosely to the open call "[CAPTURE ALL](https://transmediale.de/content/call-for-works-2015)' from Transmediale 2015 that acts as the guideline for this mini exercise. (It can be very simple)
 4. Upload your program/result to your own Github account under a folder called mini_ex4. (Make sure your program can be run on a web browser, and if it requires downloading other library or other devices, please specify in your readme file)
 5. Create a readme file (README.md) and upload to the same mini_ex3 directory (see [this](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for editing the README). The readme file should contain the followings:
 - A screenshot of your program
