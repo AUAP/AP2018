@@ -101,21 +101,19 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 - **Weekly mini ex3: due week 9, Monday night | Design a Throbber** 
   - check mini_ex folder > mini_ex3.md
 ---
-#### Class 04 | Week 9 | 27 Feb 2018: Interactivity: Feedback (loops)
+#### Class 04 | Week 9 | 27 Feb 2018: Data capture
 ##### Wed tutorial session and Fri shutup and code session.
 - **Class structure:**
-  - Interactivity: Mouse, Keyboard, Audio, Web Camera
-  - Buttons/Form objects
-  - Cybernetics: control and regulation
+  - Interacting with captured data: Mouse, Keyboard, Audio, Web Camera
+  - Capturing and Tracking
 - **Peer-tutoring: Group 2 / Respondents: Group 3, Topic: Conditions with sound and video files**
   - How to incorporate sound and video in your sketch?
   - Your sample and creative code
 - **Read/Watch before class:** 
-  - [for coming mini ex] Shanken, Edward A. ["From Cybernetics to Telematics."](https://issuu.com/xixkoo/docs/91723085-from-cybernetics-to-telema) *Telematic Embrace: Visionary Theories of Art, Technology, and Consciousness.* Eds. Edward A. S. University of Carlifornia Press, 2003. 18-51. (start with CYBERNETICS) 
+  - Gerlitz, Carolin, and Anne Helmond. “The like Economy: Social Buttons and the Data-Intensive Web.” New Media & Society 15, no. 8 (December 1, 2013): 1348–65. (can access via e-library)
   - [p5.js examples - Interactivity 1](https://p5js.org/examples/hello-p5-interactivity-1.html)
   - [p5.js examples - Interactivity 2](https://p5js.org/examples/hello-p5-interactivity-2.html)
   - [p5.dom library reference](https://p5js.org/reference/#/libraries/p5.dom)
-  - [p5.js video tutorial: slider dance by Daniel Shiffman](https://www.youtube.com/watch?v=CMsD3IigG7g)
 - **Suggested reading/video**
   - playlist: [HTML/CSS/DOM- p5.js Tutorial by Daniel Shiffman](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX)
   - [clmtrackr - Face tracking javascript library](https://github.com/auduno/clmtrackr) by Audun M. Øygard
