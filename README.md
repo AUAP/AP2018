@@ -117,7 +117,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 - **Suggested reading/video**
   - playlist: [HTML/CSS/DOM- p5.js Tutorial by Daniel Shiffman](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX)
   - [clmtrackr - Face tracking javascript library](https://github.com/auduno/clmtrackr) by Audun M. Øygard
-- **Weekly mini ex4: due week 10, Monday night | Feedback Machines** 
+- **Weekly mini ex4: due week 10, Monday night | Capture ALL** 
   - check mini_ex folder > mini_ex4.md
 ---
 #### Class 05 | Week 10 | 6 Mar 2018: Object Orientation
