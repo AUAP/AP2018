@@ -20,12 +20,14 @@ Agenda:
       - What might be computational arts/design? 
     - **Montfort, Nick. Exploratory Programming For the Arts and Humanities. MIT Press, 2016. 267-277** (check blackboard - Appendix A: Why Program?)
         - He is a professor of Digital Media at MIT, and he is also a poet, with a background in liberal arts and computer science. 
-        - Exploratory programming: Using computation for (humanistic) inquiry (not finished stage) p.267-9 
+        - Exploratory programming: Using computation for (humanistic) inquiry (not finished stage) 
             - allows us to think in new ways 
                 - adding to the methods and perspectives and raising new questions
             - offers us a better understanding of culture and media systems, and
                 - twofold: gain a better perspective and learn to develop better cultural systems.
+                - Give insights into, and better analysis of, cultural systems
             - can help us improve society
+                - to create and discover (p. 277)
     - **Vee, Annette. Coding Literacty: How Computer Programming Is Changing Writing. MIT Press, 2017.43-93** (Check blackboard - 1 Coding for Everyone and the Legacy of Mass Literacy)
 - What is programming and computational thinking? 
     - Musical instruments: craft / practice / scores 
