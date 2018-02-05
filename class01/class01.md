@@ -1,3 +1,5 @@
+Sorry, no powerpoint slides but just unstable/messy notes.
+
 Agenda:
 - Intro
 - Setting up
