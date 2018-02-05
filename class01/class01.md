@@ -46,13 +46,14 @@ Agenda:
         - Software becomes commodity separate from hardware
         - Seymour Papert introduced computers as objects to think with and proposed learning through tangible examples and building (cognitive development) p. 79
         - imagination/creativity/expressivity: "literacy is not simply an isolated cognitive skills but instead gains its meaning and power in social interactions." (p. 81)
-- What is programming and computational thinking? 
+- What is programming metaphorically? 
     - Musical instruments: craft / practice / scores 
-    - Drawing Vs Describing 
+    - Drawing a picture Vs Describing a picture algorithmically. (A concept by Frieder Nake) 
 - Walkthrough the syllabus 
-- forming groups
+- Forming groups and peer-tutoring
 ## Setting up
-- What is javascript and p5.js? 
+- What is [javascript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript) and [p5.js](https://p5js.org/)? 
+- Why we learn p5.js? 
 - Setting up the coding environent
   - Download the complete [p5.js library](https://p5js.org/download/) > unzip it (create your working folder, I recommend desktop)
   - A web Browser (suggest Firefox), how to open the [console window](https://developer.mozilla.org/en-US/docs/Tools/Web_Console/Console_messages) (Tools > Web Developer > Web console)
@@ -70,4 +71,5 @@ Agenda:
 ## Task for next week
 - Why mini exercises?
 - mini exercise 01 (mini_ex01)
+- Register a github account, and form a group, and put your name + github URL into the [etherpad](https://etherpad.net/p/ap2018)
 
