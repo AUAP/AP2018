@@ -42,7 +42,7 @@ Agenda:
         - The rise of sharing and adaptable computational culture (p. 67) via the [People's Computer Company](http://www.digibarn.com/collections/newsletters/peoples-computer/index.html) in the 70s > free and open source
         <img src="http://www.digibarn.com/collections/newsletters/peoples-computer/peoples-1972-oct/1972-10-PCC-cover-medium.jpg" align="middle" width="450">
         <p>
-    .......image src: [DigiBarn Computer Museum](http://www.digibarn.com/collections/newsletters/peoples-computer/peoples-1972-oct/index.html)
+    .......image src: [DigiBarn Computer Museum](http://www.digibarn.com/collections/newsletters/peoples-computer/peoples-1972-oct/index.html)</p>
         - Hobbyist culture + cheap/home computers in the 80s (p. 71) + computers as tools  > education > problems of only focusing the 'use' of computers
         - Software becomes commodity separate from hardware
         - Seymour Papert introduced computers as objects to think with and proposed learning through tangible examples and building (cognitive development) p. 79
