@@ -1,6 +1,14 @@
 ##### [Mark down cheatsheet - files with .md](https://guides.github.com/features/mastering-markdown/)
+
+##### Video: What is Git? (Git-SCM) • Git Basics [#1](https://www.youtube.com/watch?v=8oRjP8yj2Wo&list=PLg7s6cbtAD165JTRsXh8ofwRw0PqUnkVH) [#2](https://www.youtube.com/watch?v=uhtzxPU7Bz0&index=2&list=PLg7s6cbtAD165JTRsXh8ofwRw0PqUnkVH)
+
 ##### [The concept of git in command line and github](http://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
+
 ##### [Git Tutorial - for command line users](https://try.github.io/levels/1/challenges/1)
+
+
+##### Detailed command line
+
 - [Install git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 - Setup git 1: prepare a working directory, then type 
   ```
