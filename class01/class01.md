@@ -67,6 +67,10 @@ image src: [mozilla](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/F
     - try to change some parameters in the sketch.js file, press save. (make sure the atom-live-server has started)
     - you should see the code is executed and something will display on your browser
  - Setting up a [Github account](http://www.github.com)
+    - The concept of git
+    - Using the web github interface (repository, Fork, Clone/Download, Create/Upload files, [Markdown](https://guides.github.com/features/mastering-markdown/))
+    - For more advanced git users [here](https://github.com/AUAP/AP2018/blob/master/gitRef.md) 
+    
 ## Showcase of critical works
 - [CO2GLE](http://www.janavirgin.com/CO2/CO2GLE_about.html) and [DEFOOOOOOOOOOOOOOOOOOOOOREST](http://www.janavirgin.com/CO2/DEFOOOOOOOOOOOOOOOOOOOOOREST_about.html) by Joana Moll 
 - [{POEM}.PY](https://linguisticgeographies.com/2016/06/12/poem-py-a-critique-of-linguistic-capitalism/) by Pip Thornton
