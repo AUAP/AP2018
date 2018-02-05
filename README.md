@@ -309,6 +309,6 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - Set some questions in mind and lead the discussion
 
 ## RULES:
-1. To pass the participation requirement and to enter Exam A, you need to attend at least 75% of the course including guest lectures which means you can only skip maximum 3 classes and 3 tutorials. 
-2. Weekly mini exercises (together with peer-feedback) is part of the course participation, those who fail to submit their work may incur a penalty of absence in one class. 
+1. To pass the participation requirement and to enter Exam A, you need to attend at least 75% of the course including guest lectures which means you can only skip maximum 3 lecture classes **and** 3 tutorials. 
+2. Weekly mini exercises (together with written peer-feedback) is considered as part of the course participation. For those who fail to submit their work may incur a penalty of absence in one class. 
 
