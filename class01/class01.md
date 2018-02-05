@@ -30,11 +30,14 @@ Agenda:
                 - to create and discover (p. 277)
     - **Vee, Annette. Coding Literacty: How Computer Programming Is Changing Writing. MIT Press, 2017.43-93** (Check blackboard - 1 Coding for Everyone and the Legacy of Mass Literacy)
         - She is an Assistant Professor in the Department of English at the University of Pittsburgh
+        - The history and contextualization of literacy and coding literacy
         - Coding and Writing (think in terms of literacy- reading and writing)
                 - Why is coding as an important (useful) skill for everyday life like literacy? 
         - Literacy: individual empowerment, new ways to think, citizenship and collective progress; employability and economic concerns
         - information accessibility (p. 47)
         - politics: literacy > ruling powers > measurement > who decides, standardizes and gets used? > pre-requisite for many other things.
+        - The rise of sharing and adaptable computational culture (p. 67) via the [People's Computer Company](http://www.digibarn.com/collections/newsletters/peoples-computer/index.html) in the 70s > free and open source
+        ![Image of PCC](http://www.digibarn.com/collections/newsletters/peoples-computer/peoples-1972-oct/1972-10-PCC-cover-medium.jpg)  
 - What is programming and computational thinking? 
     - Musical instruments: craft / practice / scores 
     - Drawing Vs Describing 
