@@ -22,9 +22,9 @@ Agenda:
         - He is a professor of Digital Media at MIT, and he is also a poet, with a background in liberal arts and computer science. 
         - Exploratory programming: Using computation for (humanistic) inquiry (not finished stage) p.267-9 
             - allows us to think in new ways 
-                -> adding to the methods and perspectives and raising new questions
+                - adding to the methods and perspectives and raising new questions
             - offers us a better understanding of culture and media systems, and
-                -> twofold: gain a better perspective and learn to develop better cultural systems.
+                - twofold: gain a better perspective and learn to develop better cultural systems.
             - can help us improve society
     - **Vee, Annette. Coding Literacty: How Computer Programming Is Changing Writing. MIT Press, 2017.43-93** (Check blackboard - 1 Coding for Everyone and the Legacy of Mass Literacy)
 - What is programming and computational thinking? 
