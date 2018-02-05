@@ -52,6 +52,8 @@ Agenda:
 - Walkthrough the syllabus 
 - Forming groups and peer-tutoring
 ## Setting up
+![Image of js](https://mdn.mozillademos.org/files/13504/execution.png)
+    - What is programming? 
 - What is [javascript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript) and [p5.js](https://p5js.org/)? 
 - Why we learn p5.js? 
 - Setting up the coding environent
