@@ -60,7 +60,7 @@ image src: [mozilla](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/F
 - Why we learn p5.js? 
 - Setting up the coding environent
   - Download the complete [p5.js library](https://p5js.org/download/) > unzip it (create your working folder, I recommend desktop)
-  - A web Browser (suggest Firefox), how to open the [console window](https://developer.mozilla.org/en-US/docs/Tools/Web_Console/Console_messages) (Tools > Web Developer > Web console)
+  - A web Browser (suggest [Firefox](https://www.mozilla.org/en-US/firefox/new/)), how to open the [console window](https://developer.mozilla.org/en-US/docs/Tools/Web_Console/Console_messages) (Tools > Web Developer > Web console)
   - A Code editor - [Atom](https://atom.io/)
     - setup [atom-live-server](https://www.youtube.com/watch?v=0Xy3yDDY4IE) for live preview of code modification on a browser | Or: Go to Preference > settings > install > type atom-live-server > install. After the installation, go to menu bar > Packages > atom-live-server > start (or use mac short cut: control + Option + L)
   - test the downloaded p5.js file under your newly created working folder
