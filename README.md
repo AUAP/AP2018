@@ -6,7 +6,7 @@
 
 !NB:<br>
 **Tutorial:** Every Wed 14.00-16.00 @ 5361-144 or 5361-135, conducted by Ann Karring and Nynne Lucca Christiansen
-**Optional shutup and code:** Wk 6-10, Friday 10.00-14.00 @ 5361-144, conducted by Ann Karring/Nynne Lucca Christiansen
+**Optional shutup and code:** Wk 6-10, Friday 08.00-12.00 @ 5361-144, conducted by Ann Karring/Nynne Lucca Christiansen
 
 class detail: Groups in [etherpad](https://etherpad.net/p/ap2018) 
 
@@ -26,7 +26,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 
 ## Other learning support environment:
 1. Weekly 2 hours tutorial session (every Wed - Mandatory)
-2. Weekly 4 hours shut up+code or code study group discussion (every Friday 10.00-14.00- Optional in 5361-144)
+2. Weekly 4 hours shut up+code or code study group discussion (every Friday 08.00-12.00- Optional in 5361-144)
 
 ## LEARNING OUTCOMES:
 1. Learn foundamental concepts in computer programming, such as abstraction, structure, function, iteration, variables and arrays, conditional statements, objects, feedback and interactivity.
