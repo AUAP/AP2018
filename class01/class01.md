@@ -11,7 +11,7 @@ Agenda:
       - She is a professor of Computer Science, and the presentation is more from a science perspective (computer science/mathematics) and for other science discliplines e.g biology, statistics, astronomy, neurosciences, etc or for scientific analysis purposes.
       - CT "complements and combines mathematics and engineering thinking"
       - key concepts: computational thinking, abstraction (two levels), tools, efficiency
-      - STEM vs [STEAM](https://educationcloset.com/steam/what-is-steam/)
+      - The movement of STEM vs [STEAM](https://educationcloset.com/steam/what-is-steam/)
       - What might be computational arts/design? 
     - **Montfort, Nick. Exploratory Programming For the Arts and Humanities. MIT Press, 2016. 267-277** (check blackboard - Appendix A: Why Program?)
     - **Vee, Annette. Coding Literacty: How Computer Programming Is Changing Writing. MIT Press, 2017.43-93** (Check blackboard - 1 Coding for Everyone and the Legacy of Mass Literacy)
@@ -32,6 +32,9 @@ Agenda:
     - you should see the code is executed and something will display on your browser
  - Setting up a [Github account](http://www.github.com)
 ## Example showcase
+- [CO2GLE](http://www.janavirgin.com/CO2/CO2GLE_about.html) and [DEFOOOOOOOOOOOOOOOOOOOOOREST](http://www.janavirgin.com/CO2/DEFOOOOOOOOOOOOOOOOOOOOOREST_about.html) by Joana Moll 
+- [{POEM}.PY](https://linguisticgeographies.com/2016/06/12/poem-py-a-critique-of-linguistic-capitalism/) by Pip Thornton
+- [Facebook Demetricator](http://bengrosser.com/projects/facebook-demetricator/) by Benjamin Grosser
 ## Task for next week
 - Why mini exercises?
 - mini exercise 01 (mini_ex01)
