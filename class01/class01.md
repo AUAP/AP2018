@@ -82,6 +82,6 @@ image src: [mozilla](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/F
 - [Facebook Demetricator](http://bengrosser.com/projects/facebook-demetricator/) by Benjamin Grosser
 ## Task for next week
 - Why mini exercises?
-- mini exercise 01 (mini_ex01)
+- mini exercise 01: My first program ([mini_ex01](https://github.com/AUAP/AP2018/blob/master/all_miniex/mini_ex1.md))
 - Register a github account, and form a group, and put your name + github URL into the [etherpad](https://etherpad.net/p/ap2018)
 
