@@ -68,6 +68,7 @@ image src: [mozilla](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/F
   - test the downloaded p5.js file under your newly created working folder
     - try to change some parameters in the sketch.js file, press save. (make sure the atom-live-server has started)
     - you should see the code is executed and something will display on your browser
+    ![First program](https://github.com/AUAP/AP2018/blob/master/class01/firstprogram.png)
  - Setting up a [Github account](http://www.github.com)
     - The concept of git as a distributed version control system
     - Using the web github interface (repository, Fork, Clone/Download, Create/Upload/Delete files, [Markdown](https://guides.github.com/features/mastering-markdown/), History)
