@@ -13,12 +13,19 @@ Agenda:
     - Why is it important to know programming in the area of digital design?
 - The three assigned reading in class00:
     - 1 hr video lecture: **Computational Thinking and Thinking About Computing by Jeannette M. Wing (2009)**
-      - She is a professor of Computer Science, and the presentation is more from a science perspective (computer science/mathematics) and for other science discliplines e.g biology, statistics, astronomy, neurosciences, etc or for scientific analysis purposes.
+      - She is a professor of Computer Science, at Columbia University and the presentation is more from a science perspective (computer science/mathematics) and for other science discliplines e.g biology, statistics, astronomy, neurosciences, etc or for scientific analysis purposes.
       - CT "complements and combines mathematics and engineering thinking"
       - key concepts: computational thinking, abstraction (two levels), tools, efficiency
       - The movement of STEM vs [STEAM](https://educationcloset.com/steam/what-is-steam/)
       - What might be computational arts/design? 
     - **Montfort, Nick. Exploratory Programming For the Arts and Humanities. MIT Press, 2016. 267-277** (check blackboard - Appendix A: Why Program?)
+        - He is a professor of Digital Media at MIT, and he is also a poet, with a background in liberal arts and computer science. 
+        - Exploratory programming: Using computation for (humanistic) inquiry (not finished stage) p.267-9 
+            - allows us to think in new ways 
+                -> adding to the methods and perspectives and raising new questions
+            - offers us a better understanding of culture and media systems, and
+                -> twofold: gain a better perspective and learn to develop better cultural systems.
+            - can help us improve society
     - **Vee, Annette. Coding Literacty: How Computer Programming Is Changing Writing. MIT Press, 2017.43-93** (Check blackboard - 1 Coding for Everyone and the Legacy of Mass Literacy)
 - What is programming and computational thinking? 
     - Musical instruments: craft / practice / scores 
