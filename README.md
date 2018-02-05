@@ -75,7 +75,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - Errors and console.log
   - In-class ex: Grid paper drawing
 - **Read/Watch before class:** 
-  - Goriunova, Oga. *Fun and Software: Exploring Pleasure, Paradox and Pain in Computing*. Bloomsbury Academic, 2014. 1-19. (check blackboard - Introduction)
+  - Goriunova, Oga. *Fun and Software: Exploring Pleasure, Paradox and Pain in Computing*. Bloomsbury Academic, 2014. 1-19. [(Introduction, pp.1-19)](https://monoskop.org/images/1/14/Goriunova_Olga_ed_Fun_and_Software_Exploring_Pleasure_Paradox_and_Pain_in_Computing.pdf)
   - [p5.js Simple Shapes](https://p5js.org/examples/hello-p5-simple-shapes.html)
   - [Short p5.js video by Daniel Shiffman](https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)(watch 1.3, 1.4, 2.1, 2.2)
 - **Weekly mini ex2: due week 8, Monday night | A fun drawing** 
