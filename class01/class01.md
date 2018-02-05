@@ -55,7 +55,7 @@ Agenda:
 ![Image of js](https://mdn.mozillademos.org/files/13504/execution.png)
 image src: [mozilla](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 - What is [javascript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript) and [p5.js](https://p5js.org/)? 
-    - Livescript -> Javascript (1995) by Brendan Eich, who is the co-founder of Mozilla Foundation and Corporation (see here for [more](http://cis.msjc.edu/csis125a/resources/papers-Brendan-Eich-JavaScript-Copyright-IEEE.pdf)information, a paper by Charles Severance] 
+    - Livescript -> Javascript (1995) by Brendan Eich, who is the co-founder of Mozilla Foundation and Corporation (see here for [more](http://cis.msjc.edu/csis125a/resources/papers-Brendan-Eich-JavaScript-Copyright-IEEE.pdf) information, a paper by Charles Severance] 
         - A lightweight and interpreted language that complements Java (from novices to professional people)
 - Why we learn p5.js? 
 - Setting up the coding environent
