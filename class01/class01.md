@@ -57,6 +57,7 @@ image src: [mozilla](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/F
 - What is [javascript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript) and [p5.js](https://p5js.org/)? 
     - Livescript -> Javascript (1995) by Brendan Eich, who is the co-founder of Mozilla Foundation and Corporation (see here for [more](http://cis.msjc.edu/csis125a/resources/papers-Brendan-Eich-JavaScript-Copyright-IEEE.pdf) information, a paper by Charles Severance] 
         - A lightweight and interpreted language that complements Java (from novices to professional people)
+    - p5.js is a js library and is highly related to Processing (in terms of syntax, goals and visions) 
 - Why we learn p5.js? 
 - Setting up the coding environent
   - Download the complete [p5.js library](https://p5js.org/download/) > unzip it (create your working folder, I recommend desktop)
