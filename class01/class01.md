@@ -37,7 +37,7 @@ Agenda:
         - information accessibility (p. 47)
         - politics: literacy > ruling powers > measurement > who decides, standardizes and gets used? > pre-requisite for many other things.
         - The rise of sharing and adaptable computational culture (p. 67) via the [People's Computer Company](http://www.digibarn.com/collections/newsletters/peoples-computer/index.html) in the 70s > free and open source
-        ![Image of PCC](http://www.digibarn.com/collections/newsletters/peoples-computer/peoples-1972-oct/1972-10-PCC-cover-medium.jpg =400px)  
+        ![Image of PCC](http://www.digibarn.com/collections/newsletters/peoples-computer/peoples-1972-oct/1972-10-PCC-cover-medium.jpg){:.some-css-class width="400"}  
 - What is programming and computational thinking? 
     - Musical instruments: craft / practice / scores 
     - Drawing Vs Describing 
