@@ -66,6 +66,7 @@ image src: [mozilla](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/F
   - A Code editor - [Atom](https://atom.io/)
     - setup [atom-live-server](https://www.youtube.com/watch?v=0Xy3yDDY4IE) for live preview of code modification on a browser | Or: Go to Preference > settings > install > type atom-live-server > install. After the installation, go to menu bar > Packages > atom-live-server > start (or use mac short cut: control + Option + L)
   - test the downloaded p5.js file under your newly created working folder
+    - Reading [syntax](https://p5js.org/reference/)
     - try to change some parameters in the sketch.js file, press save. (make sure the atom-live-server has started)
     - you should see the code is executed and something will display on your browser
     ![First program](https://github.com/AUAP/AP2018/blob/master/class01/firstprogram.png)
