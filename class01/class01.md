@@ -6,6 +6,7 @@ Agenda:
 
 ## Intro
 - Questions:
+![Image of programming](https://github.com/AUAP/AP2018/blob/master/class01/programming1.png)
     - What is programming? 
     - Do you have any programming experience? If yes, how was the experience? 
     - Why do you think you need to know programming? 
