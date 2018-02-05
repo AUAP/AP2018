@@ -29,6 +29,12 @@ Agenda:
             - can help us improve society
                 - to create and discover (p. 277)
     - **Vee, Annette. Coding Literacty: How Computer Programming Is Changing Writing. MIT Press, 2017.43-93** (Check blackboard - 1 Coding for Everyone and the Legacy of Mass Literacy)
+        - She is an Assistant Professor in the Department of English at the University of Pittsburgh
+        - Coding and Writing (think in terms of literacy- reading and writing)
+                - Why is coding as an important (useful) skill for everyday life like literacy? 
+        - Literacy: individual empowerment, new ways to think, citizenship and collective progress; employability and economic concerns
+        - information accessibility (p. 47)
+        - politics: literacy > ruling powers > measurement > who decides, standardizes and gets used? > pre-requisite for many other things.
 - What is programming and computational thinking? 
     - Musical instruments: craft / practice / scores 
     - Drawing Vs Describing 
