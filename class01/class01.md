@@ -31,9 +31,10 @@ Agenda:
     - try to change some parameters in the sketch.js file, press save. (make sure the atom-live-server has started)
     - you should see the code is executed and something will display on your browser
  - Setting up a [Github account](http://www.github.com)
-## Example showcase
+## Showcase of critical works
 - [CO2GLE](http://www.janavirgin.com/CO2/CO2GLE_about.html) and [DEFOOOOOOOOOOOOOOOOOOOOOREST](http://www.janavirgin.com/CO2/DEFOOOOOOOOOOOOOOOOOOOOOREST_about.html) by Joana Moll 
 - [{POEM}.PY](https://linguisticgeographies.com/2016/06/12/poem-py-a-critique-of-linguistic-capitalism/) by Pip Thornton
+- [nonsense](http://siusoon.net/?p=17) by Winnie Soon
 - [Facebook Demetricator](http://bengrosser.com/projects/facebook-demetricator/) by Benjamin Grosser
 ## Task for next week
 - Why mini exercises?
