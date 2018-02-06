@@ -62,7 +62,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - [Short p5.js video by Daniel Shiffman](https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)(watch 1.1 and 1.2)
   - [p5.js: Get Started](https://p5js.org/get-started/)
   - [Video on Github: Sharing/version control/operation/hosting by Daniel Shiffman](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) (must watch: 1.1, 1.2, 1.4, 1.8)
-- **Weekly mini ex1: due week 7, Monday night | my first program** 
+- **Weekly mini ex1: due week 7, Monday night | Thiking about My First Program** 
   - check mini_ex folder > [mini_ex1.md](https://github.com/AUAP/AP2018/blob/master/all_miniex/mini_ex1.md)
 ---
 #### Class 02 | Week 7 | 13 Feb 2018: Having fun with basics
