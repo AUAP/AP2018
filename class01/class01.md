@@ -74,7 +74,7 @@ image src: [mozilla](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/F
     - The concept of git as a distributed version control system
     - Using the web github interface (repository, Fork, Clone/Download, Create/Upload/Delete files, [Markdown](https://guides.github.com/features/mastering-markdown/), History)
     - For more advanced git users, see [here](https://github.com/AUAP/AP2018/blob/master/gitRef.md) 
-    
+ ![Image of settingup](https://github.com/AUAP/AP2018/blob/master/class01/settingup.jpg)  
 ## Showcase of critical works
 - [CO2GLE](http://www.janavirgin.com/CO2/CO2GLE_about.html) and [DEFOOOOOOOOOOOOOOOOOOOOOREST](http://www.janavirgin.com/CO2/DEFOOOOOOOOOOOOOOOOOOOOOREST_about.html) by Joana Moll 
 - [{POEM}.PY](https://linguisticgeographies.com/2016/06/12/poem-py-a-critique-of-linguistic-capitalism/) by Pip Thornton
