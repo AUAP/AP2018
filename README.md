@@ -55,7 +55,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - What is and why p5.js? 
   - Setting up: Github + p5.js lib + Atom 
   - Run the first p5.js program
-  - Examples showcase and discussion
+  ~~- Examples showcase and discussion~~
 - **Read/Watch before class:** 
   - Make sure you have read previous class' readings
   - [30 mins Video lecture on Learning While Making P5 JS by Lauren McCarthay. OPENVIS Conference, 2015.](https://www.youtube.com/watch?v=1k3X4DLDHdc)
