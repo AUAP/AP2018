@@ -4,6 +4,12 @@
 - To learn the basic setup, including independent study of code syntax, uploading files on github, creating a readme file, etc. 
 - To get familiar with the building and feedback process of weekly mini exercises
 
+**Get some inspiration here:**
+- [Daily sketch in Processing](https://twitter.com/sasj_nl) by Saskia Freeke
+- [dwitter.net-within 140 characters of JS](https://www.dwitter.net)
+- [zach lieberman](https://twitter.com/zachlieberman)
+- [Creative Coding with Processing and P5.JS](https://www.facebook.com/groups/creativecodingp5/)
+
 **Tasks:**
 1. Make sure you have read/watch the required readings/videos
 2. Study at least one syntax from the list of p5.js' [reference](https://p5js.org/reference/) (of course, it is always good to know more different syntax. Be curious!)
