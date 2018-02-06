@@ -14,13 +14,14 @@
 1. Make sure you have read/watch the required readings/videos of the class00 and class01.
 2. Study at least one syntax from the list of p5.js' [reference](https://p5js.org/reference/) (of course, it is always good to know more different syntax. Be curious!)
 3. Familiar yourself with the reference structure: example, description, syntax and parameters (This becomes your essential and life-long skills for learning new syntax on your own)
-4. Use, Read and Modify the sample code (the most basic level is changing the numbers), and produce a new sketch.
+4. Use, Read, Modify (or even combine) the sample code (the most basic level is changing the numbers), and produce a new sketch.
 5. Upload your program/result to your own Github account under a folder called **mini_ex1**. (Make sure your program can be run on a web browser) 
 6. Create a readme file (README.md) and upload to the same mini_ex1 directory (see [this](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for editing the README). The readme file should contain the followings:
 - A screenshot about your program
 - A URL link to your program and run on a browser, see: https://rawgit.com/
-- Describe your first independent coding process
-- How do you feel about read and write code? What might be the potential and possibility of coding practice?
+- Describe your first independent coding process (in relation to reading, copying, modifying, writing, uploading, sharing, commenting code)
+- How your coding process is differ or similar to reading and writing text? (You may also reflect upon Annette Vee's text on coding literacy) 
+- What might be the potential and possibility of coding practice?
 7. Provide peer-feedback to 2 of your classmates on their works by creating "issues" on his/her github corresponding repository. Write with the issue title "Feedback on mini_ex(?) by (YOUR FULL NAME)"  (Before next Wed tutorial class)
 
 NB!: Feel Free to explore and experiment more syntax
