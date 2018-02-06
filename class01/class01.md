@@ -86,7 +86,7 @@ image src: [mozilla](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/F
 - mini exercise 01: My first program ([mini_ex01](https://github.com/AUAP/AP2018/blob/master/all_miniex/mini_ex1.md))
 - Register a github account, and form a group, and put your name + github URL into the [etherpad](https://etherpad.net/p/ap2018)
 
-## Afterthoughts
+## Afterclass thoughts
 ![why program?](https://github.com/AUAP/AP2018/blob/master/class01/whyprogramming.png)
 Image source: [A collective graph](https://graphcommons.com/graphs/9e8a8dd9-abbe-4cc8-ab31-ba367ace8471) from the students' feedback on what is programming?
 - no time to go through critical works example (which is expected)
