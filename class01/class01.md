@@ -97,4 +97,8 @@ Image source: [A collective graph](https://graphcommons.com/graphs/9e8a8dd9-abbe
 - In terms of running the p5.js complete lib in Atom with atom-live-server, it needs to open the whole p5 folder. 
 - why p5.js: 1/strong link to industry standard-js ; 2/values behind p5.js: free and open source, community outreach and diversity; 3/ work with network, browsers, and other web components pretty well; 4/good for sharing; 5/ a low barrier for novices but with rooms for complex programming. 
 - can check out ["JavaScript Affogato: Programming a Culture of Improvised Expertise"](https://muse.jhu.edu/article/685007/pdf) (2018) by Brian Lennon 
+    - interesting link/history about java and js (in terms of positioning, target audiences and how they complement each other) -> also recalls the Javaapplet artworks from Cory Arcangel
+    - the success of js also about the problems of javaapplets in terms of security and performance 
+    - js is a multiparadigm langauge including procedural/imperative in the case of C, functional in the case of Scheme, and OO in the case of self. (p. 65)
+
 
