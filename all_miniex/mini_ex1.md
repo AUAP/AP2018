@@ -11,10 +11,10 @@
 - [Creative Coding with Processing and P5.JS](https://www.facebook.com/groups/creativecodingp5/)
 
 **Tasks:**
-1. Make sure you have read/watch the required readings/videos
+1. Make sure you have read/watch the required readings/videos of the class00 and class01.
 2. Study at least one syntax from the list of p5.js' [reference](https://p5js.org/reference/) (of course, it is always good to know more different syntax. Be curious!)
 3. Familiar yourself with the reference structure: example, description, syntax and parameters (This becomes your essential and life-long skills for learning new syntax on your own)
-4. Read and modify the sample code (the most basic level is changing the numbers), and produce a new sketch.
+4. Use, Read and Modify the sample code (the most basic level is changing the numbers), and produce a new sketch.
 5. Upload your program/result to your own Github account under a folder called **mini_ex1**. (Make sure your program can be run on a web browser) 
 6. Create a readme file (README.md) and upload to the same mini_ex1 directory (see [this](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for editing the README). The readme file should contain the followings:
 - A screenshot about your program
