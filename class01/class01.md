@@ -101,6 +101,6 @@ Image source: [A collective graph](https://graphcommons.com/graphs/9e8a8dd9-abbe
     - the success of js is also about the problems of javaapplets in terms of security and performance 
     - js is a multiparadigm langauge including procedural/imperative in the case of C, functional in the case of Scheme, and OO in the case of self. (p. 65)
 - By explaining the function setup() and draw(), it can point to the quick running of code that displays an illusion of a static ellipse (if you put the code in draw() function). Then, it can further link to Wendy Chun's idea about the myth of WYSIWYG or David Berry's text (p.38 - The philosophy of software) on how it mediates our experiences in real-time. 
-- the mini ex here can think a bit more in relation to the reflection of free and open source culture
+- modified the mini ex to address the thinking part
 
 
