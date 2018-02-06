@@ -93,3 +93,6 @@ Image source: [A collective graph](https://graphcommons.com/graphs/9e8a8dd9-abbe
 - managed to walkthrough the console with console.log as well (sort of a hello world program)
 - About 1/3 with some programming/scripting experiences, especially html/css. Around 2-3 students familiar with c,c++, java.
 - In terms of running the p5.js complete lib in Atom with atom-live-server, it needs to open the whole p5 folder. 
+- why p5.js: strong link to industry standard-js, values behind p5.js: free and open source, community outreach and diversity, work with network, browsers, and other web components pretty well, good for sharing 
+- can check out ["JavaScript Affogato: Programming a Culture of Improvised Expertise"](https://muse.jhu.edu/article/685007/pdf) (2018) by Brian Lennon 
+
