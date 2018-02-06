@@ -85,3 +85,8 @@ image src: [mozilla](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/F
 - mini exercise 01: My first program ([mini_ex01](https://github.com/AUAP/AP2018/blob/master/all_miniex/mini_ex1.md))
 - Register a github account, and form a group, and put your name + github URL into the [etherpad](https://etherpad.net/p/ap2018)
 
+## Afterthoughts
+- no time to go through critical works example (which is expected)
+- managed to walkthrough the console with console.log as well (sort of hello world program)
+- About 1/3 with some programming/scripting experiences, especially html/css. Around 2-3 students familiar with c,c++, java.
+- 
