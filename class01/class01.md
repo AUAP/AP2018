@@ -88,7 +88,7 @@ image src: [mozilla](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/F
 - mini exercise 01: My first program ([mini_ex01](https://github.com/AUAP/AP2018/blob/master/all_miniex/mini_ex1.md))
 - Register a github account, and form a group, and put your name + github URL into the [etherpad](https://etherpad.net/p/ap2018)
 
-## Afterclass thoughts
+## Afterclass thoughts (my own notes)
 ![why program?](https://github.com/AUAP/AP2018/blob/master/class01/whyprogramming.png)
 Image source: [A collective graph](https://graphcommons.com/graphs/9e8a8dd9-abbe-4cc8-ab31-ba367ace8471) from the students' feedback on what is programming?
 - no time to go through critical works example (which is expected)
@@ -98,7 +98,9 @@ Image source: [A collective graph](https://graphcommons.com/graphs/9e8a8dd9-abbe
 - why p5.js: 1/strong link to industry standard-js ; 2/values behind p5.js: free and open source, community outreach and diversity; 3/ work with network, browsers, and other web components pretty well; 4/good for sharing; 5/ a low barrier for novices but with rooms for complex programming. 
 - can check out ["JavaScript Affogato: Programming a Culture of Improvised Expertise"](https://muse.jhu.edu/article/685007/pdf) (2018) by Brian Lennon 
     - interesting link/history about java and js (in terms of positioning, target audiences and how they complement each other) -> also recalls the Javaapplet artworks from Cory Arcangel
-    - the success of js also about the problems of javaapplets in terms of security and performance 
+    - the success of js is also about the problems of javaapplets in terms of security and performance 
     - js is a multiparadigm langauge including procedural/imperative in the case of C, functional in the case of Scheme, and OO in the case of self. (p. 65)
+- By explaining the function setup() and draw(), it can point to the quick running of code that displays an illusion of a static ellipse (if you put the code in draw() function). Then, it can further link to Wendy Chun's idea about the myth of WYSIWYG or David Berry's text (p.38 - The philosophy of software) on how it mediates our experiences in real-time. 
+- the mini ex here can think a bit more in relation to the reflection of free and open source culture
 
 
