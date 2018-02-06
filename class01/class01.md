@@ -85,7 +85,7 @@ image src: [mozilla](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/F
 
 ## Task for next week
 - Why mini exercises?
-- mini exercise 01: My first program ([mini_ex01](https://github.com/AUAP/AP2018/blob/master/all_miniex/mini_ex1.md))
+- mini exercise 01: Thinking about my first program ([mini_ex01](https://github.com/AUAP/AP2018/blob/master/all_miniex/mini_ex1.md))
 - Register a github account, and form a group, and put your name + github URL into the [etherpad](https://etherpad.net/p/ap2018)
 
 ## Afterclass thoughts (my own notes)
