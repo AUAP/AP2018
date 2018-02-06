@@ -80,6 +80,7 @@ image src: [mozilla](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/F
 - [{POEM}.PY](https://linguisticgeographies.com/2016/06/12/poem-py-a-critique-of-linguistic-capitalism/) by Pip Thornton
 - [nonsense](http://siusoon.net/?p=17) by Winnie Soon
 - [Facebook Demetricator](http://bengrosser.com/projects/facebook-demetricator/) by Benjamin Grosser
+
 ## Task for next week
 - Why mini exercises?
 - mini exercise 01: My first program ([mini_ex01](https://github.com/AUAP/AP2018/blob/master/all_miniex/mini_ex1.md))
@@ -89,4 +90,4 @@ image src: [mozilla](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/F
 - no time to go through critical works example (which is expected)
 - managed to walkthrough the console with console.log as well (sort of hello world program)
 - About 1/3 with some programming/scripting experiences, especially html/css. Around 2-3 students familiar with c,c++, java.
-- 
+- In terms of running the p5.js complete lib in Atom with atom-live-server, it needs to open the whole p5 folder. 
