@@ -64,8 +64,8 @@ Time to do some free style drawing. The challenge is to draw your neighbour's po
 Tips: Check out beginShape(), endShape(), [curveVertex()](https://p5js.org/reference/#/p5/curveVertex), vertex(), arc(), PI
 
 Example:<br>
-Sketch: <br> <img src="http://nicole.pizza/itp/wp-content/uploads/2015/09/IMG_9936-1024x768.jpg" width="300px"> <br>
-Final: <br><img src="http://nicole.pizza/itp/wp-content/uploads/2015/09/in-11.gif" width="300px">
+Sketch: <br> <img src="http://nicole.pizza/itp/wp-content/uploads/2015/09/IMG_9936-1024x768.jpg" width="400px"> <br>
+Final: <br><img src="http://nicole.pizza/itp/wp-content/uploads/2015/09/in-11.gif" width="400px">
 <br>
 Work by Nicole He
 
