@@ -278,6 +278,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 - [dwitter.net-within 140 characters of JS](https://www.dwitter.net)
 - [zach lieberman](https://twitter.com/zachlieberman)
 - [Creative Coding with Processing and P5.JS](https://www.facebook.com/groups/creativecodingp5/)
+- [OpenProcessing](https://www.openprocessing.org/) (search with keywords)
 
 ## OTHER REFERENCES:
 - [Text and source code: Coding Projects with p5.js by Catherine Leung](https://cathyatseneca.gitbooks.io/coding-projects-with-p5-js/)
