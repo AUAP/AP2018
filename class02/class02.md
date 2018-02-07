@@ -69,6 +69,8 @@ Final: <br><img src="http://nicole.pizza/itp/wp-content/uploads/2015/09/in-11.gi
 <br>
 Work by Nicole He
 
+Some thoughts: Do think about how Adobe illustrator is designed and developed. What is vector graphics? 
+
 ### The concept of peer-tutoring
   - 9 groups [here](https://etherpad.net/p/ap2018)
   - The concept of presenters and respondents
