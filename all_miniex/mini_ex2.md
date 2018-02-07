@@ -4,6 +4,12 @@
 - To understand the notion of fun in both practice and theory by drawing upon Goriunova's text. 
 - To experiment various computational drawing possibility.
 
+**Get some fun inspiration here**
+- [Microcodes](http://pallthayer.dyndns.org/microcodes/)(2009) by Pall Thayer
+- [the revolving internet](http://therevolvinginternet.com/) (2010) by Constant Dullaart (if you want to see some articulation about his style of work, you can look into the Fun and Software book, pp. 244-246 (text by Annet Dekker)
+- [Nudemen clock](http://lovedbdb.com/nudemenClock/index2.html)(2011) by Francis Lam (see [here](http://90.146.8.18/en/archives/prix_archive/prix_projekt.asp?iProjectID=12873#) for his agenda on working with nudemen previously)
+- [nonsense](http://siusoon.net/?p=17) (2015, 2017) by Winnie Soon
+
 **Tasks:**
 1. Make sure you have read Goriunova's text: Goriunova, Oga. Fun and Software: Exploring Pleasure, Paradox and Pain in Computing. Bloomsbury Academic, 2014, pp.1-19.(see weekly ref list)
 2. Based on your current programming skills, design a program that you think is addressing Goriunova's notion of fun.
@@ -12,7 +18,7 @@
 - A screenshot of your program
 - A URL link to your program and run on a browser, see: https://rawgit.com/
 - Describe your program and what you have used and learnt
-- What is fun? To what extend your program addresses Goriunova's noton of fun? You need to at least use her text and reflect upon what does it means by "Fun in computing as a mode of thinking, making, experiencing is about a mode of reasoning" (p.4)
+- What is fun? To what extend your program addresses Goriunova's noton of fun? Is it fun in relation to geekiness, or humour, or pradox, or other modes of thoughts? (This question requires your articulation of your work beyond just describing how it works technically)
 5. Provide peer-feedback to 2 of your classmates on their works by creating "issues" on his/her github corresponding repository. Write with the issue title "Feedback on mini_ex(?) by (YOUR FULL NAME)"
 
 NB!: Feel Free to explore and experiment more syntax.
