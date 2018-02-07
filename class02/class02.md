@@ -40,21 +40,23 @@ In terms of the relationship with HTML and CSS, Javascript supports dynamic inte
 Line 6 and 7 above indicates how javascript files can be imported into the html page with the opening and closing tags <script></script>
 
 ### The basics: 
-#### Coordinate System 
-- [Coordinate system](https://p5js.org/examples/structure-coordinates.html)
+##### Think in terms of a canvas
+  - Coordinate System
+  [Coordinate system](https://p5js.org/examples/structure-coordinates.html)
   
      <img src="https://processing.org/tutorials/drawing/imgs/drawing-03.svg" width="550">
      
      *Reference image: [Processing](https://processing.org)*
+  - Two major functions i.e setup and draw
+  - Numbers and pixels
+  - createCanvas(), width, height
+  - Commenting Code
+##### Basic orientation/calculation
+  - use of variables 
+      - Naming: [Variables](https://p5js.org/examples/data-variables.html), [Arrays](https://p5js.org/examples/arrays-array.html) and [functions](https://p5js.org/examples/structure-functions.html)
 
-##### Think in terms of a canvas
-##### Basic orientation/calculation: pixel, width, height, use of variables and basic arithmetic operators 
-  - [Basic syntax](https://p5js.org/reference/) e.g color, background, createCanvas, functions, for-loop, if-else statments, var
-  - Naming: [Variables](https://p5js.org/examples/data-variables.html), [Arrays](https://p5js.org/examples/arrays-array.html) and [functions](https://p5js.org/examples/structure-functions.html)
+  - basic arithmetic operators 
   
-    <img src="https://github.com/siusoon/VocableCode/blob/master/naming.png" width="600">
-
-  - [Conditions](https://p5js.org/examples/control-conditionals-1.html), repetitions and differences
     
 ### The concept of peer-tutoring
   - 9 groups [here](https://etherpad.net/p/ap2018)
