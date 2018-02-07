@@ -59,7 +59,7 @@ Line 6 and 7 above indicates how javascript files can be imported into the html 
   - basic arithmetic operators 
       - add(+), subtract(-), multiply(*) and divide(/)
 ### In-class challenge: Grid paper portrait in p5.js
-Time to do some free style drawing. The challenge is to draw your neighbour's portrait on a grid paper and then convert the hand-drawing into p5.js sketch. 
+Time to do some free style drawing. The challenge is to draw your neighbour's portrait on a grid paper and then convert the hand-drawing into a p5.js sketch. 
 
 Tips: Check out beginShape(), endShape(), [curveVertex()](https://p5js.org/reference/#/p5/curveVertex), vertex(), arc(), PI
 
