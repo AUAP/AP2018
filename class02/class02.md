@@ -3,8 +3,7 @@ Again...this is the unstable/messy notes for class02: Having *Fun* with Basics
 Agenda:
 - Artwork showcase: what might be the notion of fun?
 - Basic structure: HTML, CSS, JS
-- Coordinate System
-- Basic syntax: setup(), draw(), createCanvas(), background()
+- The basics: Coordinate System and other syntax 
 - Think in terms of a canvas
 - Basic orientation/calculation: pixel, width, height, use of variables and basic arithmetic operators 
 - Errors + different types of errors: print(), console.log()
@@ -24,14 +23,14 @@ Agenda:
  
 *Reference image: [Creating Web Widget with HTML, CSS, and JavaScript by Raj Lal](https://www.codeproject.com/Articles/81355/Chapter-Creating-Web-Widget-with-HTML-CSS-and-Ja)*
 
-- (Hypertext Markup Language) HTML: a markup language that use tags to define elements within a document. It is more a structure that defines, organizes and governs a document  e.g the title, the language, the format, etc. It is a language, a human readable language that also instructs a browser to render the (html) tags, in which it defines how images, text or any other multimedia forms are displayed in web browsers. 
+- **(Hypertext Markup Language) HTML**: a markup language that use tags to define elements within a document. It is more a structure that defines, organizes and governs a document  e.g the title, the language, the format, etc. It is a language, a human readable language that also instructs a browser to render the (html) tags, in which it defines how images, text or any other multimedia forms are displayed in web browsers. 
 ![html image](https://github.com/AUAP/AP2018/blob/master/class02/html.png)
-- (Cascading Style Sheet) CSS: It is a language that applies styling to HTML elements. The sheet is like a template or a set of rules that determine how a webpage looks like. In other words, it is about styling and representation on a certain part of your page. e.g color, font size, tables, etc. If you look at line 5 below, it involves a selector 'body' (which is set in the HTML) and a declaration, including property like 'padding' and 'margin' with the value of '0' and the property 'background' with the value of 'lightblue'. 
+- **(Cascading Style Sheet) CSS**: It is a language that applies styling to HTML elements. The sheet is like a template or a set of rules that determine how a webpage looks like. In other words, it is about styling and representation on a certain part of your page. e.g color, font size, tables, etc. If you look at line 5 below, it involves a selector 'body' (which is set in the HTML) and a declaration, including property like 'padding' and 'margin' with the value of '0' and the property 'background' with the value of 'lightblue'. 
   - CSS is usually definded in an external style sheet, but for simplicity for this example, I just put within the index.html with the tags <style></style> to signify it is a css. 
 ```
     <style>body {padding: 0; margin: 0;background-color:lightblue;} </style>
 ```
-- Javascript: A high level scripting and interpreted langauge which was orginally designed and developed in 1995 at Netscape by Brendan Eich with an objective to run it on a web browser. Within the confusing discussion of Java and Javascript, they are not the same and are quite different. One could say that Javascript complements Java as not a compiled programming language, but an interpreted language instead. There are several characteristics of Javascript in terms of the original design:
+- **Javascript**: A high level scripting and interpreted langauge which was orginally designed and developed in 1995 at Netscape by Brendan Eich with an objective to run it on a web browser. Within the confusing discussion of Java and Javascript, they are not the same and are quite different. One could say that Javascript complements Java as not a compiled programming language, but an interpreted language instead. There are several characteristics of Javascript in terms of the original design:
   - lightweight
   - easy to use (especially for those with little or no programming experience)
   - able to construct complex applications
@@ -40,6 +39,21 @@ Agenda:
   - supports object orientation
 In terms of the relationship with HTML and CSS, Javascript supports dynamic interactions, both interactions between machines and humans with the ability to transmit, capture and manipulate data. As a result, it is usually descirbed as a dynamic language that adds behaviors to the content and its presentation. 
 
+Line 6 and 7 above indicates how javascript files can be imported into the html page with the opening and closing tags <script></script>
+
+### The basics: Coordinate System and other syntax 
+- [Coordinate system](https://p5js.org/examples/structure-coordinates.html)
+  
+     <img src="https://processing.org/tutorials/drawing/imgs/drawing-03.svg" width="550">
+     
+     *Reference image: [Processing](https://processing.org)*
+  - [Basic syntax](https://p5js.org/reference/) e.g color, background, createCanvas, functions, for-loop, if-else statments, var
+  - Naming: [Variables](https://p5js.org/examples/data-variables.html), [Arrays](https://p5js.org/examples/arrays-array.html) and [functions](https://p5js.org/examples/structure-functions.html)
+  
+    <img src="https://github.com/siusoon/VocableCode/blob/master/naming.png" width="600">
+
+  - [Conditions](https://p5js.org/examples/control-conditionals-1.html), repetitions and differences
+    
 ### The concept of peer-tutoring
   - 9 groups [here](https://etherpad.net/p/ap2018)
   - The concept of presenters and respondents
@@ -49,7 +63,8 @@ In terms of the relationship with HTML and CSS, Javascript supports dynamic inte
   - the concept of mini exercises
   - mini_ex2: [A fun drawing](https://github.com/AUAP/AP2018/blob/master/all_miniex/mini_ex2.md)
   - peer-tutoring: push(), pop()
-  
+
+
 ---
 
 ### The concept of fun
