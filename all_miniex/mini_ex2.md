@@ -9,10 +9,11 @@
 - [the revolving internet](http://therevolvinginternet.com/) (2010) by Constant Dullaart (if you want to see some articulation about his style of work, you can look into the Fun and Software book, pp. 244-246 -text by Annet Dekker)
 - [Nudemen clock](http://lovedbdb.com/nudemenClock/index2.html)(2011) by Francis Lam (see [here](http://90.146.8.18/en/archives/prix_archive/prix_projekt.asp?iProjectID=12873#) for his agenda on working with nudemen previously)
 - [nonsense](http://siusoon.net/?p=17) (2015, 2017) by Winnie Soon
+- [Student work](http://www.bonder.tech/2017/09/11/my-first-p5-js-sketch/) by Ilana
 
 **Tasks:**
 1. Make sure you have read Goriunova's text: Goriunova, Oga. Fun and Software: Exploring Pleasure, Paradox and Pain in Computing. Bloomsbury Academic, 2014, pp.1-19.(see weekly ref list)
-2. Based on your current programming skills, design a program that you think is expressing and addressing Goriunova's notion of fun. (it is ok to be simple, and it is ok to draw something static. Just explore the wild)  
+2. Design a program that expresses and addresses Goriunova's notion of fun by using basic shapes primarily. (it is ok to be simple, and it is ok to draw something static. Just explore the wild)  
 3. Upload your program/result to your own Github account under a folder called **mini_ex2**. (Make sure your program can be run on a web browser) 
 4. Create a readme file (README.md) and upload to the same mini_ex2 directory (see [this](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for editing the README). The readme file should contain the followings:
 - A screenshot of your program
