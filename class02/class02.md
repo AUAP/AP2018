@@ -58,14 +58,15 @@ Line 6 and 7 above indicates how javascript files can be imported into the html 
       - Naming: [Variables](https://p5js.org/examples/data-variables.html)
   - basic arithmetic operators 
       - add(+), subtract(-), multiply(*) and divide(/)
-### In-class challenge: Grid paper portrait on p5.js
+### In-class challenge: Grid paper portrait in p5.js
 Time to do some free style drawing. The challenge is to draw your neighbour's portrait on a grid paper and then convert the hand-drawing into p5.js sketch. 
 
 Tips: Check out beginShape(), endShape(), [curveVertex()](https://p5js.org/reference/#/p5/curveVertex), vertex(), arc(), PI
 
 Example:
-Sketch: <img src="http://nicole.pizza/itp/wp-content/uploads/2015/09/IMG_9936-1024x768.jpg" width="300px">
-Final: <img src="http://nicole.pizza/itp/wp-content/uploads/2015/09/in-11.gif" width="300px">
+Sketch: <br> <img src="http://nicole.pizza/itp/wp-content/uploads/2015/09/IMG_9936-1024x768.jpg" width="300px">
+Final: <br><img src="http://nicole.pizza/itp/wp-content/uploads/2015/09/in-11.gif" width="300px">
+<br>
 Work by Nicole He
 
 ### The concept of peer-tutoring
