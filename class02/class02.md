@@ -19,6 +19,7 @@ Agenda:
   - The first one for next week: push(), pop()
 
 ### Artwork showcase and discussion: what might be the notion of fun?
+![Interfight](https://github.com/AUAP/AP2018/blob/master/class02/interfight.png)
 [Inter_fight](https://escuderoandaluz.com/2015/06/08/inter_fight/)(2015) by Cesar Escudero Andaluz
   - Interflight is a playful and artistic installation where users can interact with small robotic interfaces, at the same time these robots scroll and move on a touch-screen located on the floor of a cage where is displayed an interactive map.
 
