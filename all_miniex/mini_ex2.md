@@ -6,7 +6,7 @@
 
 **Get some fun inspiration here**
 - [Microcodes](http://pallthayer.dyndns.org/microcodes/)(2009) by Pall Thayer
-- [the revolving internet](http://therevolvinginternet.com/) (2010) by Constant Dullaart (if you want to see some articulation about his style of work, you can look into the Fun and Software book, pp. 244-246 (text by Annet Dekker)
+- [the revolving internet](http://therevolvinginternet.com/) (2010) by Constant Dullaart (if you want to see some articulation about his style of work, you can look into the Fun and Software book, pp. 244-246 -text by Annet Dekker)
 - [Nudemen clock](http://lovedbdb.com/nudemenClock/index2.html)(2011) by Francis Lam (see [here](http://90.146.8.18/en/archives/prix_archive/prix_projekt.asp?iProjectID=12873#) for his agenda on working with nudemen previously)
 - [nonsense](http://siusoon.net/?p=17) (2015, 2017) by Winnie Soon
 
