@@ -12,7 +12,7 @@
 
 **Tasks:**
 1. Make sure you have read Goriunova's text: Goriunova, Oga. Fun and Software: Exploring Pleasure, Paradox and Pain in Computing. Bloomsbury Academic, 2014, pp.1-19.(see weekly ref list)
-2. Based on your current programming skills, design a program that you think is addressing Goriunova's notion of fun. (it is ok to be simple, and it is ok to draw something static. Just explore the wild)  
+2. Based on your current programming skills, design a program that you think is expressing and addressing Goriunova's notion of fun. (it is ok to be simple, and it is ok to draw something static. Just explore the wild)  
 3. Upload your program/result to your own Github account under a folder called **mini_ex2**. (Make sure your program can be run on a web browser) 
 4. Create a readme file (README.md) and upload to the same mini_ex2 directory (see [this](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for editing the README). The readme file should contain the followings:
 - A screenshot of your program
