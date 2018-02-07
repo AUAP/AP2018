@@ -64,7 +64,9 @@ Time to do some free style drawing. The challenge is to draw your neighbour's po
 Tips: Check out beginShape(), endShape(), [curveVertex()](https://p5js.org/reference/#/p5/curveVertex), vertex(), arc(), PI
 
 Example:
-![portrait](http://nicole.pizza/itp/wp-content/uploads/2015/09/IMG_9936-1024x768.jpg)
+Sketch: ![portrait](http://nicole.pizza/itp/wp-content/uploads/2015/09/IMG_9936-1024x768.jpg)
+Final: ![Final](http://nicole.pizza/itp/wp-content/uploads/2015/09/in-11.gif)
+Work by Nicole He
 
 ### The concept of peer-tutoring
   - 9 groups [here](https://etherpad.net/p/ap2018)
