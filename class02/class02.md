@@ -5,7 +5,7 @@ Agenda:
 - Basic structure: HTML, CSS, JS
 - The basics
 - Errors + different types of errors: print(), console.log()
-- In-class challenge: Grid paper portrait on p5.js
+- In-class challenge: Grid paper portrait in p5.js
 - The concept of peer-tutoring
 - Tasks for next week
 
