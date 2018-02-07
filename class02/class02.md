@@ -24,9 +24,12 @@ Agenda:
  
 *Reference image: [Creating Web Widget with HTML, CSS, and JavaScript by Raj Lal](https://www.codeproject.com/Articles/81355/Chapter-Creating-Web-Widget-with-HTML-CSS-and-Ja)*
 
-- HTML: a markup language that use tags to define elements within a document. It is more a structure that defines, organizes and governs a document  e.g the title, the language, the format, etc. It is a language, a human readable language that also instructs a browser to render the (html) tags, in which it defines how images, text or any other multimedia forms are displayed in web browsers. 
+- (Hypertext Markup Language) HTML: a markup language that use tags to define elements within a document. It is more a structure that defines, organizes and governs a document  e.g the title, the language, the format, etc. It is a language, a human readable language that also instructs a browser to render the (html) tags, in which it defines how images, text or any other multimedia forms are displayed in web browsers. 
 ![html image](https://github.com/AUAP/AP2018/blob/master/class02/html.png)
-- CSS: 
+- (Cascading Style Sheet) CSS: It is a language that applies styling to HTML elements. The sheet is like a template or a set of rules that determine how a webpage looks like, in other words, it is about styling and representation on a certain part of your page. e.g color, font size, tables, etc. If you look at line 5
+'''
+  <style> body {padding: 0; margin: 0;} </style>
+'''
 
 ### The concept of peer-tutoring
   - 9 groups [here](https://etherpad.net/p/ap2018)
