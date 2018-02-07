@@ -58,7 +58,8 @@ Line 6 and 7 above indicates how javascript files can be imported into the html 
       - Naming: [Variables](https://p5js.org/examples/data-variables.html)
   - basic arithmetic operators 
       - add(+), subtract(-), multiply(*) and divide(/)
-  
+### In-class ex: Mondrian's shapes drawing
+
 ### The concept of peer-tutoring
   - 9 groups [here](https://etherpad.net/p/ap2018)
   - The concept of presenters and respondents
