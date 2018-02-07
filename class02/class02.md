@@ -18,7 +18,9 @@ Agenda:
   - The concept of presenters and respondents
   - The first one for next week: push(), pop()
 
-## Artwork showcase: what might be the notion of fun?
+### Artwork showcase and discussion: what might be the notion of fun?
+[Inter_fight](https://escuderoandaluz.com/2015/06/08/inter_fight/)(2015) by Cesar Escudero Andaluz
+  - Interflight is a playful and artistic installation where users can interact with small robotic interfaces, at the same time these robots scroll and move on a touch-screen located on the floor of a cage where is displayed an interactive map.
 
 ### The concept of fun
   - Using the example of Love Letter Generator: "the fun of 'geekiness,' wit, the humour and extravagance of mathematical geniuses and their material processes of thinking and making" (p.2)
