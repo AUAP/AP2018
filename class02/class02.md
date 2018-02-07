@@ -47,17 +47,16 @@ Line 6 and 7 above indicates how javascript files can be imported into the html 
      <img src="https://processing.org/tutorials/drawing/imgs/drawing-03.svg" width="550">
      
      *Reference image: [Processing](https://processing.org)*
-  - Two major functions i.e setup and draw
   - Numbers and pixels
   - createCanvas(), width, height
-  - Commenting Code
+  - Two major functions i.e setup and draw
+  - Commenting Code (code for running and code for not running)
 ##### Basic orientation/calculation
   - use of variables 
       - Naming: [Variables](https://p5js.org/examples/data-variables.html), [Arrays](https://p5js.org/examples/arrays-array.html) and [functions](https://p5js.org/examples/structure-functions.html)
 
   - basic arithmetic operators 
   
-    
 ### The concept of peer-tutoring
   - 9 groups [here](https://etherpad.net/p/ap2018)
   - The concept of presenters and respondents
