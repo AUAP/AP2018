@@ -40,8 +40,9 @@ Line 6 and 7 above indicates how javascript files can be imported into the html 
 
 ### The basics: 
 ##### Think in terms of a canvas
+![sketch02](https://github.com/AUAP/AP2018/blob/master/class02/sketch02.png)
   - Coordinate System
-  [Coordinate system](https://p5js.org/examples/structure-coordinates.html)
+  [Coordinate system](https://p5js.org/examples/structure-coordinates.html)!
   
      <img src="https://processing.org/tutorials/drawing/imgs/drawing-03.svg" width="550">
      
