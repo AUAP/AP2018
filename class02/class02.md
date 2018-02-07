@@ -25,6 +25,7 @@ Agenda:
 *Reference image: [Creating Web Widget with HTML, CSS, and JavaScript by Raj Lal](https://www.codeproject.com/Articles/81355/Chapter-Creating-Web-Widget-with-HTML-CSS-and-Ja)*
 
 - HTML: a markup language that use tags to define elements within a document. It is more a structure that defines, organizes and governs a document  e.g the title, the language, the format, etc. It is a language, a human readable language that also instructs a browser to render the (html) tags, in which it defines how images, text or any other multimedia forms are displayed in web browsers. 
+![html image](https://github.com/AUAP/AP2018/blob/master/class02/html.png)
 - CSS: 
 
 ### The concept of peer-tutoring
