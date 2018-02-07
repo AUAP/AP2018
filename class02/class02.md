@@ -5,8 +5,7 @@ Agenda:
 - Basic structure: HTML, CSS, JS
 - The basics
 - Errors + different types of errors: print(), console.log()
-- In-class ex: Grid paper drawing
-- Shapes drawing
+- In-class ex: Mondrian's shapes drawing 
 - The concept of peer-tutoring
 - Tasks for next week
 
@@ -49,12 +48,12 @@ Line 6 and 7 above indicates how javascript files can be imported into the html 
      *Reference image: [Processing](https://processing.org)*
   - Numbers and pixels
   - createCanvas(), width, height
-  - Two major functions i.e setup and draw
+  - Two major functions i.e setup() and draw()
+  - Other built in function: preload()
   - Commenting Code (code for running and code for not running)
 ##### Basic orientation/calculation
   - use of variables 
       - Naming: [Variables](https://p5js.org/examples/data-variables.html)
-
   - basic arithmetic operators 
       - add(+), subtract(-), multiply(*) and divide(/)
   
