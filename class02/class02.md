@@ -3,9 +3,7 @@ Again...this is the unstable/messy notes for class02: Having *Fun* with Basics
 Agenda:
 - Artwork showcase: what might be the notion of fun?
 - Basic structure: HTML, CSS, JS
-- The basics: Coordinate System and other syntax 
-- Think in terms of a canvas
-- Basic orientation/calculation: pixel, width, height, use of variables and basic arithmetic operators 
+- The basics
 - Errors + different types of errors: print(), console.log()
 - In-class ex: Grid paper drawing
 - Shapes drawing
@@ -41,12 +39,16 @@ In terms of the relationship with HTML and CSS, Javascript supports dynamic inte
 
 Line 6 and 7 above indicates how javascript files can be imported into the html page with the opening and closing tags <script></script>
 
-### The basics: Coordinate System and other syntax 
+### The basics: 
+#### Coordinate System 
 - [Coordinate system](https://p5js.org/examples/structure-coordinates.html)
   
      <img src="https://processing.org/tutorials/drawing/imgs/drawing-03.svg" width="550">
      
      *Reference image: [Processing](https://processing.org)*
+
+##### Think in terms of a canvas
+##### Basic orientation/calculation: pixel, width, height, use of variables and basic arithmetic operators 
   - [Basic syntax](https://p5js.org/reference/) e.g color, background, createCanvas, functions, for-loop, if-else statments, var
   - Naming: [Variables](https://p5js.org/examples/data-variables.html), [Arrays](https://p5js.org/examples/arrays-array.html) and [functions](https://p5js.org/examples/structure-functions.html)
   
