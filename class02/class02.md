@@ -64,11 +64,12 @@ Line 6 and 7 above indicates how javascript files can be imported into the html 
       - multiply(*) 
       - divide(/)
       
-##### real-time code jam with teletype on Atom
+##### real-time code jam/live coding with teletype on Atom
 1. install the [teletype package](https://teletype.atom.io/) on Atom: Preference > Install 
 2. get the sharing key 
 3. click the bottom right corner icon (like a wifi icon), then copy and paste the key onto the panel to start tinkering together
-4. Task: how to load the same image (the loading bar) with loadImage(), in which the image file is stored under a local folder "images/loading.gif"? 
+4. Task: how to load the same image (the loading bar) with functions: loadImage() and image(), in which the image file is stored under a local folder "images/loading.gif"? 
+5. What's your finding in terms of the "animated" gif? 
 
 ### In-class challenge: Grid paper portrait in p5.js
 Time to do some free style drawing. The challenge is to draw your neighbour's portrait on a grid paper and then convert the hand-drawing into a p5.js sketch. Upload your hand-drawing and your p5 sketch on Github.
