@@ -65,6 +65,7 @@ Line 6 and 7 above indicates how javascript files can be imported into the html 
       - divide(/)
       
 ##### real-time code jam/live coding with teletype on Atom
+![teletype](https://github.com/AUAP/AP2018/blob/master/class02/teletype.png)
 1. install the [teletype package](https://teletype.atom.io/) on Atom: Preference > Install 
 2. get the sharing key 
 3. click the bottom right corner icon (like a wifi icon), then copy and paste the key onto the panel to start tinkering together
