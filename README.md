@@ -250,8 +250,8 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 - **Weekly mini ex11: due week 17, Sun night | Draft of synopsis**
   - check mini_ex folder > mini_ex11.md
 ---
-#### Class 12 | Week 16 | 20 Apr 2018 (Fri), 14.00-16.00 @ The small Auditorium, Building 5510, INCUBA Science Park**
-Guest lecture by Anders Visti. Details will follow soon.
+#### Class 12 | Week 16 | 20 Apr 2018 (Fri), 14.00-16.00 @ The small Auditorium, Building 5510, INCUBA Science Park
+- Guest lecture by Anders Visti. Details will follow soon.
 ---
 #### Class 13 | Week 17 | 24 Apr 2018: Group supervision
 ##### Wed tutorial session and NO Fri shutup and code session.
