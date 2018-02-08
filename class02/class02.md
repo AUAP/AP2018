@@ -1,3 +1,5 @@
+Announcement: Rules + change of date on guest Lecture: Anders Visti 
+
 Again...this is the unstable/messy notes for class02: Having *Fun* with Basics
 
 Agenda:
