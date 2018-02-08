@@ -214,16 +214,12 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 - **Weekly mini ex9: due week 15, Monday night | Working with APIs** 
   - check mini_ex folder > mini_ex9.md
 ---
-#### Class 10 | Week 15 | 13 Apr 2018 (FRI) @ The small Auditorium, Building 5510, INCUBA Science Park
-##### Algorithms + Guest lecture by Anders Visti
-##### NO CLASS ON TUE. The class is changed from 10 Apr to 13 Apr 2018!!!
-##### Wed WITH tutorial session
+#### Class 10 | Week 15 | 10 Apr 2018: Algorithms
+##### Wed tutorial session and NO Fri shutup and code session
 - **Class Structure**
   - 11.00-12.30
     - Peer-tutoring 
     - Flow chart and Algorithms
-  - 14.00-16.00
-    - Guest Lecture by Anders Visti. Details will follow soon 
 - **Read/watch before class**
   - [4 mins video: Algorithms in pseudocode and flow diagrams](https://www.youtube.com/watch?v=XDWw4Ltfy5w)
   - [18 mins video: Algorithms in BBC](https://www.youtube.com/watch?v=gOKVwRIyWdg) and full ver (optional) is [here](https://www.youtube.com/watch?v=T1os88EvPc4&t=0s)
@@ -236,7 +232,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - check mini_ex folder > mini_ex10.md
 ---
 #### Class 11 | Week 16 | 17 Apr 2018: Advanced topics: Machine Learning and Prediction
-##### Wed tutorial session and NO Fri shutup and code session.
+##### Wed tutorial session and NO Fri shutup and code session but with Fri Mandatory Guest Lecture
 - **Class Structure**
   - What is Machine Learning? 
   - Introducing ML's js library
@@ -254,14 +250,17 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 - **Weekly mini ex11: due week 17, Sun night | Draft of synopsis**
   - check mini_ex folder > mini_ex11.md
 ---
-#### Class 12 | Week 17 | 24 Apr 2018: Group supervision
+#### Class 12 | Week 16 | 20 Apr 2018 (Fri), 14.00-16.00 @ The small Auditorium, Building 5510, INCUBA Science Park**
+Guest lecture by Anders Visti. Details will follow soon.
+---
+#### Class 13 | Week 17 | 24 Apr 2018: Group supervision
 ##### Wed tutorial session and NO Fri shutup and code session.
 - Details will follow soon
 ---
 #### Week 18 | NO CLASS, FINAL PROJECT PREPARATION
 ##### Wed tutorial session and NO Fri shutup and code session.
 ---
-#### Class 13 | Week 19 | 11 May 2018 @ 5361-144: FINAL PROJECT PRESENTATION + ORAL EXAM + EVALUATION
+#### Class 14 | Week 19 | 11 May 2018 @ 5361-144: FINAL PROJECT PRESENTATION + ORAL EXAM + EVALUATION
 **NO CLASS ON TUE. The class is changed from 8 May to 11 May 2018!!!** 
 **NO Wed tutorial session**
 - Details will follow soon, and it would be a rather long day.
