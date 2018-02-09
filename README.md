@@ -187,10 +187,9 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 - **Weekly mini ex7: due week 14, Monday night | Generative Art** 
   - check mini_ex folder > mini_ex7.md
  ---
- #### Class 08 | Week 12 | 22 Mar 2018 (FRI): Guest Lecture by Nick Montfort
+ #### Class 08 | Week 12 | 22 Mar 2018 (Thur): Guest Lecture by Nick Montfort (Mandatory)
  - **Class Structure**
-  - 11.00-12.30 @ 5361-135: Revisit the basic coding (no new stuff)
-  - 14.00-16.00, venue TBC: Guest Lecture. Details will follow soon 
+  - 15.00-16.30, venue TBC: Guest Lecture. Details will follow soon 
 ---
  #### Week 13, no class due to Easter Holiday
  ##### No Wed tutorial session and NO Fri shutup and code session.
