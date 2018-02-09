@@ -3,11 +3,14 @@
 var img;
 var throbber;
 
+function preload() {
+  img = loadImage("images/Theartgalleryofthefuture.gif");
+  throbber=createImg("images/throbber.gif");
+}
+
 function setup() {
 createCanvas(489, 500);
 noCursor();
-img = loadImage("images/Theartgalleryofthefuture.gif");
-throbber=createImg("images/throbber.gif");
 throbber.size(25,25);
 }
 
