@@ -43,7 +43,9 @@ Line 6 and 7 above indicates how javascript files can be imported into the html 
 ### The basics: 
 ##### Think in terms of a canvas
 ![sketch02](https://github.com/AUAP/AP2018/blob/master/class02/sketch02.gif)
+<br>
 [Run me](https://cdn.rawgit.com/AUAP/AP2018/913db53a/class02/sketch02/index.html)
+<br>
   - Coordinate System
   [Coordinate system](https://p5js.org/examples/structure-coordinates.html)!
   
@@ -52,14 +54,38 @@ Line 6 and 7 above indicates how javascript files can be imported into the html 
      *Reference image: [Processing](https://processing.org)*
   - Numbers and pixels
   - createCanvas(), width, height
+```javascript
+function setup() {
+  createCanvas(489, 500);
+}
+```
   - Two major functions i.e setup() and draw()
-  - Other built in function: preload()
+  - Other built in function: [preload()](https://p5js.org/reference/#/p5/preload)
+    - about time and sequence
+    - load before setup() is run
   - Commenting Code (code for running and code for not running)
 ##### Basic orientation/calculation
   - use of variables 
-      - Naming: [Variables](https://p5js.org/examples/data-variables.html)
+```javascript
+var img;
+img = loadImage("images/Theartgalleryofthefuture.gif");
+```
+```javascript
+var siz = 25;
+throbber.size(siz,siz);
+```
+   - Naming: [Variables](https://p5js.org/examples/data-variables.html)
+   - think in terms of a container, where a value is stored and it can be changed over time.
+   - e.g text, number, URL, etc 
+   - Technically: it registers a memory cell/location (RAM) with the address and name 
+```javascript
+console.log(width, height);
+```
   - basic arithmetic operators 
-      - add(+): + for both numbers and text/characters (see line 15 above)
+      - add(+): + for both numbers and text/characters 
+```javascript
+  console.log("hello " + "world");
+```
       - subtract(-)
       - multiply(*) 
       - divide(/)
