@@ -45,6 +45,7 @@ Line 6 and 7 above indicates how javascript files can be imported into the html 
 ![sketch02](https://github.com/AUAP/AP2018/blob/master/class02/sketch02.gif)
 <br>
 [Run me (sketch02- sample code)](https://cdn.rawgit.com/AUAP/AP2018/913db53a/class02/sketch02/index.html)
+<br>
 [Source code of sketch02](https://github.com/AUAP/AP2018/blob/master/class02/sketch02/sketch02.js)
 
 Questions: 
@@ -53,10 +54,12 @@ Questions:
 - How does the program work?
 - Any functions are new to you? 
 
-##### [Coordinate system](https://p5js.org/examples/structure-coordinates.html)
-  <br>
-  <img src="https://processing.org/tutorials/drawing/imgs/drawing-03.svg" width="550">
-  *Reference image: [Processing](https://processing.org)*
+#### [Coordinate system](https://p5js.org/examples/structure-coordinates.html)
+<br>
+<img src="https://processing.org/tutorials/drawing/imgs/drawing-03.svg" width="550">
+*Reference image: [Processing](https://processing.org)*
+---  
+  
   - Numbers and pixels
   - createCanvas(), width, height
 ```javascript
