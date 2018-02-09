@@ -51,6 +51,7 @@ Questions:
 - How does the program work?
 - Any functions are new to you? 
 <br>
+
 ```javascript
 //inspired by https://steemit.com/funny/@funnyquotes/the-art-gallery-of-the-future
 
@@ -132,12 +133,9 @@ function mousePressed() {
 }
 
 ```
-  - Coordinate System
-  [Coordinate system](https://p5js.org/examples/structure-coordinates.html)!
-  
-     <img src="https://processing.org/tutorials/drawing/imgs/drawing-03.svg" width="550">
-     
-     *Reference image: [Processing](https://processing.org)*
+  -[Coordinate system](https://p5js.org/examples/structure-coordinates.html)!
+  <img src="https://processing.org/tutorials/drawing/imgs/drawing-03.svg" width="550">
+  *Reference image: [Processing](https://processing.org)*
   - Numbers and pixels
   - createCanvas(), width, height
 ```javascript
