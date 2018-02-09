@@ -42,8 +42,8 @@ Line 6 and 7 above indicates how javascript files can be imported into the html 
 
 ### The basics: 
 ##### Think in terms of a canvas
-![sketch02](https://github.com/AUAP/AP2018/blob/master/class02/sketch02.png)
-[Run me](https://cdn.rawgit.com/AUAP/AP2018/af233b7b/class02/sketch02/index.html)
+![sketch02](https://github.com/AUAP/AP2018/blob/master/class02/sketch02.gif)
+[Run me](https://cdn.rawgit.com/AUAP/AP2018/913db53a/class02/sketch02/index.html)
   - Coordinate System
   [Coordinate system](https://p5js.org/examples/structure-coordinates.html)!
   
