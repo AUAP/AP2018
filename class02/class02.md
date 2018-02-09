@@ -53,9 +53,12 @@ Line 6 and 7 above indicates how javascript files can be imported into the html 
 [Source code of sketch02](https://github.com/AUAP/AP2018/blob/master/class02/sketch02/sketch02.js)
 
 Questions: 
-- Have you seen [this](https://steemit.com/funny/@funnyquotes/the-art-gallery-of-the-future)?
+- Have you seen [this](https://steemit.com/funny/@funnyquotes/the-art-gallery-of-the-future)? (this is where I start from, and no photoshop for any image retouching)
 - What is this sample code? 
 - How does the program work?
+  - How would you cover the painting?
+    - which function to use?
+    - How to get the coordinate?
 - Any functions are new to you? 
 
 #### [Coordinate system](https://p5js.org/examples/structure-coordinates.html)
