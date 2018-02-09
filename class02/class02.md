@@ -58,8 +58,8 @@ Questions:
 - How does the program work?
   - How would you cover the paintings?
     - Which functions to use?
-    - How to get the coordinate?
-- Any functions are new to you? 
+    - How to identify the coordinates?
+- Any functions are new to you in sketch02? 
 
 #### [Coordinate system](https://p5js.org/examples/structure-coordinates.html)
 <br>
