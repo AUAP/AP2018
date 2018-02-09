@@ -147,6 +147,11 @@ Some thoughts: Do think about how Adobe illustrator is designed and developed. W
 
 ---
 
+
+
+
+
+
 ### The concept of fun
   - Using the example of Love Letter Generator: "the fun of 'geekiness,' wit, the humour and extravagance of mathematical geniuses and their material processes of thinking and making" (p.2)
   - "Humour here is indicative of the pleasure of breakthrough, of thought experimentation, of unconstrained and purposeless but intense and curious and materially specific enquiry." (p. 2)
