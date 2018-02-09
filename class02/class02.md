@@ -103,9 +103,11 @@ throbber.size(siz,siz);
   ```javascript
   console.log("hello " + "world");
   ```
-##### Questions:
-What's the difference between loadImage() and createImg()? 
-- Can you decode the logic behind why the sample code use loadImage and createImg in loading the images?
+#### Questions:
+What's the difference between loadImage() and createImg() in sketch02? 
+- Can you decode the logic behind why the sample code employs 'loadImage' and 'createImg' in loading the images?
+
+### Errors
 
 ### In-class challenge: Grid paper portrait in p5.js
 Time to do some free style drawing. The challenge is to draw your neighbour's portrait on a grid paper and then convert the hand-drawing into a p5.js sketch. Upload your hand-drawing and your p5 sketch on Github.
@@ -120,8 +122,6 @@ Work by Nicole He
 
 Some thoughts: Do think about how Adobe illustrator is designed and developed. What is vector graphics? 
 
-##### Errors
-
 ### The concept of peer-tutoring
   - 9 groups [here](https://etherpad.net/p/ap2018)
   - The concept of presenters and respondents
@@ -131,7 +131,6 @@ Some thoughts: Do think about how Adobe illustrator is designed and developed. W
   - the concept of mini exercises
   - mini_ex2: [A fun drawing](https://github.com/AUAP/AP2018/blob/master/all_miniex/mini_ex2.md)
   - peer-tutoring: push(), pop()
-
 
 ---
 
