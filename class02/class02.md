@@ -52,8 +52,8 @@ Questions:
 - What is this sample code? 
 - How does the program work?
 - Any functions are new to you? 
-<br>
-  -[Coordinate system](https://p5js.org/examples/structure-coordinates.html)
+
+##### [Coordinate system](https://p5js.org/examples/structure-coordinates.html)
   <br>
   <img src="https://processing.org/tutorials/drawing/imgs/drawing-03.svg" width="550">
   *Reference image: [Processing](https://processing.org)*
@@ -68,12 +68,12 @@ try:
 ```javascript
 console.log(width, height);
 ```
-  - Two major functions i.e setup() and draw()
-  - Other built in function: [preload()](https://p5js.org/reference/#/p5/preload)
-    - about time and sequence
-    - load before setup() is run
-  - Commenting Code (code for running and code for not running)
-##### Basic orientation/calculation
+##### Two major functions i.e setup() and draw()
+##### Other built in function: [preload()](https://p5js.org/reference/#/p5/preload)
+  - about time and sequence
+  - load before setup() is run
+##### Commenting Code (code for running and code for not running)
+### Basic orientation/calculation
 ```javascript
 var img;
 img = loadImage("images/Theartgalleryofthefuture.gif");
@@ -82,19 +82,19 @@ img = loadImage("images/Theartgalleryofthefuture.gif");
 var siz = 25;
 throbber.size(siz,siz);
 ```
-   - Variables 
-      - Naming: [Variables](https://p5js.org/examples/data-variables.html)
-      - think in terms of a container, where a value is stored and it can be changed over time.
-      - e.g text, number, URL, etc 
-      - Technically: it registers a memory cell/location (RAM) with the address, name, type and value 
-      - interesting questions: how to remember(store) and how to forget(erase)? (if you are interested, see [here: Memory: To remember and forget](http://poeticcomputation.info/chapters/ch.2/)
+##### Variables 
+   - Naming: [Variables](https://p5js.org/examples/data-variables.html)
+   - think in terms of a container, where a value is stored and it can be changed over time.
+   - e.g text, number, URL, etc 
+   - Technically: it registers a memory cell/location (RAM) with the address, name, type and value 
+   - interesting questions: how to remember(store) and how to forget(erase)? (if you are interested, see [here: Memory: To remember and forget](http://poeticcomputation.info/chapters/ch.2/)
    ![memory2](https://thetechjournal.com/wp-content/uploads/2012/10/ram-windows-speed-up.jpg)
    ![memory](http://www.tenouk.com/clabworksheet/labworksheet6_files/cprogrammingscanf004.png)
-  - basic arithmetic operators 
-      - add(+): + for both numbers and text/characters 
-      - subtract(-)
-      - multiply(*) 
-      - divide(/)
+##### basic arithmetic operators 
+   - add(+): + for both numbers and text/characters 
+   - subtract(-)
+   - multiply(*) 
+   - divide(/)
   ```javascript
   console.log("hello " + "world");
   ```
