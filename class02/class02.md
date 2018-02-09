@@ -56,8 +56,8 @@ Questions:
 - Have you seen [this](https://steemit.com/funny/@funnyquotes/the-art-gallery-of-the-future)? (this is where I start from, and no photoshop for any image retouching)
 - What is this sample code? 
 - How does the program work?
-  - How would you cover the painting?
-    - which function to use?
+  - How would you cover the paintings?
+    - Which functions to use?
     - How to get the coordinate?
 - Any functions are new to you? 
 
