@@ -1,37 +1,72 @@
-var loading_img;
-var imgsize_width = 150;  //try to change this parameter from 125-200
-var imgsize_height = 100;
+//inspired by https://steemit.com/funny/@funnyquotes/the-art-gallery-of-the-future
 
-function preload() {
-  //check also loadImage() from reference //https://p5js.org/reference/#/p5/loadImage
-  loading_img=createImg("http://i.imgur.com/omGnqz7.gif"); //requires p5.dom lib, check https://p5js.org/reference/#/p5/createImg
-}
+var img;
+var throbber;
 
 function setup() {
-  // put setup code here
-  createCanvas(300,250);
-  background(0,0,0);
-  loading_img.size(imgsize_width,imgsize_height);
-  console.log("hello " + "world"); //can add/concatenate words as well 
+createCanvas(489, 500);
+noCursor();
+img = loadImage("images/Theartgalleryofthefuture.gif");
+throbber=createImg("images/throbber.gif");
+throbber.size(25,25);
 }
 
 function draw() {
-  // put drawing code here
-  loading_img.position(76,76); //locate the gif
-  noStroke();
-  fill(255); //check https://p5js.org/reference/#/p5/fill
-  rect(0,0,25,25);
-  fill(100);
-  ellipse(0,0,50,50);
-  fill(155);
-  rect(25,25,50,50);
-  noFill();
-  stroke(0, 153, 255);
-  line(75,75,75,75+imgsize_height);
-  line(75+imgsize_width+3,75,75+imgsize_width+3,75+imgsize_height);
-  line(75,75,75+imgsize_width+3,75);
-  line(75,75+imgsize_height+1,75+imgsize_width+3,75+imgsize_height+1);
-  noStroke();
-  fill(0, 153, 255);
-  rect(25+50+imgsize_width+4,25+50+imgsize_height+2,imgsize_height,imgsize_height);
+throbber.position(mouseX,mouseY); //locate the gif
+image(img, 5,5);
+noStroke();
+fill(188, 185,169);
+beginShape(); //left top
+vertex(6,85);
+vertex(58,80);
+vertex(59,126);
+vertex(6,129);
+endShape(CLOSE);
+
+beginShape(); //second left top
+vertex(98,58);
+vertex(140,51);
+vertex(139,124);
+vertex(98,127);
+endShape(CLOSE);
+
+beginShape();  //middle big one
+vertex(173,28);
+vertex(235,18);
+vertex(279,29);
+vertex(268,267);
+vertex(166,264);
+endShape(CLOSE);
+
+beginShape();  //top second right
+vertex(332,33);
+vertex(373,28);
+vertex(372,84);
+vertex(330,90);
+endShape(CLOSE);
+
+beginShape();  //top right
+vertex(435,27);
+vertex(484,20);
+vertex(483,79);
+vertex(435,85);
+endShape(CLOSE);
+
+beginShape();  //bottom right
+vertex(332,160);
+vertex(484,151);
+vertex(483,286);
+vertex(331,280);
+endShape(CLOSE);
+
+beginShape();  //bottom left
+vertex(6,168);
+vertex(123,161);
+vertex(117,275);
+vertex(7,272);
+endShape(CLOSE);
+}
+
+function mousePressed() {
+  console.log(mouseX, mouseY);
 }
