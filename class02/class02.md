@@ -71,10 +71,12 @@ try:
 ```javascript
 console.log(width, height);
 ```
-#### Two major functions i.e setup() and draw()
-#### Other built in function: [preload()](https://p5js.org/reference/#/p5/preload)
-  - about time and sequence
-  - load before setup() is run
+#### functions with a block of code inside
+  - Default: i.e setup() and draw()
+  - Other built in function: [preload()](https://p5js.org/reference/#/p5/preload)
+    - about time and sequence
+    - load before setup() is run
+  - Self created function  (call a function) -> can be used and reused by calling its name
 #### Commenting Code (code for running and code for not running)
 ### Basic orientation/calculation
 ```javascript
