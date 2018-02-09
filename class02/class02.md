@@ -133,7 +133,8 @@ function mousePressed() {
 }
 
 ```
-  -[Coordinate system](https://p5js.org/examples/structure-coordinates.html)!
+  -[Coordinate system](https://p5js.org/examples/structure-coordinates.html)
+  <br>
   <img src="https://processing.org/tutorials/drawing/imgs/drawing-03.svg" width="550">
   *Reference image: [Processing](https://processing.org)*
   - Numbers and pixels
@@ -166,21 +167,22 @@ throbber.size(siz,siz);
    - think in terms of a container, where a value is stored and it can be changed over time.
    - e.g text, number, URL, etc 
    - Technically: it registers a memory cell/location (RAM) with the address, name, type and value 
-   ![memory](http://www.tenouk.com/clabworksheet/labworksheet6_files/cprogrammingscanf004.png)
    ![memory2](https://thetechjournal.com/wp-content/uploads/2012/10/ram-windows-speed-up.jpg)
+   ![memory](http://www.tenouk.com/clabworksheet/labworksheet6_files/cprogrammingscanf004.png)
    - interesting questions: how to remember(store) and how to forget(erase)? (if you are interested, see [here: Memory: To remember and forget](http://poeticcomputation.info/chapters/ch.2/)
   - basic arithmetic operators 
-      - add(+): + for both numbers and text/characters 
-```javascript
+  ```javascript
   console.log("hello " + "world");
-```
-<br>
+  ```
+ <br>
+      - add(+): + for both numbers and text/characters 
       - subtract(-)
       - multiply(*) 
       - divide(/)
       
 ##### Questions:
-What's the different between loadImage() and createImg()? 
+What's the difference between loadImage() and createImg()? 
+- Can you decode the logic behind why the sample code use loadImage and createImg in loading the images?
 
 ### In-class challenge: Grid paper portrait in p5.js
 Time to do some free style drawing. The challenge is to draw your neighbour's portrait on a grid paper and then convert the hand-drawing into a p5.js sketch. Upload your hand-drawing and your p5 sketch on Github.
