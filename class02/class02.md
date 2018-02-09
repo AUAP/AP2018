@@ -44,8 +44,94 @@ Line 6 and 7 above indicates how javascript files can be imported into the html 
 ##### Think in terms of a canvas
 ![sketch02](https://github.com/AUAP/AP2018/blob/master/class02/sketch02.gif)
 <br>
-[Run me](https://cdn.rawgit.com/AUAP/AP2018/913db53a/class02/sketch02/index.html)
+[Run me (sketch02- sample code)](https://cdn.rawgit.com/AUAP/AP2018/913db53a/class02/sketch02/index.html)
+Questions: 
+- Have you seen [this](https://steemit.com/funny/@funnyquotes/the-art-gallery-of-the-future)?
+- What is this sample code? 
+- How does the program work?
+- Any functions are new to you? 
 <br>
+```javascript
+//inspired by https://steemit.com/funny/@funnyquotes/the-art-gallery-of-the-future
+
+var img;
+var throbber;
+var siz = 25;
+
+function preload() {
+  img = loadImage("images/Theartgalleryofthefuture.gif");
+  throbber=createImg("images/throbber.gif");
+}
+
+function setup() {
+  createCanvas(489, 500);
+  noCursor();
+  throbber.size(siz,siz);
+  console.log("hello " + "world");
+}
+
+function draw() {
+  throbber.position(mouseX,mouseY); //locate the gif
+  image(img, 5,5);
+  noStroke();
+  fill(188, 185,169);
+  beginShape(); //left top
+  vertex(6,85);
+  vertex(58,80);
+  vertex(59,126);
+  vertex(6,129);
+  endShape(CLOSE);
+
+  beginShape(); //second left top
+  vertex(98,58);
+  vertex(140,51);
+  vertex(139,124);
+  vertex(98,127);
+  endShape(CLOSE);
+
+  beginShape();  //middle big one
+  vertex(173,28);
+  vertex(235,18);
+  vertex(279,29);
+  vertex(268,267);
+  vertex(166,264);
+  endShape(CLOSE);
+
+  beginShape();  //top second right
+  vertex(332,33);
+  vertex(373,28);
+  vertex(372,84);
+  vertex(330,90);
+  endShape(CLOSE);
+
+  beginShape();  //top right
+  vertex(435,27);
+  vertex(484,20);
+  vertex(483,79);
+  vertex(435,85);
+  endShape(CLOSE);
+
+  beginShape();  //bottom right
+  vertex(332,160);
+  vertex(484,151);
+  vertex(483,286);
+  vertex(331,280);
+  endShape(CLOSE);
+
+  beginShape();  //bottom left
+  vertex(6,168);
+  vertex(123,161);
+  vertex(117,275);
+  vertex(7,272);
+  endShape(CLOSE);
+
+}
+
+function mousePressed() {
+  console.log(mouseX, mouseY);
+}
+
+```
   - Coordinate System
   [Coordinate system](https://p5js.org/examples/structure-coordinates.html)!
   
@@ -58,6 +144,10 @@ Line 6 and 7 above indicates how javascript files can be imported into the html 
 function setup() {
   createCanvas(489, 500);
 }
+```
+try: 
+```javascript
+console.log(width, height);
 ```
   - Two major functions i.e setup() and draw()
   - Other built in function: [preload()](https://p5js.org/reference/#/p5/preload)
@@ -77,27 +167,22 @@ throbber.size(siz,siz);
    - Naming: [Variables](https://p5js.org/examples/data-variables.html)
    - think in terms of a container, where a value is stored and it can be changed over time.
    - e.g text, number, URL, etc 
-   - Technically: it registers a memory cell/location (RAM) with the address and name 
-```javascript
-console.log(width, height);
-```
+   - Technically: it registers a memory cell/location (RAM) with the address, name, type and value 
+   ![memory](http://www.tenouk.com/clabworksheet/labworksheet6_files/cprogrammingscanf004.png)
+   ![memory2](https://thetechjournal.com/wp-content/uploads/2012/10/ram-windows-speed-up.jpg)
+   - interesting questions: how to remember(store) and how to forget(erase)? (if you are interested, see [here: Memory: To remember and forget](http://poeticcomputation.info/chapters/ch.2/)
   - basic arithmetic operators 
       - add(+): + for both numbers and text/characters 
 ```javascript
   console.log("hello " + "world");
 ```
+<br>
       - subtract(-)
       - multiply(*) 
       - divide(/)
       
-##### real-time code jam/live coding with teletype on Atom
-<img src="https://github.com/AUAP/AP2018/blob/master/class02/teletype.png" width="350">
-
-- install the [teletype package](https://teletype.atom.io/) on Atom: Preference > Install 
-- get the sharing key 
-- click the bottom right corner icon (like a wifi icon), then copy and paste the key onto the panel to start tinkering together
-- Task: how to load the same image (the loading bar) with functions: loadImage() and image(), in which the image file is stored under a local folder "images/loading.gif"? 
-- What's your finding in terms of the "animated" gif? 
+##### Questions:
+What's the different between loadImage() and createImg()? 
 
 ### In-class challenge: Grid paper portrait in p5.js
 Time to do some free style drawing. The challenge is to draw your neighbour's portrait on a grid paper and then convert the hand-drawing into a p5.js sketch. Upload your hand-drawing and your p5 sketch on Github.
