@@ -45,94 +45,14 @@ Line 6 and 7 above indicates how javascript files can be imported into the html 
 ![sketch02](https://github.com/AUAP/AP2018/blob/master/class02/sketch02.gif)
 <br>
 [Run me (sketch02- sample code)](https://cdn.rawgit.com/AUAP/AP2018/913db53a/class02/sketch02/index.html)
+[Source code of sketch02](https://github.com/AUAP/AP2018/blob/master/class02/sketch02/sketch02.js)
+
 Questions: 
 - Have you seen [this](https://steemit.com/funny/@funnyquotes/the-art-gallery-of-the-future)?
 - What is this sample code? 
 - How does the program work?
 - Any functions are new to you? 
 <br>
-
-```javascript
-//inspired by https://steemit.com/funny/@funnyquotes/the-art-gallery-of-the-future
-
-var img;
-var throbber;
-var siz = 25;
-
-function preload() {
-  img = loadImage("images/Theartgalleryofthefuture.gif");
-  throbber=createImg("images/throbber.gif");
-}
-
-function setup() {
-  createCanvas(489, 500);
-  noCursor();
-  throbber.size(siz,siz);
-  console.log("hello " + "world");
-}
-
-function draw() {
-  throbber.position(mouseX,mouseY); //locate the gif
-  image(img, 5,5);
-  noStroke();
-  fill(188, 185,169);
-  beginShape(); //left top
-  vertex(6,85);
-  vertex(58,80);
-  vertex(59,126);
-  vertex(6,129);
-  endShape(CLOSE);
-
-  beginShape(); //second left top
-  vertex(98,58);
-  vertex(140,51);
-  vertex(139,124);
-  vertex(98,127);
-  endShape(CLOSE);
-
-  beginShape();  //middle big one
-  vertex(173,28);
-  vertex(235,18);
-  vertex(279,29);
-  vertex(268,267);
-  vertex(166,264);
-  endShape(CLOSE);
-
-  beginShape();  //top second right
-  vertex(332,33);
-  vertex(373,28);
-  vertex(372,84);
-  vertex(330,90);
-  endShape(CLOSE);
-
-  beginShape();  //top right
-  vertex(435,27);
-  vertex(484,20);
-  vertex(483,79);
-  vertex(435,85);
-  endShape(CLOSE);
-
-  beginShape();  //bottom right
-  vertex(332,160);
-  vertex(484,151);
-  vertex(483,286);
-  vertex(331,280);
-  endShape(CLOSE);
-
-  beginShape();  //bottom left
-  vertex(6,168);
-  vertex(123,161);
-  vertex(117,275);
-  vertex(7,272);
-  endShape(CLOSE);
-
-}
-
-function mousePressed() {
-  console.log(mouseX, mouseY);
-}
-
-```
   -[Coordinate system](https://p5js.org/examples/structure-coordinates.html)
   <br>
   <img src="https://processing.org/tutorials/drawing/imgs/drawing-03.svg" width="550">
@@ -163,13 +83,13 @@ var siz = 25;
 throbber.size(siz,siz);
 ```
    - Variables 
-    - Naming: [Variables](https://p5js.org/examples/data-variables.html)
-    - think in terms of a container, where a value is stored and it can be changed over time.
-    - e.g text, number, URL, etc 
-    - Technically: it registers a memory cell/location (RAM) with the address, name, type and value 
+      - Naming: [Variables](https://p5js.org/examples/data-variables.html)
+      - think in terms of a container, where a value is stored and it can be changed over time.
+      - e.g text, number, URL, etc 
+      - Technically: it registers a memory cell/location (RAM) with the address, name, type and value 
+      - interesting questions: how to remember(store) and how to forget(erase)? (if you are interested, see [here: Memory: To remember and forget](http://poeticcomputation.info/chapters/ch.2/)
    ![memory2](https://thetechjournal.com/wp-content/uploads/2012/10/ram-windows-speed-up.jpg)
    ![memory](http://www.tenouk.com/clabworksheet/labworksheet6_files/cprogrammingscanf004.png)
-    - interesting questions: how to remember(store) and how to forget(erase)? (if you are interested, see [here: Memory: To remember and forget](http://poeticcomputation.info/chapters/ch.2/)
   - basic arithmetic operators 
       - add(+): + for both numbers and text/characters 
       - subtract(-)
@@ -194,6 +114,8 @@ Final: <br><img src="http://nicole.pizza/itp/wp-content/uploads/2015/09/in-11.gi
 Work by Nicole He
 
 Some thoughts: Do think about how Adobe illustrator is designed and developed. What is vector graphics? 
+
+##### Errors
 
 ### The concept of peer-tutoring
   - 9 groups [here](https://etherpad.net/p/ap2018)
