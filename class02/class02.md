@@ -17,6 +17,8 @@ Agenda:
   - Interflight is a playful and artistic installation where users can interact with small robotic interfaces, at the same time these robots scroll and move on a touch-screen located on the floor of a cage where is displayed an interactive map.
   - In-class task: Take a look at the work and description, discuss how this work may express and address the notion of fun.
 
+---
+
 ### Basic structure: HTML, CSS, JS
 ![Web](https://www.codeproject.com/KB/books/DevelopWebWidgetHtmlCssJs/bigpicture_small.png "web")
  
@@ -39,6 +41,8 @@ Agenda:
 In terms of the relationship with HTML and CSS, Javascript supports dynamic interactions, both interactions between machines and humans with the ability to transmit, capture and manipulate data. As a result, it is usually descirbed as a dynamic language that adds behaviors to the content and its presentation. 
 
 Line 6 and 7 above indicates how javascript files can be imported into the html page with the opening and closing tags <script></script>
+
+---
 
 ### The basics: 
 #### Think in terms of a canvas
@@ -107,7 +111,12 @@ throbber.size(siz,siz);
 What's the difference between loadImage() and createImg() in sketch02? 
 - Can you decode the logic behind why the sample code employs 'loadImage' and 'createImg' in loading the images?
 
+---
+
 ### Errors
+to be filled
+
+---
 
 ### In-class challenge: Grid paper portrait in p5.js
 Time to do some free style drawing. The challenge is to draw your neighbour's portrait on a grid paper and then convert the hand-drawing into a p5.js sketch. Upload your hand-drawing and your p5 sketch on Github.
@@ -122,11 +131,15 @@ Work by Nicole He
 
 Some thoughts: Do think about how Adobe illustrator is designed and developed. What is vector graphics? 
 
+---
+
 ### The concept of peer-tutoring
   - 9 groups [here](https://etherpad.net/p/ap2018)
   - The concept of presenters and respondents
   - The first one for next week: push(), pop()
-  
+
+---
+
 ### Tasks for next week
   - the concept of mini exercises
   - mini_ex2: [A fun drawing](https://github.com/AUAP/AP2018/blob/master/all_miniex/mini_ex2.md)
