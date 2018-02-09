@@ -154,7 +154,6 @@ console.log(width, height);
     - load before setup() is run
   - Commenting Code (code for running and code for not running)
 ##### Basic orientation/calculation
-  - use of variables 
 ```javascript
 var img;
 img = loadImage("images/Theartgalleryofthefuture.gif");
@@ -163,23 +162,22 @@ img = loadImage("images/Theartgalleryofthefuture.gif");
 var siz = 25;
 throbber.size(siz,siz);
 ```
-   - Naming: [Variables](https://p5js.org/examples/data-variables.html)
-   - think in terms of a container, where a value is stored and it can be changed over time.
-   - e.g text, number, URL, etc 
-   - Technically: it registers a memory cell/location (RAM) with the address, name, type and value 
+   - Variables 
+    - Naming: [Variables](https://p5js.org/examples/data-variables.html)
+    - think in terms of a container, where a value is stored and it can be changed over time.
+    - e.g text, number, URL, etc 
+    - Technically: it registers a memory cell/location (RAM) with the address, name, type and value 
    ![memory2](https://thetechjournal.com/wp-content/uploads/2012/10/ram-windows-speed-up.jpg)
    ![memory](http://www.tenouk.com/clabworksheet/labworksheet6_files/cprogrammingscanf004.png)
-   - interesting questions: how to remember(store) and how to forget(erase)? (if you are interested, see [here: Memory: To remember and forget](http://poeticcomputation.info/chapters/ch.2/)
+    - interesting questions: how to remember(store) and how to forget(erase)? (if you are interested, see [here: Memory: To remember and forget](http://poeticcomputation.info/chapters/ch.2/)
   - basic arithmetic operators 
-  ```javascript
-  console.log("hello " + "world");
-  ```
- <br>
       - add(+): + for both numbers and text/characters 
       - subtract(-)
       - multiply(*) 
       - divide(/)
-      
+  ```javascript
+  console.log("hello " + "world");
+  ```
 ##### Questions:
 What's the difference between loadImage() and createImg()? 
 - Can you decode the logic behind why the sample code use loadImage and createImg in loading the images?
