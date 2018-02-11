@@ -114,6 +114,25 @@ throbber.size(siz,siz);
 What's the difference between loadImage() and createImg() in sketch02? 
 - Can you decode the logic behind why the sample code employs 'loadImage' and 'createImg' in loading the images?
 
+#### Real-time code jam/live coding with teletype on Atom
+<img src="https://github.com/AUAP/AP2018/blob/master/class02/teletype.png" width="350">
+
+- install the [teletype package](https://teletype.atom.io/) on Atom: Preference > Install 
+- get the sharing key 
+- click the bottom right corner icon (like a wifi icon), then copy and paste the key onto the panel to start tinkering together
+- Challenge: How would you align the image in the middle of the canvas if the canvas size is now changed to 700,700 and with background (255) as below?
+
+```javascript
+  function setup() {
+    createCanvas(700, 700);
+    background(255);
+    noCursor();
+    throbber.size(siz,siz);
+    console.log("hello " + "world");
+  }
+```
+*Hints: translate(), width, height, img.width, img.height*
+
 ---
 
 ### Errors
