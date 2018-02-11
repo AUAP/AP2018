@@ -126,7 +126,7 @@ What's the difference between loadImage() and createImg() in sketch02?
 - install the [teletype package](https://teletype.atom.io/) on Atom: Preference > Install 
 - get the sharing key 
 - click the bottom right corner icon (like a wifi icon), then copy and paste the key onto the panel to start tinkering together
-- Challenge: How would you align the image in the middle of the canvas if the canvas size is now changed to 700,700 and with background (255) as below?
+- **Challenge: How would you align the image in the middle of the canvas if the canvas size is now changed to 700,700 and with background (255) as below?**
 
 ```javascript
   function setup() {
@@ -137,7 +137,7 @@ What's the difference between loadImage() and createImg() in sketch02?
     console.log("hello " + "world");
   }
 ```
-*Hints: translate(), width, height, img.width, img.height*
+***Hints:** translate(), width, height, img.width, img.height*
 
 ---
 
