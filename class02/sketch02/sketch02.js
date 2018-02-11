@@ -18,57 +18,57 @@ function setup() {
 
 function draw() {
   throbber.position(mouseX,mouseY); //locate the gif
-  image(img, 5,5);
+  image(img, 0,0);
   noStroke();
   fill(188, 185,169);
   beginShape(); //left top
-  vertex(6,85);
-  vertex(58,80);
-  vertex(59,126);
-  vertex(6,129);
+  vertex(1,80);
+  vertex(53,75);
+  vertex(54,121);
+  vertex(1,124);
   endShape(CLOSE);
 
   beginShape(); //second left top
-  vertex(98,58);
-  vertex(140,51);
-  vertex(139,124);
-  vertex(98,127);
+  vertex(93,53);
+  vertex(135,46);
+  vertex(134,119);
+  vertex(93,122);
   endShape(CLOSE);
 
   beginShape();  //middle big one
-  vertex(173,28);
-  vertex(235,18);
-  vertex(279,29);
-  vertex(268,267);
-  vertex(166,264);
+  vertex(168,23);
+  vertex(230,13);
+  vertex(274,24);
+  vertex(263,262);
+  vertex(161,259);
   endShape(CLOSE);
 
   beginShape();  //top second right
-  vertex(332,33);
-  vertex(373,28);
-  vertex(372,84);
-  vertex(330,90);
+  vertex(327,28);
+  vertex(368,23);
+  vertex(367,79);
+  vertex(325,85);
   endShape(CLOSE);
 
   beginShape();  //top right
-  vertex(435,27);
-  vertex(484,20);
-  vertex(483,79);
-  vertex(435,85);
+  vertex(430,22);
+  vertex(479,15);
+  vertex(478,74);
+  vertex(430,80);
   endShape(CLOSE);
 
   beginShape();  //bottom right
-  vertex(332,160);
-  vertex(484,151);
-  vertex(483,286);
-  vertex(331,280);
+  vertex(327,155);
+  vertex(479,146);
+  vertex(478,281);
+  vertex(326,275);
   endShape(CLOSE);
 
   beginShape();  //bottom left
-  vertex(6,168);
-  vertex(123,161);
-  vertex(117,275);
-  vertex(7,272);
+  vertex(1,163);
+  vertex(118,156);
+  vertex(112,270);
+  vertex(2,267);
   endShape(CLOSE);
 
 }
