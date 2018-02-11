@@ -48,7 +48,7 @@ Line 6 and 7 above indicates how javascript files can be imported into the html 
 #### Think in terms of a canvas
 ![sketch02](https://github.com/AUAP/AP2018/blob/master/class02/sketch02.gif)
 <br>
-[Run me (sketch02- sample code)](https://cdn.rawgit.com/AUAP/AP2018/913db53a/class02/sketch02/index.html)
+[Run me (sketch02- sample code)](https://rawgit.com/AUAP/AP2018/master/class02/sketch02/index.html)
 <br>
 [Source code of sketch02](https://github.com/AUAP/AP2018/blob/master/class02/sketch02/sketch02.js)
 
