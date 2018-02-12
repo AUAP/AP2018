@@ -181,7 +181,7 @@ ReferenceError: hello is not defined
 ### In-class challenge: Grid paper portrait in p5.js
 Time to do some free style drawing. The challenge is to draw your neighbour's portrait on a grid paper and then convert the hand-drawing into a p5.js sketch. Upload your hand-drawing and your p5 sketch on Github.
 
-Tips: Check out beginShape(), endShape(), [curveVertex()](https://p5js.org/reference/#/p5/curveVertex), vertex(), arc(), PI
+Tips: Check out beginShape(), endShape(), [curveVertex()](https://p5js.org/reference/#/p5/curveVertex), [Bezier()](https://p5js.org/reference/#/p5/bezier), vertex(), arc(), PI
 
 Example:<br>
 Sketch: <br> <img src="http://nicole.pizza/itp/wp-content/uploads/2015/09/IMG_9936-1024x768.jpg" width="400px"> <br>
