@@ -96,8 +96,8 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 - **Read/Watch before class:** 
   - [p5.js examples - load/display](https://p5js.org/examples/image-load-and-display-image.html) 
   - [Short p5.js video by Daniel Shiffman](https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) (watch 3.1, 3.2, 3.3, 3.4, 4.1, 4.2, 5.1, 5.2, 5.3)
-  - [for coming mini ex] Soon, Winnie. ["Executing Micro-temporality."](http://www.data-browser.net/pdf/DB06_Executing_Practices.pdf)*Executing Practices*. Eds. Helen P, Eric S and Magda T. C. Autonomedia, 2017. 89-102.
-  - [for coming mini ex] Farman, Jason. [Fidget Spinners](http://reallifemag.com/fidget-spinners/). *Real Life*, 2017.
+  - Soon, Winnie. ["Executing Micro-temporality."](http://www.data-browser.net/pdf/DB06_Executing_Practices.pdf)*Executing Practices*. Eds. Helen P, Eric S and Magda T. C. Autonomedia, 2017. 89-102.
+  - Farman, Jason. [Fidget Spinners](http://reallifemag.com/fidget-spinners/). *Real Life*, 2017.
 - **Weekly mini ex3: due week 9, Monday night | Design a Throbber** 
   - check mini_ex folder > mini_ex3.md
 ---
