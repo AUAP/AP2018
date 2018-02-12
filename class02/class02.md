@@ -37,7 +37,7 @@ Agenda:
 ```
     <style>body {padding: 0; margin: 0;background-color:lightblue;} </style>
 ```
-- **Javascript**: A high level scripting and interpreted langauge which was orginally designed and developed in 1995 at Netscape by Brendan Eich with an objective to run it on a web browser. Within the confusing discussion of Java and Javascript, they are not the same and are quite different. One could say that Javascript complements Java as not a compiled programming language, but an interpreted language instead. There are several characteristics of Javascript in terms of the original design:
+- **Javascript**: A high level scripting and interpreted langauge which was orginally designed and developed in 1995 at Netscape by Brendan Eich with an objective to run it on a web browser. Within the confusing discussion of Java and Javascript, they are not the same and are quite different, at least js is not a subset of Java. One could say that Javascript complements Java as not a compiled programming language, but an interpreted language instead. There are several characteristics of Javascript in terms of the original design:
   - lightweight
   - easy to use (especially for those with little or no programming experience)
   - able to construct complex applications
@@ -90,7 +90,20 @@ console.log(width, height);
     - about time and sequence
     - load before setup() is run
   - Self created function  (call a function) -> can be used and reused by calling its name
+  - The function operator takes a self-defined name, a parameter list, and a block of statements, and returns a function object. See example below: 
+```javascript
+var whatIsTime = myTime(10,4);    //10,4 are arguments
+console.log(whatIsTime);
+
+function myTime(Distance, Speed){
+  return Distance / Speed;
+}
+
+//The result in whatIsTime will be 2.5
+```  
 #### Commenting Code (code for running and code for not running)
+(see line 25) Single line: //locate the gif
+(see line 1-5) Multi line: /*something here and here */
 
 ### Basic orientation/calculation
 ```javascript
@@ -110,10 +123,11 @@ throbber.size(siz,siz);
    ![memory2](https://thetechjournal.com/wp-content/uploads/2012/10/ram-windows-speed-up.jpg)
    ![memory](http://www.tenouk.com/clabworksheet/labworksheet6_files/cprogrammingscanf004.png)
 #### basic arithmetic operators 
-   - add(+): + for both numbers and text/characters 
+   - add(+): Addition and concatenation > or both numbers and text/characters 
    - subtract(-)
    - multiply(*) 
    - divide(/)
+   - Special operators: increment (++), decrement (--)
   ```javascript
   console.log("hello " + "world");
   ```
@@ -143,7 +157,22 @@ What's the difference between loadImage() and createImg() in sketch02?
 ---
 
 ### Errors
-to be filled
+
+In a broad sense, errors can be categorized in three types:
+
+1. Syntax errors: problems with the syntax, also known as parsing errors. -> easier to catch and can be detected by a parser (i.e the browser in this case) e.g spelling errors or missing a closed bracket
+```javascript
+SyntaxError: missing ) after argument list
+```
+2. Runtime errors: It happens during the execution of a program and it can cause a program to terminate unexpectedly if an exception is not thrown while the syntax is correct. That is why it is also called exceptions. (e.g TypeError or ReferenceError in Firefox browser)
+```javascript
+TypeError: str is undefined
+ReferenceError: hello is not defined
+```  
+3. Logical errors: Arguably the hardest error to locate as it deals with logics but not syntax. The code may still run perfectly but the result is not what you expected. 
+  - try to identify where errors might occur, down to block of code or line of code
+  - try to identify type errors
+  - Use [Try/Catch/Finally/Throw an exception](https://www.w3schools.com/js/js_errors.asp) (details will be discussed in coming classes)
 
 ---
 
