@@ -1,5 +1,8 @@
-//inspired by https://steemit.com/funny/@funnyquotes/the-art-gallery-of-the-future
-
+/*
+-inspired by https://steemit.com/funny/@funnyquotes/the-art-gallery-of-the-future
+-Remixed by Winnie Soon
+-Licience: Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+*/
 var img;
 var throbber;
 var siz = 25;
