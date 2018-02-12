@@ -302,7 +302,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 3. You need to submit your final project with the runme, readme as well as having a presentation to the class at the last lecture.
 
 ## Peer tutoring/ respondents format
--  Within 15-20 mins presentation (peer tutoring)
+-  **Within 15-20 mins presentation (peer tutoring)**
     - Teaching (able to describe/speak about code and how it works)
     - Articulation (able to articulate your learning and coding process)
     - Thinking: How programming help you to think about digital culture/design/arts? 
@@ -311,6 +311,6 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
     - You may consider to have sample/creative code or simple code exercise for the class.  
     - You can also make use of collaborative tools e.g  code jam/live coding with teletype on Atom
     - Send your slides/sample code to the respondents a day before the class. i.e on Monday.
-- Within 10 mins response by respondents (feedback and ask questions)
+- **Within 10 mins response by respondents (feedback and ask questions)**
   - Set some questions in mind and lead the class discussion
 
