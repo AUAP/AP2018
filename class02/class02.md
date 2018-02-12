@@ -102,8 +102,8 @@ function myTime(Distance, Speed){
 //The result in whatIsTime will be 2.5
 ```  
 #### Commenting Code (code for running and code for not running)
-(see line 25) Single line: //locate the gif
-(see line 1-5) Multi line: /*something here and here */
+- (see line 25) Single line: //locate the gif
+- (see line 1-5) Multi line: /*something here and here */
 
 ### Basic orientation/calculation
 ```javascript
