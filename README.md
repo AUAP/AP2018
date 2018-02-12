@@ -93,6 +93,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - In-class ex: Decoding a throbber
 - **Peer-tutoring: Group 1 / Respondents: Group 2, Topic: push()/pop()**
   - Describe the syntax, and how to use it? (see [ref1](http://genekogan.com/code/p5js-transformations/) and [ref2](https://www.youtube.com/watch?v=E4RyStef-gY&index=109&list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH))
+  - See the responsibility of peer-tutors and peer-respondents at the end of this page
 - **Read/Watch before class:** 
   - [p5.js examples - load/display](https://p5js.org/examples/image-load-and-display-image.html) 
   - [Short p5.js video by Daniel Shiffman](https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) (watch 3.1, 3.2, 3.3, 3.4, 4.1, 4.2, 5.1, 5.2, 5.3)
@@ -295,6 +296,11 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 - In general, the mini ex needs to submit on github on Monday (before the lecture), and peer-feedback should be done on Tue (before the Wed tutorial class)
 - It is mandatory to submit weekly mini exercises and to provide feedback to your peers. Those who fails to do any of them may incur a penalty of absence in one class. 
 
+## RULES: (in relation to Exam A)
+1. To pass the participation requirement and to enter Exam A, you need to attend at least 75% of the course including guest lectures which means you can only skip maximum 3 lecture classes **and** 3 tutorials. 
+2. Weekly mini exercises (together with written peer-feedback) is considered as part of the course participation. For those who fail to submit their work may incur a penalty of absence in one class. 
+3. You need to submit your final project with the runme, readme as well as having a presentation to the class at the last lecture.
+
 ## Peer tutoring/ respondents format
 -  Within 15-20 mins presentation (peer tutoring)
     - Teaching (able to describe/speak about code and how it works)
@@ -307,9 +313,4 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
     - Send your slides/sample code to the respondents a day before the class. i.e on Monday.
 - Within 10 mins response by respondents (feedback and ask questions)
   - Set some questions in mind and lead the class discussion
-
-## RULES: (in relation to Exam A)
-1. To pass the participation requirement and to enter Exam A, you need to attend at least 75% of the course including guest lectures which means you can only skip maximum 3 lecture classes **and** 3 tutorials. 
-2. Weekly mini exercises (together with written peer-feedback) is considered as part of the course participation. For those who fail to submit their work may incur a penalty of absence in one class. 
-3. You need to submit your final project with the runme, readme as well as having a presentation to the class at the last lecture.
 
