@@ -160,16 +160,16 @@ What's the difference between loadImage() and createImg() in sketch02?
 
 In a broad sense, errors can be categorized in three types:
 
-1. Syntax errors: problems with the syntax, also known as parsing errors. -> easier to catch and can be detected by a parser (i.e the browser in this case) e.g spelling errors or missing a closed bracket
+1. **Syntax errors**: problems with the syntax, also known as parsing errors. -> easier to catch and can be detected by a parser (i.e the browser in this case) e.g spelling errors or missing a closed bracket
 ```javascript
 SyntaxError: missing ) after argument list
 ```
-2. Runtime errors: It happens during the execution of a program and it can cause a program to terminate unexpectedly if an exception is not thrown while the syntax is correct. That is why it is also called exceptions. (e.g TypeError or ReferenceError in Firefox browser)
+2. **Runtime errors**: It happens during the execution of a program and it can cause a program to terminate unexpectedly if an exception is not thrown while the syntax is correct. That is why it is also called exceptions. (e.g TypeError or ReferenceError in Firefox browser)
 ```javascript
 TypeError: str is undefined
 ReferenceError: hello is not defined
 ```  
-3. Logical errors: Arguably the hardest error to locate as it deals with logics but not syntax. The code may still run perfectly but the result is not what you expected. 
+3. **Logical errors**: Arguably the hardest error to locate as it deals with logics but not syntax. The code may still run perfectly but the result is not what you expected. 
   - try to identify where errors might occur, down to block of code or line of code
   - try to identify type errors
   - Use [Try/Catch/Finally/Throw an exception](https://www.w3schools.com/js/js_errors.asp) (details will be discussed in coming classes)
