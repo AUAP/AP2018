@@ -19,7 +19,7 @@
 - A screenshot of your program
 - A URL link to your program and run on a browser, see: https://rawgit.com/
 - Describe your program and what you have used and learnt
-- What is fun? To what extend your program addresses Goriunova's noton of fun? Is it fun in relation to geekiness, or humour, or pradox, or other modes of thoughts? (This question requires your articulation of your work beyond just describing how it works technically)
+- What is fun? To what extend your program addresses Goriunova's noton of fun? Is it fun in relation to geekiness, or humour, or paradox, or other modes of thoughts? (This question requires your articulation of your work beyond just describing how it works technically)
 5. Provide peer-feedback to 2 of your classmates on their works by creating "issues" on his/her github corresponding repository. Write with the issue title "Feedback on mini_ex(?) by (YOUR FULL NAME)"
 
 NB!: Feel Free to explore and experiment more syntax.
