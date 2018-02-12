@@ -84,15 +84,15 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 #### Class 03 | Week 8 | 20 Feb 2018: Temporality: Infinite loops
 ##### Wed tutorial session and Fri shutup and code session.
 - **Class structure:**
-  - Loops and Conditions
-  - Frame Rate, setTimeInterval
-  - Transform
-  - Function Parameters
+  - Iterations: For and While Loops
+  - Conditional Statements
+  - Create new functions
+  - Time related syntax:
+    - FrameRate(), FrameCount, setInterval(), millis()
+  - Transform: translate(), rotate(), push/pop()
   - In-class ex: Decoding a throbber
 - **Peer-tutoring: Group 1 / Respondents: Group 2, Topic: push()/pop()**
   - Describe the syntax, and how to use it? (see [ref1](http://genekogan.com/code/p5js-transformations/) and [ref2](https://www.youtube.com/watch?v=E4RyStef-gY&index=109&list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH))
-  - Your sample and creative code
-  - Think of an in-class exercise that make use of github as a tinkering/demonstrating/collaborative platform
 - **Read/Watch before class:** 
   - [p5.js examples - load/display](https://p5js.org/examples/image-load-and-display-image.html) 
   - [Short p5.js video by Daniel Shiffman](https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) (watch 3.1, 3.2, 3.3, 3.4, 4.1, 4.2, 5.1, 5.2, 5.3)
@@ -284,7 +284,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 - Getting Started with p5.js: Making interactive graphics in Javascript and Processing (Make) by Lauren McCarthy, Casey Reas and Ben Fry
 
 ## NOTES for mini exercises:
-- You are advised to at least spend 10 hours on the weekly mini exercises or coding. 
+- You are advised to spend at least 10 hours on the weekly mini exercises or coding. 
 - If the mini exercises are too simple, feel free to program something more complex and advance by exploring other syntax.
 - But it is absolutely fine if the program is a simple one and not having a "well designed" screen. 
 - It is important to address all the questions in the mini exercise, as they help you to understand the subject matter both technically and conceptually.
@@ -292,19 +292,21 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 - The more you practice, the more you will get out of the course. 
 - The aims of having weekly mini exercises are to encourage experimentation, practice programming and stimulate thinking, therefore there is no grade for this.
 - Make sure the sketch folder contains necessary libraries, files and a correct directory. It should be able to run on a github server through a web browser. 
-- In general, the mini ex needs to submit on github on Monday (before the lecture), and peer-feedback should be done on Tue (before the tutorial class)
+- In general, the mini ex needs to submit on github on Monday (before the lecture), and peer-feedback should be done on Tue (before the Wed tutorial class)
 - It is mandatory to submit weekly mini exercises and to provide feedback to your peers. Those who fails to do any of them may incur a penalty of absence in one class. 
 
 ## Peer tutoring/ respondents format
-
 -  Within 15-20 mins presentation (peer tutoring)
-    - Technical understanding (provide sample code)
-    - Teaching (able to describe/speak about code with your language)
-    - Articulation (able to apply and elaborate on how you do it, your process)
-    - Send your slides to the respondents a day before the class. i.e on Monday.
+    - Teaching (able to describe/speak about code and how it works)
+    - Articulation (able to articulate your learning and coding process)
+    - Thinking: How programming help you to think about digital culture/design/arts? 
+      - In particular the syntax that you are presenting
+      - You can also refer to the first class's assigned texts on computational thinking/why program/coding literacy
+    - You may consider to have sample/creative code or simple code exercise for the class.  
+    - You can also make use of collaborative tools e.g  code jam/live coding with teletype on Atom
+    - Send your slides/sample code to the respondents a day before the class. i.e on Monday.
 - Within 10 mins response by respondents (feedback and ask questions)
-  - Demonstrate your understanding of the assigned theme
-  - Set some questions in mind and lead the discussion
+  - Set some questions in mind and lead the class discussion
 
 ## RULES: (in relation to Exam A)
 1. To pass the participation requirement and to enter Exam A, you need to attend at least 75% of the course including guest lectures which means you can only skip maximum 3 lecture classes **and** 3 tutorials. 
