@@ -110,7 +110,6 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 - **Peer-tutoring: Group 2 / Respondents: Group 3, Topic: p5.dom libary**
   - How to import and use p5.dom library in your sketch?
   - What are the benefits of using p5.dom objects?
-  - Provide sample and creative code
 - **Read/Watch before class:** 
   - Gerlitz, Carolin, and Anne Helmond. “The like Economy: Social Buttons and the Data-Intensive Web.” New Media & Society 15, no. 8 (December 1, 2013): 1348–65. (can access via e-library)
   - [p5.js examples - Interactivity 1](https://p5js.org/examples/hello-p5-interactivity-1.html)
@@ -129,7 +128,6 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - Design/Artwork example: [ToFu Go](http://tofu-go.com/) by Francis Lam | See more [here]()
 - **Peer-tutoring: Group 3 / Respondents: Group 4, Topic: p5.play library**
   - How to import and use p5.play library in your sketch?
-  - Provide sample and creative code
 - **Read/Watch before class:** 
   - [Short p5.js video by Daniel Shiffman](https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) (watch 2.3, 6.1, 6.2, 6.3, 7.1, 7.2, 7.3)
   - [p5.js examples - Objects](https://p5js.org/examples/objects-objects.html)
@@ -153,7 +151,6 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - What is JSON? How to use JSON?
   - Why is it important to know JSON or Why JSON is so popular?
   - How may we understand data processing through JSON?
-  - sample and creative code
 - **Read/Watch before class:** 
   - Cox, Geoff and McLean, Alex. Speaking Code. MIT Press, 2013. 17-38. (check blackboard - ch.1 Vocable Code)
   - [p5.js reference - Typography](https://p5js.org/reference/#group-Typography) (All functions within Typography category)
@@ -175,7 +172,6 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - Introduce the final code project
 - **Peer-tutoring: Group 5 / Respondents: Group 6, Topic: Conditions with sound and video files**
   - How to incorporate sound and video in your sketch?
-  - Your sample and creative code
 - **Read/Watch before class:** 
   - Soon, Winnie. Executing Liveness. PhD dissertation. Aarhus University, 2016. 82-90  (the section on Generativity)
   - [1 hr video] [Beautiful Rules: Generative models of creativity](https://vimeo.com/26594644) (2007) by Marius Watz
@@ -202,7 +198,6 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - Guest lecture: Don't Erase Me by Tilde Lageri Damborg and Tobias Stenberg Christensen
 - **Peer-tutoring: Group 6 / Respondents: Group 7, Topic: Parsing**
   - What is parsing? 
-  - Provide sample and creative code
 - **Read/Watch before class:** 
   - [p5.js video tutorial: working with data by Daniel Shiffman](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r)(watch 10.1-10.10)
   - Critical Software Thing. Executing. Draft. 2017. (check blackboard) 
@@ -226,7 +221,6 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - [Flow chart examples by Richa](https://blog.udemy.com/flowchart-examples/)
 - **Peer-tutoring: Group 7 / Respondents: Group 8, Topic: Your coding challenge**
   - Feel free to suggest your own coding challenge
-  - Provide sample and creative code
 - **Weekly mini ex10: due week 16, Monday night | Flow Chart** 
   - check mini_ex folder > mini_ex10.md
 ---
@@ -241,7 +235,6 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - Experiment 1 or 2 npm (package manager) and walkthrough with the class? 
 - **Peer-tutoring: Group 9 / Respondents: Group 1, Topic: coding challenge**
   - Feel free to suggest your own coding challenge
-  - Provide sample and creative code
 - **Suggested reading/video**
   - [ConvNetJS: Deep Learning in your browser](https://cs.stanford.edu/people/karpathy/convnetjs/)
   - [p5ML.js](https://itpnyu.github.io/p5-deeplearn-js/)
