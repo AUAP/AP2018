@@ -91,6 +91,7 @@ console.log(width, height);
     - load before setup() is run
   - Self created function  (call a function) -> can be used and reused by calling its name
 #### Commenting Code (code for running and code for not running)
+
 ### Basic orientation/calculation
 ```javascript
 var img;
@@ -116,7 +117,7 @@ throbber.size(siz,siz);
   ```javascript
   console.log("hello " + "world");
   ```
-#### Questions:
+#### Questions
 What's the difference between loadImage() and createImg() in sketch02? 
 - Can you decode the logic behind why the sample code employs 'loadImage' and 'createImg' in loading the images?
 
