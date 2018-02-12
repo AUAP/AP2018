@@ -1,4 +1,4 @@
-# Weekly mini ex3: due week 9, Monday night - Throbber
+# Weekly mini ex3: due week 9, Monday night - Design a Throbber differently
 
 **Objective:**
 - To reflect upon time and temporality in digital culture via the famous visual throbber icon. 
