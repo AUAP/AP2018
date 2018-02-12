@@ -305,5 +305,6 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
     - You can also make use of collaborative tools e.g  code jam/live coding with teletype on Atom
     - Send your slides/sample code to the respondents a day before the class. i.e on Monday.
 - **Within 10 mins response by respondents (feedback and ask questions)**
+  - Read the slides and/or sample code in advance
   - Set some questions in mind and lead the class discussion
 
