@@ -174,6 +174,8 @@ ReferenceError: hello is not defined
   - try to identify type errors
   - Use [Try/Catch/Finally/Throw an exception](https://www.w3schools.com/js/js_errors.asp) (details will be discussed in coming classes)
 
+*Tips: Open your web console and use console.log to track your code and the value of variables*
+
 ---
 
 ### In-class challenge: Grid paper portrait in p5.js
