@@ -12,8 +12,8 @@ Agenda:
   - Variables
   - basic arithmetic operators
   - Real-time code jam/live coding with teletype on Atom
-- Errors + different types of errors: print(), console.log()
-- In-class challenge: Grid paper portrait in p5.js
+- ~~Errors + different types of errors: print(), console.log()~~
+- ~~In-class challenge: Grid paper portrait in p5.js~~
 - The concept of peer-tutoring
 - Tasks for next week
 
