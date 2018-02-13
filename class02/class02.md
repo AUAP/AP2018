@@ -212,7 +212,7 @@ Some thoughts: Do think about how Adobe illustrator is designed and developed. W
 
 
 
-### The concept of fun
+### The concept of fun (my own notes)
   - Using the example of Love Letter Generator: "the fun of 'geekiness,' wit, the humour and extravagance of mathematical geniuses and their material processes of thinking and making" (p.2)
   - "Humour here is indicative of the pleasure of breakthrough, of thought experimentation, of unconstrained and purposeless but intense and curious and materially specific enquiry." (p. 2)
   - fun "unites pleasure and wit with affective engagement, conceptual, social and cultural practices and vivid, disturbing and inventive modes of thinking and making" (p.2)
@@ -226,3 +226,14 @@ Some thoughts: Do think about how Adobe illustrator is designed and developed. W
   - fun as a method and as a concept (p. 8) -> an onto-epistemological enactive device. -> explore various scale of fun that "creates conditions i nwhich forms of critical, political and collective expression of desiring fun can be seen and given voice." (p. 8)
   - fun relates to "forms of reasoning and the becoming of computing; it is experiential, affective and collective; it is a desiring process and a sensibility, a mode of thinking and of working; a horizon, an idea, a passion and an action." (p. 11)
   - how might fun moves away from the experience of a human user and "look for fun that belongs to programming structures, practices and real-world contexts"? 
+  
+### Afterclass thoughts (my own notes)
+- As usual, I have prepared more than enough. We didn't manage to run through errors (which I need to put in another class) officially but we do manage to touch upon what might be the approach in tinkering code and how to locate the problem lines. But this needs more emphasis for new students as they are still quite new in understanding console.log (how to make full use of it) and how to identify the differences between functions and the tricks of modifying just one thing at a time and see the result)
+- No time to go through the in-class exericse on portrait drawing, but we spend sometimes discussing the questions and challenges that are from the sample code. 
+- I think the approach of using a sample/creative code to walk through syntax and fundamental elements are quite effective because this is something students can visualize and relate immediately. (for example, translate(), various shapes drawing, load image, etc.) This is quite a different approach from computer science to go straight and talk about different syntax without a context, which personally I think the students cannot relate and don't know how to apply.
+- I still take the approach of zooming in some foundamental concepts and walk through some basic stuff, esp the concept of canvas and variables. To sum up, we have walkthrough the followings:
+    1. Discussed what might be the notion of fun
+    2. Think in terms of a Canvas (size, width, height, coordinate system)
+    3. New syntax: beginshape(), endShape(), vertex(), loadImage(), preload(), createImg(), frameRate(), functions, mousePressed(), translate(), mouseX and mouseY. 
+    4. The difference between loadImage and createImg
+    5. The concept of variables: declare, initialization and usage  (something can be stored, changed and reused)
