@@ -1,4 +1,4 @@
-Messy notes here...
+Messy notes here...Announcement: changes of grouping
 
 #### Theme: Temporality: Infinite loops
 
