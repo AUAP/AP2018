@@ -15,7 +15,7 @@ Agenda:
   - Push()/pop()
 - Sample code2: Asterisk Painting
   - while loop
-  - conditional statments
+  - conditional statements
   - arrays
   - millis()
 - Tasks for next week
