@@ -221,6 +221,8 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - [Flow chart examples by Richa](https://blog.udemy.com/flowchart-examples/)
 - **Peer-tutoring: Group 7 / Respondents: Group 8, Topic: Your coding challenge**
   - Feel free to suggest your own coding challenge
+- **Peer-tutoring: Group 8 / Respondents: Group 9, Topic: Your coding challenge**
+  - Feel free to suggest your own coding challenge
 - **Weekly mini ex10: due week 16, Monday night | Flow Chart** 
   - check mini_ex folder > mini_ex10.md
 ---
@@ -230,11 +232,9 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - What is Machine Learning? 
   - Introducing ML's js library
   - Discussion on students' project
-- **Peer-tutoring: Group 8 / Respondents: Group 9, Topic: Node.js**
+- **Peer-tutoring: Group 9 / Respondents: Group 1, Topic: Node.js**
   - What is node.js? 
   - Experiment 1 or 2 npm (package manager) and walkthrough with the class? 
-- **Peer-tutoring: Group 9 / Respondents: Group 1, Topic: coding challenge**
-  - Feel free to suggest your own coding challenge
 - **Suggested reading/video**
   - [ConvNetJS: Deep Learning in your browser](https://cs.stanford.edu/people/karpathy/convnetjs/)
   - [p5ML.js](https://itpnyu.github.io/p5-deeplearn-js/)
