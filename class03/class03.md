@@ -12,6 +12,7 @@ Agenda:
   - FrameCount()
   - setInterval()
   - Rotate()
+  - modulo/%
   - Push()/pop()
 - Sample code2: Asterisk Painting
   - while loop
