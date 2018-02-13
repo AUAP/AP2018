@@ -211,9 +211,9 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 #### Class 10 | Week 15 | 10 Apr 2018: Algorithms
 ##### Wed tutorial session and NO Fri shutup and code session
 - **Class Structure**
-  - 11.00-12.30
     - Peer-tutoring 
     - Flow chart and Algorithms
+    - Discussion of final project
 - **Read/watch before class**
   - [4 mins video: Algorithms in pseudocode and flow diagrams](https://www.youtube.com/watch?v=XDWw4Ltfy5w)
   - [18 mins video: Algorithms in BBC](https://www.youtube.com/watch?v=gOKVwRIyWdg) and full ver (optional) is [here](https://www.youtube.com/watch?v=T1os88EvPc4&t=0s)
