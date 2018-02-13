@@ -72,8 +72,8 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - Coordinate system
   - Shapes drawing
   - Variables
-  - Errors and console.log
-  - In-class challenge: Grid paper portrait in p5.js
+  - ~~Errors and console.log~~
+  - ~~In-class challenge: Grid paper portrait in p5.js~~
 - **Read/Watch before class:** 
   - Goriunova, Oga. *Fun and Software: Exploring Pleasure, Paradox and Pain in Computing*. Bloomsbury Academic, 2014. 1-19. [(Introduction, pp.1-19)](https://monoskop.org/images/1/14/Goriunova_Olga_ed_Fun_and_Software_Exploring_Pleasure_Paradox_and_Pain_in_Computing.pdf)
   - [p5.js Simple Shapes](https://p5js.org/examples/hello-p5-simple-shapes.html)
