@@ -19,5 +19,5 @@ Agenda:
   - arrays
   - millis()
 - Tasks for next week
-  - miniEx4 - Design a throbber differently
+  - miniEx3 - Design a throbber differently
   - Peer-Tutoring/Respondents: p5.dom library
