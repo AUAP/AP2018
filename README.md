@@ -303,7 +303,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
       - You can also refer to the first class's assigned texts on computational thinking/why program/coding literacy
     - You may consider to have sample/creative code or simple code exercise for the class.  
     - You can also make use of collaborative tools e.g  code jam/live coding with teletype on Atom
-    - Send your slides/sample code to the respondents a day before the class. i.e on Monday.
+    - Send your slides/sample code to the respondents a day before the class. i.e on Monday. (upload [here](https://github.com/AUAP/AP2018_Submission))
 - **Within 10 mins response by respondents (feedback and ask questions)**
   - Read the slides and/or sample code in advance
   - Set some questions in mind and lead the class discussion
