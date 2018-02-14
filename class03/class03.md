@@ -5,20 +5,9 @@ Messy notes here...Announcement: changes of grouping
 Agenda:
 - Peer-tutoring: push()/pop()
 - Time/Throbber
-- Sample code1: throbber
-  - for loops
-  - FrameRate()
-  - FrameCount()
-  - setInterval()
-  - Rotate()
-  - modulo/%
-  - Push()/pop()
+- Running a throbber
 - Artwork showcase: Asterisk Painting by John P. Bell
-- Sample code2: Asterisk Painting
-  - while loop
-  - conditional statements
-  - arrays
-  - millis()
+- Running Asterisk Painting in p5.js
 - Tasks for next week
   - miniEx3 - Design a throbber differently
   - Peer-Tutoring/Respondents: p5.dom library
@@ -49,9 +38,16 @@ Agenda:
 
 - Net Neutrality: Internet slowdown day -> a throbber becomes a political and cultural icon
 
-### Sample code1: throbber
-
-
+### Running a throbber
+![throbber](https://github.com/AUAP/AP2018/blob/master/class03/throbber.gif)
+How to draw a throbber from scratch? 
+  - FrameRate()
+  - FrameCount()
+  - setInterval()
+  - Translate() and Rotate()
+  - modulo/%
+  - writing your own function with arguments
+  - Push()/pop()
 ### Artwork showcase
 ![Asterisk Painting](http://www.johnpbell.com/wp-content/uploads/2018/01/asterisk_painting-300x188.jpg)
 
@@ -59,6 +55,12 @@ Agenda:
 
 Artist description: Asterisk Painting is programmed to create a series of asterisks by repeatedly printing the number of milliseconds that have passed since the painting started. If left to run by itself it will do so; however, when started on a system with other threads running in the background delays external to my artwork may make the asterisks look more like spots and the painting may resemble the work of certain other overly-litigious artists.
 See [here](http://www.johnpbell.com/asterisk-painting/)
+
+#### Running Asterisk Painting in p5.js
+- for loops and while loop
+- conditional statements
+- arrays
+- millis()
 
 ### The concept of time (my notes)
 
