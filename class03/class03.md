@@ -92,11 +92,19 @@ if (I am hungry) { //condition > boolean expression
 ```
   - About relationships between numbers. e.g 15 is greater than 20 -> false; 5 equals 5 -> true
 ```javascript
-   if(sentences >= maxSentences){  //reach the max for each asterisk painting
-      move to the next one and continues;
-   }
+//see line 61: 
+if(sentences >= maxSentences){  //if the existing sentence count reaches the max sentence of a asterisk painting
+   move to the next one and continues;
 }
-
+```
+  - Relational operators:
+    - > Greater than
+    - < Less than
+    - <= less than or equal to 
+    - == equality
+    - >= greater than or equal to
+    - != inequality
+    
 - millis()
 
 ### The concept of time (my notes)
