@@ -34,20 +34,24 @@ Agenda:
 
 - Buffering icons of death [see here](https://mashable.com/2017/07/12/buffering-icons-ranked/#4FSuDdS21Oqr)
 
-- The concept of "false latency"  -by Jason Farman, 2017  (to feel more formal, to feel it is actually processing -> expectation gap between human and technology)
+- The concept of "false latency"  -by Jason Farman, 2017 (to feel more formal, to feel it is actually processing -> expectation gap between human and technology)
 
 - Net Neutrality: Internet slowdown day -> a throbber becomes a political and cultural icon
 
 ### Running a throbber
 ![throbber](https://github.com/AUAP/AP2018/blob/master/class03/throbber.gif)
-How to draw a throbber from scratch? 
-  - FrameRate()
-  - FrameCount()
-  - setInterval()
-  - Translate() and Rotate()
-  - modulo/%
-  - writing your own function with arguments
-  - Push()/pop()
+
+**Discuss in a group of 4: How to draw a throbber from scratch?** (Spend sometime to think about it and there are many ways in doing it, no right or wrong)
+- Attentions:
+  - how many ellipses on a screen?
+  - how to make the ellipse rotates in a regular angle? 
+  - how to make the ellipse fades out and rotates to the next position? 
+- Constraints:
+  - only one ellipse is needed (no need to create object)
+  - make use of rotation() and translate()
+
+Possible functions: FrameRate(), FrameCount(), setInterval(), Translate() and Rotate(), modulo/%, radians
+
 ### Artwork showcase
 ![Asterisk Painting](http://www.johnpbell.com/wp-content/uploads/2018/01/asterisk_painting-300x188.jpg)
 
