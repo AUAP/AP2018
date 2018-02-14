@@ -41,15 +41,17 @@ Agenda:
 ### Running a throbber
 ![throbber](https://github.com/AUAP/AP2018/blob/master/class03/throbber.gif)
 
-**Discuss in a group of 4: How to draw a throbber from scratch?** (Spend sometime to think about it and there are many ways in doing it, no right or wrong)
+**Discuss in a group of 3-4: How to draw a throbber from scratch?** (Spend sometime to think about it and there are many ways in doing it, no right or wrong)
 - Attentions:
-  - how many ellipses on a screen?
+  - how many ellipses at the center of a fullscreen?
   - how to make the ellipse rotates in a regular angle? 
   - how to make the ellipse fades out and rotates to the next position? 
 - Constraints:
-  - only one ellipse is needed (no need to create object)
+  - only one ellipse is needed (no creation of additional objects)
   - make use of rotation() and translate()
-
+- Procedures:
+  - what are the elements in setup() and draw()?
+  
 Possible functions: FrameRate(), FrameCount(), setInterval(), Translate() and Rotate(), modulo/%, radians
 
 ### Artwork showcase
