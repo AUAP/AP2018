@@ -51,6 +51,11 @@ Agenda:
   - make use of rotation() and translate()
 - Procedures:
   - what are the elements in setup() and draw()?
+  - Can try:
+    - ellipses that fill the screen (with rotation, translation and color)
+    - make it moves and fades
+    - slow down
+    - polish code
   
 Possible functions: FrameRate(), FrameCount(), setInterval(), Translate() and Rotate(), modulo/%, radians
 
@@ -63,11 +68,35 @@ Artist description: Asterisk Painting is programmed to create a series of asteri
 See [here](http://www.johnpbell.com/asterisk-painting/)
 
 #### Running Asterisk Painting in p5.js
-Runme [here](https://rawgit.com/AUAP/AP2018/master/class03/sketch03/index.html)
-Source Code [here](https://github.com/AUAP/AP2018/blob/master/class03/sketch03/sketch03.js)
-- for loops and while loop
-- conditional statements
-- arrays
+- Runme [here](https://rawgit.com/AUAP/AP2018/master/class03/sketch03/index.html)
+- Source Code [here](https://github.com/AUAP/AP2018/blob/master/class03/sketch03/sketch03.js)
+- Decoding and mapping the logics with the printed code: what you see and what you experience? What might be the procedures?
+- New concepts:  
+  - arrays [] e.g line23  //see [here for more](https://p5js.org/examples/arrays-array.html)
+```javascript
+var xPos = [1,2,3,4,5]; 
+var yPos = [1,2,3,4];
+```
+  - loops: for loop and while loop 
+  - conditional statements  (if, else, else if)
+    - In the physical world you would say "If I am hungry then eat some food, otherwise if I am thirsty, drink some water, else I will just take a nap"
+      - Turn to programming:
+```javascript
+if (I am hungry) { //condition > boolean expression
+  eat some food;
+}else if(thirsty) :
+  drink some water;
+}else{
+  take a nap;
+}
+```
+  - About relationships between numbers. e.g 15 is greater than 20 -> false; 5 equals 5 -> true
+```javascript
+   if(sentences >= maxSentences){  //reach the max for each asterisk painting
+      move to the next one and continues;
+   }
+}
+
 - millis()
 
 ### The concept of time (my notes)
