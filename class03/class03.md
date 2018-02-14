@@ -119,7 +119,7 @@ if(sentences >= maxSentences){  //if the existing sentence count reaches the max
   - **loops**: for loop and while loop 
     - runs continuously until a specified condition is met and then exits the loop (which means loop until the condition is no longer met)
     - You use a for loop because you want to repeat a section of code in an unknown/unknown number of times. (but the computer will know how many times)
-    - For loop: it contains 
+      - For loop: it contains 
       1. a variable declaration and initialization 
       2. a specificed condition
       3. loop for next round, and usually it is incremental (++) or decremental (--)
@@ -133,7 +133,7 @@ if(sentences >= maxSentences){  //if the existing sentence count reaches the max
     yPos[i] = yPos[i] * (yDim / (yPos.length+1));
   }
 ```
-  - While loop is to do something while the condition is true
+      - While loop is to do something while the condition is true
 ```javascript
 //sample code  e.g line77
 while(millis() < wait){} 
