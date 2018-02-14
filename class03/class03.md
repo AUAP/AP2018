@@ -41,7 +41,7 @@ Agenda:
 ### Running a throbber
 ![throbber](https://github.com/AUAP/AP2018/blob/master/class03/throbber.gif)
 
-**Discuss in a group of 3-4: How to draw a throbber from scratch?** (Spend sometime to think about it and there are many ways in doing it, no right or wrong)
+**Discuss in a group of 3-4: How would you approach to draw a throbber from scratch?** (Spend sometime to think about it and there are many ways in doing it, no right or wrong)
 - Attentions:
   - how many ellipses at the center of a fullscreen?
   - how to make the ellipse rotates in a regular angle? 
