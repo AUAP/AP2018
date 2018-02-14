@@ -41,7 +41,7 @@ Agenda:
 ### Running a throbber
 ![throbber](https://github.com/AUAP/AP2018/blob/master/class03/throbber.gif)
 
-**Discuss in a group of 3-4: How would you approach to draw a throbber from scratch?** (Spend sometime to think about it and there are many ways in doing it, no right or wrong)
+**Discuss in a group of 3-4: How would you approach to draw a throbber from scratch?** (Spend sometime to think about it and there are more than one way in doing it, no right or wrong)
 - Attentions:
   - how many ellipses at the center of a fullscreen?
   - how to make the ellipse rotates in a regular angle? 
@@ -63,6 +63,8 @@ Artist description: Asterisk Painting is programmed to create a series of asteri
 See [here](http://www.johnpbell.com/asterisk-painting/)
 
 #### Running Asterisk Painting in p5.js
+Runme [here](https://rawgit.com/AUAP/AP2018/master/class03/sketch03/index.html)
+Source Code [here](https://github.com/AUAP/AP2018/blob/master/class03/sketch03/sketch03.js)
 - for loops and while loop
 - conditional statements
 - arrays
