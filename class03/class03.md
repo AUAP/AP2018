@@ -48,7 +48,8 @@ Buffering icons of death [see here](https://mashable.com/2017/07/12/buffering-ic
 
 ### Artwork showcase
 ![Asterisk Painting](http://www.johnpbell.com/wp-content/uploads/2018/01/asterisk_painting-300x188.jpg)
-Asterisk Painting by John P. Bell
+
+*Asterisk Painting by John P. Bell*
 
 Artist description: Asterisk Painting is programmed to create a series of asterisks by repeatedly printing the number of milliseconds that have passed since the painting started. If left to run by itself it will do so; however, when started on a system with other threads running in the background delays external to my artwork may make the asterisks look more like spots and the painting may resemble the work of certain other overly-litigious artists.
 See [here](http://www.johnpbell.com/asterisk-painting/)
