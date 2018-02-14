@@ -43,7 +43,13 @@ Agenda:
 
 ![browser2](https://github.com/AUAP/AP2018/blob/master/class03/browser2.png)
 
-Buffering icons of death [see here](https://mashable.com/2017/07/12/buffering-icons-ranked/#4FSuDdS21Oqr)
+- Buffering icons of death [see here](https://mashable.com/2017/07/12/buffering-icons-ranked/#4FSuDdS21Oqr)
+
+- The concept of "false latency"  -by Jason Farman, 2017  (to feel more formal, to feel it is actually processing -> expectation gap between human and technology)
+
+- Net Neutrality: Internet slowdown day -> a throbber becomes a political and cultural icon
+
+### Sample code1: throbber
 
 
 ### Artwork showcase
@@ -53,3 +59,18 @@ Buffering icons of death [see here](https://mashable.com/2017/07/12/buffering-ic
 
 Artist description: Asterisk Painting is programmed to create a series of asterisks by repeatedly printing the number of milliseconds that have passed since the painting started. If left to run by itself it will do so; however, when started on a system with other threads running in the background delays external to my artwork may make the asterisks look more like spots and the painting may resemble the work of certain other overly-litigious artists.
 See [here](http://www.johnpbell.com/asterisk-painting/)
+
+### The concept of time (my notes)
+
+Fidget Spinners: How buffer icons have shaped our sense of time by Jason Farman
+-> more from the perspective of experience
+
+- "We have an acute awareness of duration, and that awareness is always linked to prevailing technologies that shape how we understand and experience time."
+
+- Thus, it’s a combination of technological expectations (how quickly we believe that our technologies should be working) and cultural expectations (how the contexts in a society set up certain expectations about how people should wait according to their position within that society).
+
+-false latency: facebook intentionally slower the scanning process to make visible the waiting time 
+
+- "For consumers and users of contemporary technology, waiting is deeply connected to our fantasies about who we are and what our purchases say about us."
+
+- "Buffering icons and wait cursors confront this challenge, giving us feedback that reshapes our everyday expectations and experiences of time and duration as computers process the data being sent across the lines."
