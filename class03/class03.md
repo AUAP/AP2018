@@ -72,12 +72,42 @@ See [here](http://www.johnpbell.com/asterisk-painting/)
 - Source Code [here](https://github.com/AUAP/AP2018/blob/master/class03/sketch03/sketch03.js)
 - Decoding and mapping the logics with the printed code: what you see and what you experience? What might be the procedures?
 - New concepts:  
-  - arrays [] e.g line23  //see [here for more](https://p5js.org/examples/arrays-array.html)
+  - arrays []   //see [here for more](https://p5js.org/examples/arrays-array.html)
+    - An array is a list of data. Dach piece of data in an array is identified by an index number representing its position in the array
 ```javascript
+//example
+var words = [] //array -> start with 0
+words[0] = "hello world";
+words[1] = "what is aesthetics?";
+words[2] = "something";
+```
+```javascript
+//sample code e.g line 23-24
 var xPos = [1,2,3,4,5]; 
 var yPos = [1,2,3,4];
 ```
   - loops: for loop and while loop 
+    - runs continuously until a specified condition is met and then exits the loop (which means loop until the condition is no longer met)
+    - You use a for loop because you want to repeat a section of code in an unknown/unknown number of times. (but the computer will know how many times)
+    - For loop: it contains 
+      1. a variable declaration and initialization 
+      2. a specificed condition
+      3. loop for next round, and usually it is incremental (++) or decremental (--)
+      4. The things that you want to process and compute
+```javascript
+//e.g line 36-41
+  for(let i=0; i<xPos.length; i++) {      //calculate the position of each asterisk horizontally in terms of array
+    xPos[i] = xPos[i] * (xDim / (xPos.length+1));
+  }
+  for(let i=0; i<yPos.length; i++) {  // //calculate the position of asterisk vertically in terms of array
+    yPos[i] = yPos[i] * (yDim / (yPos.length+1));
+  }
+```
+  - While loop is to do something while the condition is true
+```javascript
+//sample code  e.g line77
+while(millis() < wait){} 
+```
   - conditional statements  (if, else, else if)
     - In the physical world you would say "If I am hungry then eat some food, otherwise if I am thirsty, drink some water, else I will just take a nap"
       - Turn to programming:
@@ -92,7 +122,7 @@ if (I am hungry) { //condition > boolean expression
 ```
   - About relationships between numbers. e.g 15 is greater than 20 -> false; 5 equals 5 -> true
 ```javascript
-//see line 61: 
+//sample code :see line 61: 
 if(sentences >= maxSentences){  //if the existing sentence count reaches the max sentence of a asterisk painting
    move to the next one and continues;
 }
