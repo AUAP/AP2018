@@ -98,13 +98,16 @@ if(sentences >= maxSentences){  //if the existing sentence count reaches the max
 }
 ```
   - Relational operators:
-    - > Greater than
-    - < Less than
-    - <= less than or equal to 
-    - == equality
-    - >= greater than or equal to
-    - != inequality
-    
+```javascript
+/*
+> Greater than
+< Less than
+<= less than or equal to 
+== equality
+>= greater than or equal to
+!= inequality
+*/
+``` 
 - millis()
 
 ### The concept of time (my notes)
