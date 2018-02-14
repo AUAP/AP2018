@@ -70,8 +70,8 @@ See [here](http://www.johnpbell.com/asterisk-painting/)
 #### Running Asterisk Painting in p5.js
 - Runme [here](https://rawgit.com/AUAP/AP2018/master/class03/sketch03/index.html)
 - Source Code [here](https://github.com/AUAP/AP2018/blob/master/class03/sketch03/sketch03.js)
-- Decoding and mapping the logics with the printed code: what you see and what you experience? What might be the procedures?
-- New concepts:  
+- **Decoding and mapping the logics with the printed code**: what you see and what you experience? What might be the procedures?
+- **New concepts**:  
   - arrays []   //see [here for more](https://p5js.org/examples/arrays-array.html)
     - An array is a list of data. Dach piece of data in an array is identified by an index number representing its position in the array
 ```javascript
@@ -86,7 +86,37 @@ words[2] = "something";
 var xPos = [1,2,3,4,5]; 
 var yPos = [1,2,3,4];
 ```
-  - loops: for loop and while loop 
+  - **conditional statements  (if, else, else if)**
+    - In the physical world you would say "If I am hungry then eat some food, otherwise if I am thirsty, drink some water, else I will just take a nap"
+      - Turn to programming:
+```javascript
+if (I am hungry) { //condition > boolean expression
+  eat some food;
+}else if(thirsty) :
+  drink some water;
+}else{
+  take a nap;
+}
+```
+  - About relationships between numbers. e.g 15 is greater than 20 -> false; 5 equals 5 -> true
+```javascript
+//sample code :see line 61: 
+if(sentences >= maxSentences){  //if the existing sentence count reaches the max sentence of a asterisk painting
+   move to the next one and continues;
+}
+```
+  - **Relational operators**:
+```javascript
+/*
+> Greater than
+< Less than
+<= less than or equal to 
+== equality
+>= greater than or equal to
+!= inequality
+*/
+``` 
+  - **loops**: for loop and while loop 
     - runs continuously until a specified condition is met and then exits the loop (which means loop until the condition is no longer met)
     - You use a for loop because you want to repeat a section of code in an unknown/unknown number of times. (but the computer will know how many times)
     - For loop: it contains 
@@ -108,37 +138,8 @@ var yPos = [1,2,3,4];
 //sample code  e.g line77
 while(millis() < wait){} 
 ```
-  - conditional statements  (if, else, else if)
-    - In the physical world you would say "If I am hungry then eat some food, otherwise if I am thirsty, drink some water, else I will just take a nap"
-      - Turn to programming:
-```javascript
-if (I am hungry) { //condition > boolean expression
-  eat some food;
-}else if(thirsty) :
-  drink some water;
-}else{
-  take a nap;
-}
-```
-  - About relationships between numbers. e.g 15 is greater than 20 -> false; 5 equals 5 -> true
-```javascript
-//sample code :see line 61: 
-if(sentences >= maxSentences){  //if the existing sentence count reaches the max sentence of a asterisk painting
-   move to the next one and continues;
-}
-```
-  - Relational operators:
-```javascript
-/*
-> Greater than
-< Less than
-<= less than or equal to 
-== equality
->= greater than or equal to
-!= inequality
-*/
-``` 
-- millis()
+- **millis()**
+  -to be filled
 
 ### The concept of time (my notes)
 
