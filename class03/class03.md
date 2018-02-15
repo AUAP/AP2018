@@ -70,7 +70,8 @@ See [here](http://www.johnpbell.com/asterisk-painting/)
 #### Running Asterisk Painting in p5.js
 - Runme [here](https://rawgit.com/AUAP/AP2018/master/class03/sketch03/index.html)
 - Source Code [here](https://github.com/AUAP/AP2018/blob/master/class03/sketch03/sketch03.js)
-- **Decoding and mapping the logics with the printed code**: what you see and what you experience? What might be the procedures?
+- **In-class Ex: Decode and map the logics with the printed code**
+  - **Questions**: what have you seen and what have you experienced? What might be the procedures? list them out!
 - **New concepts**:  
   - arrays []   //see [here for more](https://p5js.org/examples/arrays-array.html)
     - An array is a list of data. Dach piece of data in an array is identified by an index number representing its position in the array
