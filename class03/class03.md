@@ -41,9 +41,12 @@ Agenda:
 
 ![throbber4](https://media.giphy.com/media/XXH77SsudU3HW/giphy.gif)
 
-- The concept of "false latency"  -by Jason Farman, 2017 (to feel more formal, to feel it is actually processing -> expectation gap between human and technology)
+- The concept of "false latency"  -by Jason Farman, 2017 (Corporations like FB modify the speed of presentation, and try to let customers to feel things are in progress, and in a thorough manner -> expectation gap between human and technology)
 
 - Net Neutrality: Internet slowdown day -> a throbber becomes a political and cultural icon
+![throbber5](https://cdn.vox-cdn.com/thumbor/lIbt4QB4qvcZaLy-1r_c5ZstL2E=/800x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8716431/Screen_Shot_2014_09_10_at_10.44.16_AM.0.png)
+
+*img src: https://www.theverge.com/2017/6/21/15816974/verizon-tumblr-net-neutrality-internet-politics-david-karp*
 
 ### Running a throbber
 ![throbber](https://github.com/AUAP/AP2018/blob/master/class03/throbber.gif)
