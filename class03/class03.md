@@ -156,7 +156,12 @@ while(millis() < wait){}
   - Returns the number of milliseconds (thousands of a second) since starting the program. 
   - Normally, it uses for timing events
   - 1 second = 1000 milliseconds; 10 seconds = 10000 milliseconds
-
+```javascript
+//sample code e.g 66-78
+let wait = floor(millis() + waitTime);  //wait for next round
+while(millis() < wait){}  // let the waittime pass (variable) and do nothing
+milliStart = millis(); //reset the starting time
+```
 ### Tasks for next week
 - miniEx3 - [Design a Throbber Differently](https://github.com/AUAP/AP2018/blob/master/all_miniex/mini_ex3.md)
 - Peer-Tutoring/Respondents: p5.dom library
