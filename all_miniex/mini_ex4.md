@@ -10,6 +10,7 @@
   - Gerlitz, Carolin, and Anne Helmond. “The like Economy: Social Buttons and the Data-Intensive Web.” New Media & Society 15, no. 8 (December 1, 2013): 1348–65. (can access via e-library)
  
  *The focus on a botton is just an example, you can apply the similar thinking to other kinds of tracking objects, such as face, mouse, audio, etc.*
+ 
 2. Experiment various data capturing input and interactive devices, such as audio, mouse, keyboard, web camera, etc.
 3. Develop a sketch that response loosely to the open call "[CAPTURE ALL](https://transmediale.de/content/call-for-works-2015)' from Transmediale 2015 that acts as the guideline for this mini exercise. (It can be very simple)
 4. Upload your program/result to your own Github account under a folder called mini_ex4. (Make sure your program can be run on a web browser, and if it requires downloading other library or other devices, please specify in your readme file)
