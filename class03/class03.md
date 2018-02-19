@@ -62,9 +62,9 @@ Agenda:
 Possible functions: FrameRate(), FrameCount(), setInterval(), Translate() and Rotate(), modulo/%, radians
 
 ### Artwork showcase
-![Asterisk Painting](http://www.johnpbell.com/wp-content/uploads/2018/01/asterisk_painting-300x188.jpg)
+![Asterisk Painting](https://github.com/AUAP/AP2018/blob/master/class03/Asterisk_Painting.gif)
 
-*Asterisk Painting by John P. Bell*
+*Asterisk Painting by John P. Bell, ported to p5.js and modified by Winnie Soon*
 
 Artist description: Asterisk Painting is programmed to create a series of asterisks by repeatedly printing the number of milliseconds that have passed since the painting started. If left to run by itself it will do so; however, when started on a system with other threads running in the background delays external to my artwork may make the asterisks look more like spots and the painting may resemble the work of certain other overly-litigious artists.
 See [here](http://www.johnpbell.com/asterisk-painting/)
