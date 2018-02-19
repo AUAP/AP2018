@@ -34,6 +34,8 @@ Agenda:
 ![throbber1](https://i.stack.imgur.com/dIFkT.gif)
 
 ![browser2](https://github.com/AUAP/AP2018/blob/master/class03/browser2.png)
+![throbber2](https://i.stack.imgur.com/oqMri.gif)
+![throbber3](http://img75.laughinggif.com/pic/HTTP2Jsb2cudGljZS5kZS9hX3BpY3MvSW50ZXJuZXRfRXhwbG9yZXIuZ2lm.gif)
 
 - Buffering icons of death [see here](https://mashable.com/2017/07/12/buffering-icons-ranked/#4FSuDdS21Oqr)
 
