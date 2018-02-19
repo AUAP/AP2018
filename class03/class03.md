@@ -31,6 +31,8 @@ Agenda:
   
 <img src="https://github.com/AUAP/AP2018/blob/master/class03/browser1.png" width="500"><br>*In the early 1990, developed by national center for supercompiting applications, the browser interface was designed by scientist Colleen Bushell.*
 
+![throbber1](https://i.stack.imgur.com/dIFkT.gif)
+
 ![browser2](https://github.com/AUAP/AP2018/blob/master/class03/browser2.png)
 
 - Buffering icons of death [see here](https://mashable.com/2017/07/12/buffering-icons-ranked/#4FSuDdS21Oqr)
