@@ -1,15 +1,17 @@
-Messy notes here...Announcement: changes of grouping
+Messy notes here...
+Announcement: changes of groups; discussion of code/sample code/mini ex_code (study group?); mistakes/failure
 
 #### Theme: Temporality: Infinite loops
 
 Agenda:
+- Introduce the theme briefly
 - Peer-tutoring: push()/pop()
 - Time/Throbber
 - Running a throbber
 - Artwork showcase: Asterisk Painting by John P. Bell
 - Running Asterisk Painting in p5.js
 - Tasks for next week
-  - miniEx3 - Design a throbber differently
+  - miniEx3 - Design a Throbber Differently
   - Peer-Tutoring/Respondents: p5.dom library
 
 ### Time/Throbber
@@ -141,6 +143,7 @@ while(millis() < wait){}
 ```
 - **millis()**
   -to be filled
+
 
 ### The concept of time (my notes)
 
