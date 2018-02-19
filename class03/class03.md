@@ -11,8 +11,6 @@ Agenda:
 - Artwork showcase: Asterisk Painting by John P. Bell
 - Running Asterisk Painting in p5.js
 - Tasks for next week
-  - miniEx3 - Design a Throbber Differently
-  - Peer-Tutoring/Respondents: p5.dom library
 
 ### Time/Throbber
 
@@ -152,6 +150,9 @@ while(millis() < wait){}
 - **millis()**
   -to be filled
 
+### Tasks for next week
+- miniEx3 - [Design a Throbber Differently](https://github.com/AUAP/AP2018/blob/master/all_miniex/mini_ex3.md)
+- Peer-Tutoring/Respondents: p5.dom library
 
 ### The concept of time (my notes)
 
