@@ -118,7 +118,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 - **Suggested reading/video**
   - playlist: [HTML/CSS/DOM- p5.js Tutorial by Daniel Shiffman](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX)
   - [clmtrackr - Face tracking javascript library](https://github.com/auduno/clmtrackr) by Audun M. Øygard
-  - Snodgrass, Eric, *Executions: Power and Expression in Networked and Computational Media*. Malmö University, 2017, pp. 121-152
+  - Snodgrass, Eric, *[Executions: Power and Expression in Networked and Computational Media](http://lnu.diva-portal.org/smash/record.jsf?pid=diva2%3A1134070&dswid=9511)*. Malmö University, 2017, pp. 121-152
 - **Weekly mini ex4: due week 10, Monday night | Capture ALL** 
   - check mini_ex folder > mini_ex4.md
 ---
