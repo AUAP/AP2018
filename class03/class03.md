@@ -48,7 +48,7 @@ Agenda:
 
 *img src: https://www.theverge.com/2017/6/21/15816974/verizon-tumblr-net-neutrality-internet-politics-david-karp*
 
-### Running a throbber
+### Decoding a throbber
 ![throbber](https://github.com/AUAP/AP2018/blob/master/class03/throbber.gif)
 
 **Discuss in a group of 3-4: How would you approach to draw a throbber from scratch?** (Spend sometime to think about it and there are more than one way in doing it, no right or wrong)
