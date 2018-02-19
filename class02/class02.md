@@ -229,6 +229,7 @@ Some thoughts: Do think about how Adobe illustrator is designed and developed. W
   
 ### Afterclass thoughts (my own notes)
 - As usual, I have prepared more than enough. We didn't manage to run through errors (which I need to put in another class) officially but we do manage to touch upon what might be the approach in tinkering code and how to locate the problem lines. But this needs more emphasis for new students as they are still quite new in understanding console.log (how to make full use of it) and how to identify the differences between functions and the tricks of modifying just one thing at a time and see the result)
+- Mini ex2: could be incorporated basic shapes than just primarily with basic shapes
 - No time to go through the in-class exericse on portrait drawing, but we spend sometimes discussing the questions and challenges that are from the sample code. 
 - I think the approach of using a sample/creative code to walk through syntax and fundamental elements are quite effective because this is something students can visualize and relate immediately. (for example, translate(), various shapes drawing, load image, etc.) This is quite a different approach from computer science to go straight and talk about different syntax without a context, which personally I think the students cannot relate and don't know how to apply.
 - I still take the approach of zooming in some foundamental concepts and walk through some basic stuff, esp the concept of canvas and variables. To sum up, we have walkthrough the followings:
