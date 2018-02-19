@@ -15,7 +15,8 @@
 - A URL link to your program and run on a browser, see: https://rawgit.com/.
 - Describe about your throbber design, both conceptually and technically.
   - What is the time-related syntax/function that you have used in your program? and why you use in this way?
-  - Think about a throbber that you have encounted in digital culture e.g streaming video on YouTube or loading latest feeds on Facebook or waiting a ticket transaction, what do you think a throbber tells us, or hide, about? 
+  - Think about a throbber that you have encounted in digital culture e.g streaming video on YouTube or loading latest feeds on Facebook or waiting a ticket transaction, what do you think a throbber tells us, and/or hides, about? How might we think about this remarkable throbber icon differently? 
+  
 5. Provide peer-feedback to 2 of your classmates on their works by creating "issues" on his/her github corresponding repository. Write with the issue title "Feedback on mini_ex(?) by (YOUR FULL NAME)"
 
 NB!: Feel Free to explore and experiment more syntax.
