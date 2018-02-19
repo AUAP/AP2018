@@ -7,7 +7,7 @@ Agenda:
 - Introduce the theme briefly
 - Peer-tutoring: push()/pop()
 - Time/Throbber
-- Running a throbber
+- Decoding a throbber
 - Artwork showcase: Asterisk Painting by John P. Bell
 - Running Asterisk Painting in p5.js
 - Tasks for next week
