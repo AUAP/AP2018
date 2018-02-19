@@ -152,7 +152,10 @@ if(sentences >= maxSentences){  //if the existing sentence count reaches the max
 while(millis() < wait){} 
 ```
 - **millis()**
-  -to be filled
+  - See [here](https://p5js.org/reference/#/p5/millis)
+  - Returns the number of milliseconds (thousands of a second) since starting the program. 
+  - Normally, it uses for timing events
+  - 1 second = 1000 milliseconds; 10 seconds = 10000 milliseconds
 
 ### Tasks for next week
 - miniEx3 - [Design a Throbber Differently](https://github.com/AUAP/AP2018/blob/master/all_miniex/mini_ex3.md)
