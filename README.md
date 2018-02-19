@@ -111,6 +111,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - How to import and use p5.dom library in your sketch?
   - What are the benefits of using p5.dom objects?
 - **Read/Watch before class:** 
+  - Pold, Søren. "Button." *Software Studies\ a lexicon*. Eds. Matthew Fuller. MIT Press, 2008. 31-36. (available in e-library)
   - Gerlitz, Carolin, and Anne Helmond. “The like Economy: Social Buttons and the Data-Intensive Web.” New Media & Society 15, no. 8 (December 1, 2013): 1348–65. (can access via e-library)
   - [p5.js examples - Interactivity 1](https://p5js.org/examples/hello-p5-interactivity-1.html)
   - [p5.js examples - Interactivity 2](https://p5js.org/examples/hello-p5-interactivity-2.html)
