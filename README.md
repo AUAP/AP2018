@@ -77,8 +77,9 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 - **Read/Watch before class:** 
   - Goriunova, Oga. *Fun and Software: Exploring Pleasure, Paradox and Pain in Computing*. Bloomsbury Academic, 2014. 1-19. [(Introduction, pp.1-19)](https://monoskop.org/images/1/14/Goriunova_Olga_ed_Fun_and_Software_Exploring_Pleasure_Paradox_and_Pain_in_Computing.pdf)
   - [p5.js Simple Shapes](https://p5js.org/examples/hello-p5-simple-shapes.html)
+  - [p5.js examples - load/display](https://p5js.org/examples/image-load-and-display-image.html) 
   - [Short p5.js video by Daniel Shiffman](https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)(watch 1.3, 1.4, 2.1, 2.2)
-- **Weekly mini ex2: due week 8, Monday night | A fun drawing** 
+- **Weekly mini ex2: due week 8, Monday night | A Fun Drawing** 
   - check mini_ex folder > mini_ex2.md
 ---
 #### Class 03 | Week 8 | 20 Feb 2018: Temporality: Infinite loops
@@ -95,7 +96,6 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - Describe the syntax, and how to use it? (see [ref1](http://genekogan.com/code/p5js-transformations/) and [ref2](https://www.youtube.com/watch?v=E4RyStef-gY&index=109&list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH))
   - See the responsibility of peer-tutors and peer-respondents at the end of this page
 - **Read/Watch before class:** 
-  - [p5.js examples - load/display](https://p5js.org/examples/image-load-and-display-image.html) 
   - [Short p5.js video by Daniel Shiffman](https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) (watch 3.1, 3.2, 3.3, 3.4, 4.1, 4.2, 5.1, 5.2, 5.3, 7.1, 7.2)
   - Soon, Winnie. ["Executing Micro-temporality."](http://www.data-browser.net/pdf/DB06_Executing_Practices.pdf)*Executing Practices*. Eds. Helen P, Eric S and Magda T. C. Autonomedia, 2017. 89-102.
   - Farman, Jason. [Fidget Spinners](http://reallifemag.com/fidget-spinners/). *Real Life*, 2017.
@@ -118,6 +118,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 - **Suggested reading/video**
   - playlist: [HTML/CSS/DOM- p5.js Tutorial by Daniel Shiffman](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX)
   - [clmtrackr - Face tracking javascript library](https://github.com/auduno/clmtrackr) by Audun M. Øygard
+  - Snodgrass, Eric, *Executions: Power and Expression in Networked and Computational Media*. Malmö University, 2017, pp. 121-152
 - **Weekly mini ex4: due week 10, Monday night | Capture ALL** 
   - check mini_ex folder > mini_ex4.md
 ---
