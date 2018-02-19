@@ -105,7 +105,7 @@ var yPos = [1,2,3,4];
 ```javascript
 if (I am hungry) { //condition > boolean expression
   eat some food;
-}else if(thirsty) :
+}else if(thirsty) {
   drink some water;
 }else{
   take a nap;
