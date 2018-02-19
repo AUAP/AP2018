@@ -18,7 +18,7 @@
 - A screenshot of your program
 - A URL link to your program and run on a browser, see: https://rawgit.com/.
 - Describe about your sketch, both conceptually and technically.
-- What has been captured in your sketch, and what might be the meaning of cpature in digital culture?
+- What has been captured in your sketch, and what might be the meaning of capture in digital culture?
 6. Provide peer-feedback to 2 of your classmates on their works by creating "issues" on his/her github corresponding repository. Write with the issue title "Feedback on mini_ex(?) by (YOUR FULL NAME)"
 
 NB!: Feel Free to explore and experiment more syntax.
