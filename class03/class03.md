@@ -29,8 +29,10 @@ Agenda:
 <img src="https://github.com/AUAP/AP2018/blob/master/class03/watch.png" width="500">
 *Early wristwatches (with crystal guards) where soldiers wore them in WWI*
 
+
 <img src="https://github.com/AUAP/AP2018/blob/master/class03/browser1.png" width="500">
 *In the early 1990, developed by national center for supercompiting applications, the browser interface was designed by scientist Colleen Bushell.*
+
 
 ![browser2](https://github.com/AUAP/AP2018/blob/master/class03/browser2.png)
 
