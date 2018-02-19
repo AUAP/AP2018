@@ -91,9 +91,13 @@ words[1] = "what is aesthetics?";
 words[2] = "something";
 ```
 ```javascript
-//sample code e.g line 23-24
+//sample code e.g line 23-24 and 36-41
 var xPos = [1,2,3,4,5]; 
 var yPos = [1,2,3,4];
+
+//xPos.length: xPos[0] = 1, xPos[1] = 2, xPos[2] = 3, xPos[3] = 4, xPos[4] = 5
+//yPos.length
+
 ```
   - **conditional statements  (if, else, else if)**
     - In the physical world you would say "If I am hungry then eat some food, otherwise if I am thirsty, drink some water, else I will just take a nap"
