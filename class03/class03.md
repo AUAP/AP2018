@@ -37,7 +37,9 @@ Agenda:
 ![throbber2](https://i.stack.imgur.com/oqMri.gif)
 ![throbber3](http://img75.laughinggif.com/pic/HTTP2Jsb2cudGljZS5kZS9hX3BpY3MvSW50ZXJuZXRfRXhwbG9yZXIuZ2lm.gif)
 
-- Buffering icons of death [see here](https://mashable.com/2017/07/12/buffering-icons-ranked/#4FSuDdS21Oqr)
+- Buffering icons of death [see here](https://mashable.com/2017/07/12/buffering-icons-ranked/#4FSuDdS21Oqr) => many other different names e.g Hourglass cursor, Spinning Wait Cursor, Spinning Beach Ball, Spinning Wheel of Death, etc. 
+![throbber4](https://media.giphy.com/media/XXH77SsudU3HW/giphy.gif)
+
 
 - The concept of "false latency"  -by Jason Farman, 2017 (to feel more formal, to feel it is actually processing -> expectation gap between human and technology)
 
