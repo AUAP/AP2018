@@ -72,6 +72,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - Coordinate system
   - Shapes drawing
   - Variables
+  - Image loading/Display
   - ~~Errors and console.log~~
   - ~~In-class challenge: Grid paper portrait in p5.js~~
 - **Read/Watch before class:** 
