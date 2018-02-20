@@ -1,5 +1,4 @@
 Messy notes here...
-Announcement: changes of groups; discussion of code/sample code/mini ex_code (study group?); mistakes/failure
 
 #### Theme: Temporality: Infinite loops
 
