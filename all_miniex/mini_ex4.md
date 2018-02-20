@@ -2,7 +2,7 @@
 
 **Objective:**
 - To critically reflect upon the activity of data capture in digital culture. 
-- To experiment various data capturing input, including audio, mouse, keyboard and web camera.
+- To experiment various data capturing inputs, including audio, mouse, keyboard and web camera.
 
 **Tasks:**
 1. Make sure you have read the text by Søren Pold + Carolin and Anne: 
