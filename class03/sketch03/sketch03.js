@@ -20,8 +20,8 @@ var timer=0;
 var speed=100;  //the speed of rotating , default 100
 var maxSentences = 77;  //original: 77
 var sentences = 0;
-var xPos = [1,2,3,4,5]; //original: 8 per columns
-var yPos = [1,2,3,4]; //original: 5 per rows
+var xPos = [1,2,3,4,5]; //original: 8 columns
+var yPos = [1,2,3,4]; //original: 5 rows
 var xCtr = 0;
 var yCtr = 0;
 var waitTime = 10000;
@@ -33,10 +33,10 @@ var fillColor;
 function setup(){
   createCanvas(xDim, yDim);
   background(240);
-  for(let i=0; i<xPos.length; i++) {      //calculate the position of each asterisk horizontally in terms of array
+  for(let i=0; i<xPos.length; i++) {      //calculate the position of each asterisk horizontally in terms of array, start with [0] array index
     xPos[i] = xPos[i] * (xDim / (xPos.length+1));
   }
-  for(let i=0; i<yPos.length; i++) {  // //calculate the position of asterisk vertically in terms of array
+  for(let i=0; i<yPos.length; i++) {  // //calculate the position of asterisk vertically in terms of array, start with [0] array index
     yPos[i] = yPos[i] * (yDim / (yPos.length+1));
   }
   fill(0);  //counter color at the bottom left
