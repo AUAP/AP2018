@@ -180,3 +180,9 @@ Fidget Spinners: How buffer icons have shaped our sense of time by Jason Farman
 - "For consumers and users of contemporary technology, waiting is deeply connected to our fantasies about who we are and what our purchases say about us."
 
 - "Buffering icons and wait cursors confront this challenge, giving us feedback that reshapes our everyday expectations and experiences of time and duration as computers process the data being sent across the lines."
+
+### Afterclass thoughts (my own notes)
+- Able to cover most of the planned items, but difficult to get to the second sample code as it requires some more time to think about the functions and how it actually operates. I still think it is a good example to showcase various time related syntax and how it could be used in a meaningful way. 
+- As the class progress, I also realize in many ways code is very much related to mathematics. Simply calculate the rotation angle in relation to a throbber, what is the degee for a full circle, or in the second sample code, how to calculate the xPos and yPos for each Asterisk in the form of a for loop, arrays and width of the canvas. 
+- The confusing part of the second sample code is the concept of arrays, the index of an array and the corresponding value of an array, and how to loop through all the array index etc. It is a very special way of thinking where it is already determined by the starting index as zero. It structures the way how we loop through an array through the incremental of i (e.g i++). 
+- So for first time programming learners, arrays and for loop are more difficult concept. I think it is because it suddenly change the spatial and temporal dimension, in terms of the extension of the conept of variables where more values can be incorporated. Additionally, the loop is both related to time, the happening of each loop and how to handle the loop and what's the limitation of that loop. 
