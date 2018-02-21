@@ -17,8 +17,8 @@
 5. Create a readme file (README.md) and upload to the same mini_ex3 directory (see [this](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for editing the README). The readme file should contain the followings:
 - A screenshot of your program
 - A URL link to your program and run on a browser, see: https://rawgit.com/.
-- Describe about your sketch, both conceptually and technically.
-- What has been captured in your sketch, and what might be the meaning of capture in digital culture?
+- Describe about your sketch and explains what have been captured both conceptually and technically.
+- How might this ex helps you to think about or understand the data capturing process in digital culture? 
 6. Provide peer-feedback to 2 of your classmates on their works by creating "issues" on his/her github corresponding repository. Write with the issue title "Feedback on mini_ex(?) by (YOUR FULL NAME)"
 
 NB!: Feel Free to explore and experiment more syntax.
