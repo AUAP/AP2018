@@ -1,4 +1,18 @@
 /*
+Asterisk Painting by John P.Bell (http://www.johnpbell.com/asterisk-painting/)
+Original code in Processing: http://wg18.criticalcodestudies.com/index.php?p=/discussion/31/week-2-critical-and-creative-coding-calvinball-and-coders#latest
+Port to p5js and modified by Winnie Soon with comment notes
+notes:
+1. The color mode has been changed to a variable as the push/pop function will restore the previous fill color state.
+2. Remove font
+3. change the bg color
+4. add text size
+5. remove load signature image
+6. change canvas size -> and corresponding no of asterisk painting
+7. display counter in black color
+8. Add extensive comments
+____________________________________________________________________
+
 Mine kommentarer er på dansk.
 Dette er en kompliceret kode, og det tager tid at opnå en fuld forståelse af den.
 Dette er heller ikke krævet af jer, at I har.
