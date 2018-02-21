@@ -64,4 +64,21 @@ Pold - Button in Software Studies
     -sometimes not even a selection of choice, is also about exclusion with only 1 option apparently. To download, or else you don't click on it. 
     - no betweenness
  - buttonization => "our reality becomes clickable" (p. 36)
+ 
+ Gerlitz and Helmond: 2013
+ - like economy: trade, metrics, tracking
+ - role of social buttons
+ - "turned into valuable consumer data and enter multiple cycles of multiplication and exchange" (p.2)
+ - "the like botton's capacity to instantly metrify and intensify user affects - turning them into numbers on the Like counter- while fostering further user engagement to multiply and scale up user data" (p. 3)
+ - linking practices (web 1.0) then creating connections between websites e.g social buttons
+ - liking => social activity that can be performed (p. 5)
+ - "introduction of social plugings, including the external Like button, to enable a personalied, social experience of the web." (p.5)
+ - like button -> generate data (production of browsing behaviors) via cookies
+ - maximize the data flow to the platform
+ - foster user engagement adn traffic: like button (p. 7)
+ - apps vs websites
+ - "provides a one-click shortcut to express a variety of affective response" (p. 11)
+ - "It value lies both in the present and in the future, in the plus one it adds to the Like counter and the number of x potential more likes, comments, shares or other responses it might generate within the platform" (p. 12)
+ - "rendering cross-syndication more scalable" (p. 12)
+ - Within the like economy, data and numbers have performative and productive capacities, they can generate user affects, enact more activities and thus multiply themselves (p. 13) 
 
