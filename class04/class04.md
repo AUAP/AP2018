@@ -13,7 +13,7 @@ Messy Notes:
 
 ### Sample code walkthrough
 
-[faceTrack](https://github.com/AUAP/AP2018/blob/master/class04/faceTrack.gif)
+![faceTrack](https://github.com/AUAP/AP2018/blob/master/class04/faceTrack.gif)
 
 [Runme](https://rawgit.com/AUAP/AP2018/master/class04/sketch04/index.html)    
 
