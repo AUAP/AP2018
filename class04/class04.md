@@ -7,6 +7,29 @@ Messy Notes:
 
 ### The theme about Data Capture
 
+![facebook1](https://c.slashgear.com/wp-content/uploads/2013/10/facebook_heat_map.jpg)
+See [here](https://www.slashgear.com/facebook-investigates-tracking-users-cursors-and-screen-behavior-30303663/)
+
+Facebook has the ability to track unposted status updates (what you are typing as you're typing, regardless it is a published/public post or not)
+>> more: https://www.aaai.org/ocs/index.php/ICWSM/ICWSM13/paper/viewFile/6093/6350
+
+Facebook buttons 
+![facebook2](http://cdn1.sbnation.com/assets/3523775/facebook_like_designs.png)
+
+Google analytics: https://www.youtube.com/watch?v=mPgAug15bcQ 
+
+![google](improving speech recognition against all Google products that use your voice) 
+
+Google voices
+
+Fitness and health tracker, sleep tracker,etc
+
+[Next-level Surveillance: China Embraces Facial Recognition](https://www.youtube.com/watch?v=Fq1SEqNT-7c)
+
+
+
+- 
+
 ### Artwork showcase: How We Act Together by Lauren McCarthy and Kyle McDonald 
 - source code here: https://github.com/kylemcdonald/HowWeActTogether-Tracking
 - ![img](http://payload496.cargocollective.com/1/19/625408/12229985/scream-comp.gif)
