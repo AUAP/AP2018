@@ -8,6 +8,7 @@ Messy Notes:
 ### The theme about Data Capture
 
 ![facebook1](https://c.slashgear.com/wp-content/uploads/2013/10/facebook_heat_map.jpg)
+
 See [here](https://www.slashgear.com/facebook-investigates-tracking-users-cursors-and-screen-behavior-30303663/)
 
 Facebook has the ability to track unposted status updates (what you are typing as you're typing, regardless it is a published/public post or not)
