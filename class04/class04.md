@@ -27,7 +27,7 @@ Fitness and health tracker, sleep tracker,etc
 
 [Next-level Surveillance: China Embraces Facial Recognition](https://www.youtube.com/watch?v=Fq1SEqNT-7c)
 
-
+Company: Spyhuman: https://spyhuman.com/pages/wechat-tracker.html
 
 ### Artwork showcase: How We Act Together by Lauren McCarthy and Kyle McDonald 
 - source code here: https://github.com/kylemcdonald/HowWeActTogether-Tracking
