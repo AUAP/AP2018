@@ -1,0 +1,15 @@
+
+    Messy Notes:
+    
+    - Peer-Tutoring: p5.dom libary
+    - The theme about Data Capture
+    - Artwork showcase: How We Act Together by Lauren McCarthy and Kyle McDonald 
+      - source code here: https://github.com/kylemcdonald/HowWeActTogether-Tracking
+      - img: http://payload496.cargocollective.com/1/19/625408/12229985/scream-comp.gif
+    - Sample code walkthrough
+      - p5.dom: css styling
+      - Mouse
+      - Keyboard
+      - Audio
+      - Web Camera
+    
