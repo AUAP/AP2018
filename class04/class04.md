@@ -18,7 +18,7 @@ Facebook buttons
 
 Google analytics: https://www.youtube.com/watch?v=mPgAug15bcQ 
 
-![google](improving speech recognition against all Google products that use your voice) 
+![google](http://i.dailymail.co.uk/i/pix/2017/11/14/12/4655673600000578-5080971-image-a-7_1510661012565.jpg) 
 
 Google voices
 
@@ -27,8 +27,6 @@ Fitness and health tracker, sleep tracker,etc
 [Next-level Surveillance: China Embraces Facial Recognition](https://www.youtube.com/watch?v=Fq1SEqNT-7c)
 
 
-
-- 
 
 ### Artwork showcase: How We Act Together by Lauren McCarthy and Kyle McDonald 
 - source code here: https://github.com/kylemcdonald/HowWeActTogether-Tracking
