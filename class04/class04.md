@@ -29,7 +29,8 @@ Fitness and health tracker, sleep tracker,etc
 
 Company: Spyhuman: https://spyhuman.com/pages/wechat-tracker.html
 
-Recommendation engines: Amazon
+Recommendation engines: 
+![Amazon](https://github.com/AUAP/AP2018/blob/master/class04/amazon.png)
 
 ### Artwork showcase: How We Act Together by Lauren McCarthy and Kyle McDonald 
 - source code here: https://github.com/kylemcdonald/HowWeActTogether-Tracking
