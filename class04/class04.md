@@ -48,4 +48,20 @@ Recommendation engines:
 - Audio
 - Web Camera
 
-    
+### The concept of Data Capture (my own notes)
+Pold - Button in Software Studies
+- buttons as interfaces (as part of GUI and mechanical electronic interface)
+- button can be textualized, styled, reactive, sonified...
+- different types of button: click button, radio botton
+- "a potential for interaction" p.31 (what if a botton cannot interact?)
+- click button - mouse click 
+- "a functional control" p.31
+    - well defined, predictable
+- not only about design and function, but buttons with history and culture. 
+- meaning: what has been mobilized? (call for action - advertising)
+- buttons: force decision in a binary choice (p.34)
+    -accept/cancel, yes/no
+    -sometimes not even a selection of choice, is also about exclusion with only 1 option apparently. To download, or else you don't click on it. 
+    - no betweenness
+ - buttonization => "our reality becomes clickable" (p. 36)
+
