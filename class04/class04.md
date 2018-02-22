@@ -45,7 +45,7 @@ Datafication: http://www.aprja.net/datafied-research/
 [Runme](https://rawgit.com/AUAP/AP2018/master/class04/sketch04/index.html)    
 
 - p5.dom: css styling (need the p5.dom library)
-```css
+```javascript
 var button;
 button = createButton('like');
 button.style("display","inline-block");
