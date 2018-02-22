@@ -48,7 +48,7 @@ Datafication: http://www.aprja.net/datafied-research/
 - Mouse
 - Keyboard
 - Audio
-- Web Camera
+- Web Camera: see [clmtrackr](https://github.com/auduno/clmtrackr)
 
 ### The concept of Data Capture (my own notes)
 Pold - Button in Software Studies
