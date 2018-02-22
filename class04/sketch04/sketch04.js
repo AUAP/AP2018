@@ -1,5 +1,6 @@
 /*
 class04 - Data Capture: https://github.com/AUAP/AP2018/
+
 check:
 1. sound input via microphone: https://p5js.org/examples/sound-mic-input.html
 2. dom objects like button
@@ -62,9 +63,9 @@ function draw() {
   button.size(floor(map(vol, 0, 1, 40, 500)));  //map the mic vol to the size of button: check map function: https://p5js.org/reference/#/p5/map
 
   var positions = ctracker.getCurrentPosition();
-  if (positions.length) {
-    button.position(positions[60][0]-20, positions[60][1]);  //as the button is too long, i wanna put it in the middle of my mouth
-    for (let i=0; i<positions.length; i++) {  //check the availability of web cam tracking
+  if (positions.length) { //check the availability of web cam tracking
+    button.position(positions[60][0]-20, positions[60][1]);  //as the button is too long, i wanna put it in the middle of my mouth, and -> 60 is the mouth area
+    for (let i=0; i<positions.length; i++) {  //loop through all major face track points
        noStroke();
        fill(map(positions[i][0], 0, width, 100, 255), 10);  //color with alpha value
        //draw ellipse at each position point
