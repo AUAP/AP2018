@@ -10,7 +10,7 @@
 2. Think of a simple game that you want to design and implement, what are the objects required? What are their properties and behaviors? At the most basic level, you need to use class-based object oriented approach to design your game components that can exhibit certain behaviors (that means you need to at least have a class, constructor and method). If you can master objects and classes, you *may* further work on a mini game (with basic rules) that works with data input and interactive devices that you have learned from previous class.
 3. Take a look at some simple game projects for inspiration: (pls note that some of the projects are not implmented in the format of class-based object oriented programming)
 - [p5.js coding challenge #31: Flappy Bird by Daniel Shiffman](https://www.youtube.com/watch?v=cXgA1d_E-jY)
-- [p5.js coding challenge #3: The snake game](https://www.youtube.com/watch?v=AaGK-fj-BAM)
+- [p5.js coding challenge #3: The snake game by Daniel Shiffman](https://www.youtube.com/watch?v=AaGK-fj-BAM)
 - You may find [p5.play library](http://p5play.molleindustria.org/) useful
   - [p5.play library - examples, Pong](http://p5play.molleindustria.org/examples/index.html?fileName=pong.js)
   - [p5.play library - examples, Asteroid](http://p5play.molleindustria.org/examples/index.html?fileName=asteroids.js)
