@@ -36,8 +36,17 @@ Recommendation engines:
 Datafication: http://www.aprja.net/datafied-research/
 
 ### Artwork showcase: How We Act Together by Lauren McCarthy and Kyle McDonald 
-- source code here: https://github.com/kylemcdonald/HowWeActTogether-Tracking
+
+
 - ![img](http://payload496.cargocollective.com/1/19/625408/12229985/scream-comp.gif)
+
+How We Act Together focuses a lens on the small gestures of social interaction, asking participants to repeat them until exhausted, to a point where the gesture no longer feels natural and its meaning begins to shift. Interrogating a gesture through repetition evokes the discomfort we sometimes encounter in social interactions in the wild. We are becoming increasingly familiar with conversations characterized by divided attention and a loss of connection.
+
+But the gesture is not completely empty, as the participant’s performance triggers a response. For as long as the participant acts, they are able to view a stream of all the previous participants performing the same action back at them. Distributed across a crowd, spread over space and time, an asynchronous interaction takes place that is both awkward and intimate.
+
+The entire interaction is choreographed by the software. Participants act on command from the screen, and their performance does not begin until they conform to the metrics of computer vision algorithms that recognize their gesture. The software validates their human expressions and movements, allowing them access to the crowd of people interacting together. - Lauren and Kyle
+- [RUNME](https://hwat.schirn.de/) (work in Google Chrome only)
+- source code here: https://github.com/kylemcdonald/HowWeActTogether-Tracking
 
 ### Sample code walkthrough
 
