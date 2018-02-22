@@ -43,6 +43,7 @@ Datafication: http://www.aprja.net/datafied-research/
 ![faceTrack](https://github.com/AUAP/AP2018/blob/master/class04/faceTrack.gif)
 
 [Runme](https://rawgit.com/AUAP/AP2018/master/class04/sketch04/index.html)    
+[Source Code](https://github.com/AUAP/AP2018/blob/master/class04/sketch04/sketch04.js)
 
 - p5.dom: css styling (need the p5.dom library)
 ```javascript
