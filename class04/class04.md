@@ -1,5 +1,6 @@
 Messy Notes (still working on it...hopefully will finalize by Mon night):
-    
+
+Agenda:
 - Peer-Tutoring: p5.dom libary
 - The theme about Data Capture
 - Artwork showcase: How We Act Together by Lauren McCarthy and Kyle McDonald 
