@@ -1,8 +1,8 @@
 # Weekly mini ex5: due week 11, Monday night - Games with objects
 
 **Objective:**
-- To implement an class-based object oriented sketch via abstracting and designing objects' properties and behaviors. 
-- To reflect upon objects in the domain of digital culture.
+- To implement a class-based object oriented sketch via abstracting and designing objects' properties and behaviors. 
+- To reflect upon object orientation in the domain of digital culture.
 
 **Tasks:**
 1. Make sure you have read the text by Roger Lee: 
