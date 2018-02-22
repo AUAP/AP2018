@@ -6,6 +6,8 @@ Agenda:
 - Artwork showcase: How We Act Together by Lauren McCarthy and Kyle McDonald 
 - Sample code walkthrough
 
+[background video](https://loopvideos.com/SPjtkUs1rvA?from=326&to=454)
+
 ### The theme about Data Capture
 
 ![facebook1](https://c.slashgear.com/wp-content/uploads/2013/10/facebook_heat_map.jpg)
