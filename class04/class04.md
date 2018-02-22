@@ -44,11 +44,81 @@ Datafication: http://www.aprja.net/datafied-research/
 
 [Runme](https://rawgit.com/AUAP/AP2018/master/class04/sketch04/index.html)    
 
-- p5.dom: css styling
-- Mouse
+- p5.dom: css styling (need the p5.dom library)
+```css
+var button;
+button = createButton('like');
+button.style("display","inline-block");
+button.style("color","#fff");
+button.style("padding","5px 8px");
+button.style("text-decoration","none");
+button.style("font-size","0.9em");
+button.style("font-weight","normal");
+button.style("border-radius","3px");
+button.style("border","none");
+button.style("text-shadow","0 -1px 0 rgba(0,0,0,.2)");
+button.style("background","#4c69ba");
+button.style("background","-moz-linear-gradient(top, #4c69ba 0%, #3b55a0 100%)");
+button.style("background","-webkit-gradient(linear, left top, left bottom, color-stop(0%, #3b55a0))");
+button.style("background","-webkit-linear-gradient(top, #4c69ba 0%, #3b55a0 100%)");
+button.style("background","-o-linear-gradient(top, #4c69ba 0%, #3b55a0 100%)");
+button.style("background","-ms-linear-gradient(top, #4c69ba 0%, #3b55a0 100%)");
+button.style("background","linear-gradient(to bottom, #4c69ba 0%, #3b55a0 100%)");
+button.style("filter","progid:DXImageTransform.Microsoft.gradient( startColorstr='#4c69ba', endColorstr='#3b55a0', GradientType=0 )");
+```
+- Mouse 
+```javascript
+button.mousePressed(clearence);
+function clearence() {
+  clear();
+}
+```
 - Keyboard
-- Audio
-- Web Camera: see [clmtrackr](https://github.com/auduno/clmtrackr)
+```javascript
+function keyPressed() {
+  if (keyCode === 32) { //spacebar - check here: http://keycode.info/
+    button.style('rotate', 180);
+  } else {
+    button.style('rotate', 0);
+  }
+}
+```
+- Audio (need the p5.sound library)
+```javascript
+var mic;
+// Audio capture
+mic = new p5.AudioIn();
+mic.start();
+//sound capture
+let vol = mic.getLevel(); // Get the overall volume (between 0 and 1.0)
+button.size(floor(map(vol, 0, 1, 40, 500)));  //map the mic vol to the size of button: check map function: https://p5js.org/reference/#/p5/map
+```
+- Web Camera (need the clmtrackr.js and model lib)
+    - see [clmtrackr](https://github.com/auduno/clmtrackr)
+```javascript
+var ctracker;
+
+//web cam capture
+var capture = createCapture();
+capture.size(640,480);
+capture.position(0,0);
+
+//setup tracker
+ctracker = new clm.tracker();
+ctracker.init(pModel);
+ctracker.start(capture.elt);
+
+var positions = ctracker.getCurrentPosition();
+if (positions.length) { //check the availability of web cam tracking
+    button.position(positions[60][0]-20, positions[60][1]);  //as the button is too long, i wanna put it in the middle of my mouth, and -> 60 is the mouth area
+    for (let i=0; i<positions.length; i++) {  //loop through all major face track points
+       noStroke();
+       fill(map(positions[i][0], 0, width, 100, 255), 10);  //color with alpha value
+       //draw ellipse at each position point
+       ellipse(positions[i][0], positions[i][1], 8, 8);
+    }
+}
+```
 
 ### The concept of Data Capture (my own notes)
 Pold - Button in Software Studies
