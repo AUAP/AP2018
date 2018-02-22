@@ -32,6 +32,8 @@ Company: Spyhuman: https://spyhuman.com/pages/wechat-tracker.html
 Recommendation engines: 
 ![Amazon](https://github.com/AUAP/AP2018/blob/master/class04/amazon.png)
 
+Datafication: http://www.aprja.net/datafied-research/
+
 ### Artwork showcase: How We Act Together by Lauren McCarthy and Kyle McDonald 
 - source code here: https://github.com/kylemcdonald/HowWeActTogether-Tracking
 - ![img](http://payload496.cargocollective.com/1/19/625408/12229985/scream-comp.gif)
