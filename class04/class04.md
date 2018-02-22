@@ -1,4 +1,4 @@
-Messy Notes:
+Messy Notes (still working on it...hopefully will finalize by Mon night):
     
 - Peer-Tutoring: p5.dom libary
 - The theme about Data Capture
