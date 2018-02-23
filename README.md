@@ -144,13 +144,34 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 - **Weekly mini ex5: due week 11, Monday night | Games with objects** 
   - check mini_ex folder > mini_ex5.md
   ---
-#### Class 06 | Week 11 | 13 Mar 2018: Language Plus Code
+#### Class 06 | Week 11 | 13 Mar 2018: Generativity
+##### Wed tutorial session and NO Fri shutup and code session.
+- **Class structure:**
+  - Randomness, loops and rules
+  - In-class ex: 10 print
+  - Artwork example: [A House of Dust](http://www.zachwhalen.net/pg/dust/) (a simulation of a 1967 poem by Alison Knowles and James Tenney) by Zach Whalen | see more background info [here](http://www.artbytranslation.org/_pdf/HOUSE_OF_DUST_JOURNAL_25_08_2016_BDEF_PREVIEW.pdf)
+  - Introduce the final code project
+- **Peer-tutoring: Group 4 / Respondents: Group 5, Topic: Conditions with sound and video files**
+  - How to incorporate sound and video in your sketch?
+- **Read/Watch before class:** 
+  - Soon, Winnie. Executing Liveness. PhD dissertation. Aarhus University, 2016. 82-90  (the section on Generativity)
+  - [1 hr video] [Beautiful Rules: Generative models of creativity](https://vimeo.com/26594644) (2007) by Marius Watz
+- **Suggested reading/video**
+  - [The Recode Project](http://recodeproject.com/) and [Memory Slam](http://nickm.com/memslam/) by Nick Montfort
+  - Galanter, Philip. "[Generative Art Theory](http://cmuems.com/2016/60212/resources/galanter_generative.pdf)". *A Companion to Digital Art*. Eds. Christiane P, 2016. 
+  - [6 mins Video] [How to Draw with Code](https://www.youtube.com/watch?v=_8DMEHxOLQE) by Casey Reas
+  - [p5.js Coding Challenge #14: Fractal Trees - Recursive by Daniel Shiffman](https://www.youtube.com/watch?v=0jjeOYMjmDU)
+  - [p5.js Coding Challenge #76: Recursion by Daniel Shiffman](https://www.youtube.com/watch?v=jPsZwrV9ld0)
+- **Weekly mini ex6: due week 12, Monday night | Generative Art** 
+  - check mini_ex folder > mini_ex6.md
+ ---
+ #### Class 07 | Week 12 | 20 Mar 2018: Language Plus Code
 ##### Wed tutorial session and NO Fri shutup and code session.
 - **Class structure:**
   - Typography and textuality
   - Codework
   - Mid-way evaluation
-- **Peer-tutoring: Group 4 / Respondents: Group 5, Topic: JSON**
+- **Peer-tutoring: Group 5 / Respondents: Group 6, Topic: JSON**
   - What is JSON? How to use JSON?
   - Why is it important to know JSON or Why JSON is so popular?
   - How may we understand data processing through JSON?
@@ -163,30 +184,9 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - [Matrix Digital Rain video tutorial by Emily Xie](https://www.youtube.com/watch?v=S1TQCi9axzg)
   - Raley, Rita. [Interferences:[Net.Writing] and the Practice of Codework](http://www.electronicbookreview.com/thread/electropoetics/net.writing). *electronic book review*, 2002.
   - Queneau, Ramond, et al. [Six Selections by the Oulipo](http://itp.nyu.edu/varwiki/uploads/six%20selections%20from%20the%20oulipo). *The New Media Reader*. Eds. Noah W-F and Nick M. The MIT Press, 2003. 147-189.
-- **Weekly mini ex6: due week 12, Monday night | e-literature** 
-  - check mini_ex folder > mini_ex6.md
----
-#### Class 07 | Week 12 | 20 Mar 2018: Generativity
-##### Wed tutorial session and NO Fri shutup and code session.
-- **Class structure:**
-  - Randomness, loops and rules
-  - In-class ex: 10 print
-  - Artwork example: [A House of Dust](http://www.zachwhalen.net/pg/dust/) (a simulation of a 1967 poem by Alison Knowles and James Tenney) by Zach Whalen | see more background info [here](http://www.artbytranslation.org/_pdf/HOUSE_OF_DUST_JOURNAL_25_08_2016_BDEF_PREVIEW.pdf)
-  - Introduce the final code project
-- **Peer-tutoring: Group 5 / Respondents: Group 6, Topic: Conditions with sound and video files**
-  - How to incorporate sound and video in your sketch?
-- **Read/Watch before class:** 
-  - Soon, Winnie. Executing Liveness. PhD dissertation. Aarhus University, 2016. 82-90  (the section on Generativity)
-  - [1 hr video] [Beautiful Rules: Generative models of creativity](https://vimeo.com/26594644) (2007) by Marius Watz
-- **Suggested reading/video**
-  - [The Recode Project](http://recodeproject.com/) and [Memory Slam](http://nickm.com/memslam/) by Nick Montfort
-  - Galanter, Philip. "[Generative Art Theory](http://cmuems.com/2016/60212/resources/galanter_generative.pdf)". *A Companion to Digital Art*. Eds. Christiane P, 2016. 
-  - [6 mins Video] [How to Draw with Code](https://www.youtube.com/watch?v=_8DMEHxOLQE) by Casey Reas
-  - [p5.js Coding Challenge #14: Fractal Trees - Recursive by Daniel Shiffman](https://www.youtube.com/watch?v=0jjeOYMjmDU)
-  - [p5.js Coding Challenge #76: Recursion by Daniel Shiffman](https://www.youtube.com/watch?v=jPsZwrV9ld0)
-- **Weekly mini ex7: due week 14, Monday night | Generative Art** 
+- **Weekly mini ex7: due week 13, Monday night | e-literature** 
   - check mini_ex folder > mini_ex7.md
- ---
+---
  #### Class 08 | Week 12 | 22 Mar 2018 (Thur): Guest Lecture by Nick Montfort (Mandatory)
   - 15.00-17.00 @ 5008-138. Details will follow soon 
 ---
