@@ -150,7 +150,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - Randomness, loops and rules
   - In-class ex: 10 print
   - Artwork example: [A House of Dust](http://www.zachwhalen.net/pg/dust/) (a simulation of a 1967 poem by Alison Knowles and James Tenney) by Zach Whalen | see more background info [here](http://www.artbytranslation.org/_pdf/HOUSE_OF_DUST_JOURNAL_25_08_2016_BDEF_PREVIEW.pdf)
-  - Introduce the final code project
+  - Mid-way evaluation
 - **Peer-tutoring: Group 4 / Respondents: Group 5, Topic: Conditions with sound and video files**
   - How to incorporate sound and video in your sketch?
 - **Read/Watch before class:** 
@@ -170,7 +170,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 - **Class structure:**
   - Typography and textuality
   - Codework
-  - Mid-way evaluation
+  - Introduce the final code project
 - **Peer-tutoring: Group 5 / Respondents: Group 6, Topic: JSON**
   - What is JSON? How to use JSON?
   - Why is it important to know JSON or Why JSON is so popular?
