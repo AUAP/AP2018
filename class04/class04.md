@@ -1,3 +1,5 @@
+Announcement: swap topic: language+ code and generativity. So the groups' topic will change as well.
+
 Messy Notes (still working on it...hopefully will finalize by Mon night):
 
 Agenda:
