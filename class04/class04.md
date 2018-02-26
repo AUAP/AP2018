@@ -3,12 +3,26 @@ Announcement: swap topic: language+ code and generativity. So the groups' topic 
 Messy Notes (still working on it...hopefully will finalize by Mon night):
 
 Agenda:
+- Artwork showcase: How We Act Together by Lauren McCarthy and Kyle McDonald 
 - Peer-Tutoring: p5.dom libary
 - The theme about Data Capture
-- Artwork showcase: How We Act Together by Lauren McCarthy and Kyle McDonald 
 - Sample code walkthrough
 
 [background video](https://loopvideos.com/SPjtkUs1rvA?from=326&to=454)
+
+### Artwork showcase: How We Act Together by Lauren McCarthy and Kyle McDonald 
+
+- ![img](http://payload496.cargocollective.com/1/19/625408/12229985/scream-comp.gif)
+
+How We Act Together focuses a lens on the small gestures of social interaction, asking participants to repeat them until exhausted, to a point where the gesture no longer feels natural and its meaning begins to shift. Interrogating a gesture through repetition evokes the discomfort we sometimes encounter in social interactions in the wild. We are becoming increasingly familiar with conversations characterized by divided attention and a loss of connection.
+
+But the gesture is not completely empty, as the participant’s performance triggers a response. For as long as the participant acts, they are able to view a stream of all the previous participants performing the same action back at them. Distributed across a crowd, spread over space and time, an asynchronous interaction takes place that is both awkward and intimate.
+
+The entire interaction is choreographed by the software. Participants act on command from the screen, and their performance does not begin until they conform to the metrics of computer vision algorithms that recognize their gesture. The software validates their human expressions and movements, allowing them access to the crowd of people interacting together. - Lauren and Kyle
+
+- [RUNME](https://hwat.schirn.de/) (work in Google Chrome only)
+- source code here: https://github.com/kylemcdonald/HowWeActTogether-Tracking
+- [30 mins Video](https://www.youtube.com/watch?v=SPjtkUs1rvA)
 
 ### The theme about Data Capture
 
@@ -52,20 +66,6 @@ Fitness and health tracker, sleep tracker,etc
 #### Recommendation engines: 
 ![Amazon](https://github.com/AUAP/AP2018/blob/master/class04/amazon.png)
 
-### Artwork showcase: How We Act Together by Lauren McCarthy and Kyle McDonald 
-
-- ![img](http://payload496.cargocollective.com/1/19/625408/12229985/scream-comp.gif)
-
-How We Act Together focuses a lens on the small gestures of social interaction, asking participants to repeat them until exhausted, to a point where the gesture no longer feels natural and its meaning begins to shift. Interrogating a gesture through repetition evokes the discomfort we sometimes encounter in social interactions in the wild. We are becoming increasingly familiar with conversations characterized by divided attention and a loss of connection.
-
-But the gesture is not completely empty, as the participant’s performance triggers a response. For as long as the participant acts, they are able to view a stream of all the previous participants performing the same action back at them. Distributed across a crowd, spread over space and time, an asynchronous interaction takes place that is both awkward and intimate.
-
-The entire interaction is choreographed by the software. Participants act on command from the screen, and their performance does not begin until they conform to the metrics of computer vision algorithms that recognize their gesture. The software validates their human expressions and movements, allowing them access to the crowd of people interacting together. - Lauren and Kyle
-
-- [RUNME](https://hwat.schirn.de/) (work in Google Chrome only)
-- source code here: https://github.com/kylemcdonald/HowWeActTogether-Tracking
-- [30 mins Video](https://www.youtube.com/watch?v=SPjtkUs1rvA)
-
 ### Sample code walkthrough
 
 ![faceTrack](https://github.com/AUAP/AP2018/blob/master/class04/faceTrack.gif)
@@ -102,6 +102,8 @@ function clearence() {
   clear();
 }
 ```
+*Pls explore other [mouseEvents](https://p5js.org/reference/) e.g mouseIsPressed, mouseMoved(), mouseDragged(), mouseReleased(), mouseClicked(). doubleClicked(), mouseWheel()*
+
 - Keyboard
 ```javascript
 function keyPressed() {
@@ -112,21 +114,31 @@ function keyPressed() {
   }
 }
 ```
+*Pls explore other [keyboardEvents](https://p5js.org/reference/] e.g keyIsPressed, key, keyCode, keyPressed(), keyReleased(), keyTyped(), keyIsDown()*
+
 - Audio (need the p5.sound library)
 ```javascript
 var mic;
+
+function setup() {
 // Audio capture
 mic = new p5.AudioIn();
 mic.start();
+}
+
+function draw() {
 //sound capture
 let vol = mic.getLevel(); // Get the overall volume (between 0 and 1.0)
 button.size(floor(map(vol, 0, 1, 40, 500)));  //map the mic vol to the size of button: check map function: https://p5js.org/reference/#/p5/map
+}
 ```
 - Web Camera (need the clmtrackr.js and model lib)
     - see [clmtrackr](https://github.com/auduno/clmtrackr)
+    
 ```javascript
 var ctracker;
 
+function setup() {
 //web cam capture
 var capture = createCapture();
 capture.size(640,480);
@@ -134,18 +146,21 @@ capture.position(0,0);
 
 //setup tracker
 ctracker = new clm.tracker();
-ctracker.init(pModel);
+ctracker.init(pModel); 
 ctracker.start(capture.elt);
+}
 
+function draw() {
 var positions = ctracker.getCurrentPosition();
 if (positions.length) { //check the availability of web cam tracking
-    button.position(positions[60][0]-20, positions[60][1]);  //as the button is too long, i wanna put it in the middle of my mouth, and -> 60 is the mouth area
+    button.position(positions[60][0]-20, positions[60][1]);  //as the button is too long, i wanna put it in the middle of my mouth, and 60 is the mouth area (check lib spec)
     for (let i=0; i<positions.length; i++) {  //loop through all major face track points
        noStroke();
        fill(map(positions[i][0], 0, width, 100, 255), 10);  //color with alpha value
        //draw ellipse at each position point
        ellipse(positions[i][0], positions[i][1], 8, 8);
     }
+}
 }
 ```
 
