@@ -12,32 +12,44 @@ Agenda:
 
 ### The theme about Data Capture
 
+"In a society ruled by algorithms, data is always at play. When quantification becomes part of our daily routines, we more or less consciously contribute to a permanent capture of life into data. Value can now potentially be extracted from everything, and productivity can be measured in all fields of life. This particularly redefines the relation between work and play as ludic and participatory structures are purposefully used to render personal information traceable, social relationships and behavioural patterns recognisable. Life is increasingly governed by a logic of CAPTURE ALL as a never-ending enterprise of predictive control."  - [Transmediale, 2015](https://transmediale.de/content/capture-all)
+
+"We produce, share, collect, archive, use and misuse, knowingly or not, massive amounts of data, but what does its “capture” do to us? What are the inter-subjective relations between data-commodity and human subjects?"  - [Andersen & Cox, 2015](http://www.aprja.net/datafied-research-introduction/)
+
+#### heat map
 ![facebook1](https://c.slashgear.com/wp-content/uploads/2013/10/facebook_heat_map.jpg)
 
-See [here](https://www.slashgear.com/facebook-investigates-tracking-users-cursors-and-screen-behavior-30303663/)
+- [Facebook investigates tracking users’ cursors and screen behavior](https://www.slashgear.com/facebook-investigates-tracking-users-cursors-and-screen-behavior-30303663/)
+- [heat map](https://heatmap.me/)
 
+#### typing
 Facebook has the ability to track unposted status updates (what you are typing as you're typing, regardless it is a published/public post or not)
 >> more: https://www.aaai.org/ocs/index.php/ICWSM/ICWSM13/paper/viewFile/6093/6350
 
-Facebook buttons 
+#### buttons
+Facebook buttons:
+
 ![facebook2](http://cdn1.sbnation.com/assets/3523775/facebook_like_designs.png)
 
+#### analytics
 Google analytics: https://www.youtube.com/watch?v=mPgAug15bcQ 
 
+#### Voice
 ![google](http://i.dailymail.co.uk/i/pix/2017/11/14/12/4655673600000578-5080971-image-a-7_1510661012565.jpg) 
 
-Google voices
+#### tracker
+![sleep tracker](https://github.com/AUAP/AP2018/blob/master/class04/sleepTracker.png)
 
 Fitness and health tracker, sleep tracker,etc
 
+#### Facial/object recognition 
+Tagging Photos
 [Next-level Surveillance: China Embraces Facial Recognition](https://www.youtube.com/watch?v=Fq1SEqNT-7c)
 
 Company: Spyhuman: https://spyhuman.com/pages/wechat-tracker.html
 
-Recommendation engines: 
+#### Recommendation engines: 
 ![Amazon](https://github.com/AUAP/AP2018/blob/master/class04/amazon.png)
-
-Datafication: http://www.aprja.net/datafied-research/
 
 ### Artwork showcase: How We Act Together by Lauren McCarthy and Kyle McDonald 
 
