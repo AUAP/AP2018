@@ -103,6 +103,7 @@ button.style("filter","progid:DXImageTransform.Microsoft.gradient( startColorstr
 - Mouse 
 ```javascript
 button.mousePressed(clearence);
+
 function clearence() {
   clear();
 }
@@ -156,6 +157,7 @@ ctracker.start(capture.elt);
 }
 
 function draw() {
+
 var positions = ctracker.getCurrentPosition();
 if (positions.length) { //check the availability of web cam tracking
     button.position(positions[60][0]-20, positions[60][1]);  //as the button is too long, i wanna put it in the middle of my mouth, and 60 is the mouth area (check lib spec)
