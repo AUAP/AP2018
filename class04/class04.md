@@ -7,6 +7,8 @@ Agenda:
 - Peer-Tutoring: p5.dom libary
 - The theme about Data Capture
 - Sample code walkthrough
+- In-class experiments
+- Tasks for next week
 
 [background video](https://loopvideos.com/SPjtkUs1rvA?from=326&to=454)
 
@@ -95,6 +97,9 @@ button.style("background","-ms-linear-gradient(top, #4c69ba 0%, #3b55a0 100%)");
 button.style("background","linear-gradient(to bottom, #4c69ba 0%, #3b55a0 100%)");
 button.style("filter","progid:DXImageTransform.Microsoft.gradient( startColorstr='#4c69ba', endColorstr='#3b55a0', GradientType=0 )");
 ```
+  - how to check dom objects on a webpage? 
+    - browser > Tools > Web developer > Inspector 
+    
 - Mouse 
 ```javascript
 button.mousePressed(clearence);
@@ -163,6 +168,19 @@ if (positions.length) { //check the availability of web cam tracking
 }
 }
 ```
+
+### In-class experiments:
+1. Explore the sample code and to understand what it does
+2. Try to understand one form of capture at a time
+  - mouse
+  - keyboard
+  - audio
+  - web camera
+3. Try to incoporate some p5.dom features/syntax into this sample code (e.g create other form objects) that interact with different capturing devices.
+
+### Task for next week
+- miniEx4 - CAPTURE ALL
+- Peer-Tutoring (Group 3)/Respondents (Group 4): p5.play library
 
 ### The concept of Data Capture (my own notes)
 Pold - Button in Software Studies
