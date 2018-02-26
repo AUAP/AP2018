@@ -24,7 +24,9 @@ Agenda:
 
 #### typing
 Facebook has the ability to track unposted status updates (what you are typing as you're typing, regardless it is a published/public post or not)
->> more: https://www.aaai.org/ocs/index.php/ICWSM/ICWSM13/paper/viewFile/6093/6350
+- more: [Self censorship on Facebook by Sauvik Das and Adam Kramer](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM13/paper/viewFile/6093/6350). See methodology: "We collected self-
+censorship data from a random sample  of  approximately  5  million  English-speaking  Face- book users who lived in the U.S. 
+or U.K. over the course of 17 days (July 6-22, 2012)."
 
 #### buttons
 Facebook buttons:
