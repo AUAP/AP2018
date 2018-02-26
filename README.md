@@ -255,8 +255,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 #### Week 18 | NO CLASS, FINAL PROJECT PREPARATION
 ##### Wed tutorial session and NO Fri shutup and code session.
 ---
-#### Class 14 | Week 19 | 11 May 2018 @ 5361-144: FINAL PROJECT PRESENTATION + ORAL EXAM + EVALUATION
-**NO CLASS ON TUE. The class is changed from 8 May to 11 May 2018!!!** 
+#### Class 14 | Week 19 | 8 May 2018 @ 5361-144: FINAL PROJECT PRESENTATION + ORAL EXAM + EVALUATION
 **NO Wed tutorial session**
 - Details will follow soon, and it would be a rather long day.
 ---
