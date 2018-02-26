@@ -12,7 +12,7 @@
  *The focus on a botton is just an example, you can apply the similar thinking to other kinds of tracking objects, such as face, mouse, audio, etc.*
  
 2. Experiment various data capturing input and interactive devices, such as audio, mouse, keyboard, web camera, etc.
-3. Develop a sketch that response loosely to the open call "[CAPTURE ALL](https://transmediale.de/content/call-for-works-2015)' from Transmediale 2015 that acts as the guideline for this mini exercise. (It can be very simple)
+3. Develop a sketch that response loosely to the open call "[CAPTURE ALL](https://transmediale.de/content/call-for-works-2015)' from Transmediale 2015 that acts as the guideline for this mini exercise. (Imagine you are submitting a sketch/an artwork/a critical or speculative design work to Transmediale, hoping your sketch will be selected as the forthcoming exhibition. It is not a usual 'design brief' as you normally see with clear 'instructions' but it requires more conceptual thinking.)
 4. Upload your program/result to your own Github account under a folder called mini_ex4. (Make sure your program can be run on a web browser, and if it requires downloading other library or other devices, please specify in your readme file)
 5. Create a readme file (README.md) and upload to the same mini_ex3 directory (see [this](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for editing the README). The readme file should contain the followings:
 - A screenshot of your program
