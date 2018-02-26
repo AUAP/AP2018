@@ -181,7 +181,7 @@ if (positions.length) { //check the availability of web cam tracking
   - web camera
 3. Try to incoporate some p5.dom features/syntax into this sample code (e.g create other form objects) that interact with different capturing devices.
 
-### Task for next week
+### Tasks for next week
 - miniEx4 - [CAPTURE ALL](https://github.com/AUAP/AP2018/blob/master/all_miniex/mini_ex4.md)
 - Peer-Tutoring (Group 3)/Respondents (Group 4): p5.play library
 
