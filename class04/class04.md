@@ -182,9 +182,8 @@ if (positions.length) { //check the availability of web cam tracking
 - miniEx4 - [CAPTURE ALL](https://github.com/AUAP/AP2018/blob/master/all_miniex/mini_ex4.md)
 - Peer-Tutoring (Group 3)/Respondents (Group 4): p5.play library
 
-.
-.
-.
+
+---
 ### The concept of Data Capture (my own notes)
 Pold - Button in Software Studies
 - buttons as interfaces (as part of GUI and mechanical electronic interface)
