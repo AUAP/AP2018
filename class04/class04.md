@@ -119,7 +119,7 @@ function keyPressed() {
   }
 }
 ```
-*Pls explore other [keyboardEvents](https://p5js.org/reference/] e.g keyIsPressed, key, keyCode, keyPressed(), keyReleased(), keyTyped(), keyIsDown()*
+*Pls explore other [keyboardEvents](https://p5js.org/reference/) e.g keyIsPressed, key, keyCode, keyPressed(), keyReleased(), keyTyped(), keyIsDown()*
 
 - Audio (need the p5.sound library)
 ```javascript
