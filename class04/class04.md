@@ -40,15 +40,14 @@ Google analytics: https://www.youtube.com/watch?v=mPgAug15bcQ
 ![google](http://i.dailymail.co.uk/i/pix/2017/11/14/12/4655673600000578-5080971-image-a-7_1510661012565.jpg) 
 
 #### tracker
-![sleep tracker](https://github.com/AUAP/AP2018/blob/master/class04/sleepTracker.png)
+<img src="https://github.com/AUAP/AP2018/blob/master/class04/sleepTracker.png" width="300">
 
 Fitness and health tracker, sleep tracker,etc
 
 #### Facial/object recognition 
-Tagging Photos
-[Next-level Surveillance: China Embraces Facial Recognition](https://www.youtube.com/watch?v=Fq1SEqNT-7c)
-
-Company: Spyhuman: https://spyhuman.com/pages/wechat-tracker.html
+- Tagging Photos
+- [Next-level Surveillance: China Embraces Facial Recognition](https://www.youtube.com/watch?v=Fq1SEqNT-7c)
+- Company: Spyhuman: https://spyhuman.com/pages/wechat-tracker.html
 
 #### Recommendation engines: 
 ![Amazon](https://github.com/AUAP/AP2018/blob/master/class04/amazon.png)
