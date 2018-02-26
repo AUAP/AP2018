@@ -99,6 +99,7 @@ button.style("filter","progid:DXImageTransform.Microsoft.gradient( startColorstr
 ```
   - how to check dom objects on a webpage? 
     - browser > Tools > Web developer > Inspector 
+    ![inspector](https://github.com/AUAP/AP2018/blob/master/class04/inspector.png)
     
 - Mouse 
 ```javascript
