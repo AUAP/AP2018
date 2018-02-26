@@ -1,4 +1,4 @@
-Announcement: swap topic: language+ code and generativity. So the groups' topic will change as well.
+Announcement: swap topic: language+ code and generativity. So the groups' topic will change as well + change of teaching day on week 19
 
 Messy Notes:
 
