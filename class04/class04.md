@@ -230,3 +230,5 @@ Pold - Button in Software Studies
 - Good to have two browsers in your computer e.g chrome and firefox, Safari is not working for web cam checking. 
 
 - Student talks also about the social credit system in China but surprisingly not many of them have heard of great firewall in China. 
+
+- should add one more about tracking emotions..emotion becomes quantified. (example would be the demo in the trackr lib)
