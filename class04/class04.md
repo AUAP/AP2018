@@ -140,6 +140,7 @@ button.size(floor(map(vol, 0, 1, 40, 500)));  //map the mic vol to the size of b
 ```
 - Web Camera (need the clmtrackr.js and model lib)
     - see [clmtrackr](https://github.com/auduno/clmtrackr)
+    ![positions](https://www.auduno.com/clmtrackr/examples/media/facemodel_numbering_new.png)
     
 ```javascript
 var ctracker;
