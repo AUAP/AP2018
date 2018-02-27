@@ -221,7 +221,7 @@ Pold - Button in Software Studies
  - Within the like economy, data and numbers have performative and productive capacities, they can generate user affects, enact more activities and thus multiply themselves (p. 13) 
 
 ---
-#### Afterclass thoughts
+#### Afterclass thoughts (my own notes)
 - Good question in asking the difference between == and ===, as it relates to type checking and stricter checking. See: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Comparison_Operators and http://longgoldenears.blogspot.dk/2007/09/triple-equals-in-javascript.html 
 
 - Students are interested in both of the text, perhaps they find it is something very related to their daily life? 
