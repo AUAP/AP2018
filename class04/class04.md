@@ -22,7 +22,7 @@ But the gesture is not completely empty, as the participant’s performance trig
 
 The entire interaction is choreographed by the software. Participants act on command from the screen, and their performance does not begin until they conform to the metrics of computer vision algorithms that recognize their gesture. The software validates their human expressions and movements, allowing them access to the crowd of people interacting together. - Lauren and Kyle
 
-- [RUNME](https://hwat.schirn.de/) (work in Google Chrome only)
+- [RUNME](https://hwat.schirn.de/) (work on Google Chrome only)
 - source code here: https://github.com/kylemcdonald/HowWeActTogether-Tracking
 - [30 mins Video](https://www.youtube.com/watch?v=SPjtkUs1rvA)
 
@@ -40,8 +40,7 @@ The entire interaction is choreographed by the software. Participants act on com
 
 #### typing
 Facebook has the ability to track unposted status updates (what you are typing as you're typing, regardless it is a published/public post or not)
-- more: [Self censorship on Facebook by Sauvik Das and Adam Kramer](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM13/paper/viewFile/6093/6350). See methodology: "We collected self-
-censorship data from a random sample  of  approximately  5  million  English-speaking  Face- book users who lived in the U.S. 
+- more: [Self censorship on Facebook by Sauvik Das and Adam Kramer](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM13/paper/viewFile/6093/6350). See methodology: "We collected self-censorship data from a random sample  of  approximately  5  million  English-speaking  Face- book users who lived in the U.S. 
 or U.K. over the course of 17 days (July 6-22, 2012)."
 
 #### buttons
@@ -221,3 +220,12 @@ Pold - Button in Software Studies
  - "rendering cross-syndication more scalable" (p. 12)
  - Within the like economy, data and numbers have performative and productive capacities, they can generate user affects, enact more activities and thus multiply themselves (p. 13) 
 
+---
+#### Afterclass thoughts
+- Good question in asking the difference between == and ===, as it relates to type checking and stricter checking. See: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Comparison_Operators and http://longgoldenears.blogspot.dk/2007/09/triple-equals-in-javascript.html 
+
+- Students are interested in both of the text, perhaps they find it is something very related to their daily life? 
+
+- Good to have two browsers in your computer e.g chrome and firefox, Safari is not working for web cam checking. 
+
+- Student talks also about the social credit system in China but surprisingly not many of them have heard of great firewall in China. 
