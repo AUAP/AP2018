@@ -139,7 +139,7 @@ function draw() {
 - Coding Step by Step (5): 
   - Think about if you want to create a new object when here is a trigger point e.g click on a button to create a new page, or create a new car. 
   - Think about if objects will be forever stayed on the screen, will they disappear on a screen?
-  - Some other syntax will be useful in relation to objects orientation in p5js, they are append() and splice() for creating and deleting objects. 
+  - Some other syntax would be useful in relation to objects orientation in p5js, they are append() and splice() for creating and deleting objects. 
 
 #### Tasks for next week
 - miniEx5 - [Games with Objects](https://github.com/AUAP/AP2018/blob/master/all_miniex/mini_ex5.md)
