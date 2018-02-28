@@ -115,7 +115,7 @@ function setup() {
  createCanvas(windowWidth, windowHeight);
 
  car[0] = new Car(color(255,0,0), 10, 10, 100, 20); //create/construct a new object instance
- car[1] = new Car(color(0,0,255), 15, 20, 300, 10);
+ car[1] = new Car(color(0,0,255), 15, 20, 300, 10); //if you want to create one more
 }
 ```
 - Coding Step by Step (4.2): The car object has been created but you need to specify what you want the car to perform and to show the changes over time and to display it on a screen. 
@@ -126,7 +126,7 @@ function setup() {
  createCanvas(windowWidth, windowHeight);
 
  car[0] = new Car(color(255,0,0), 10, 10, 100, 20); //create/construct a new object instance
- car[1] = new Car(color(0,0,255), 15, 20, 300, 10);
+ car[1] = new Car(color(0,0,255), 15, 20, 300, 10); //if you want to create one more
 }
 
 function draw() {
@@ -136,6 +136,10 @@ function draw() {
  }
 }
 ```
+- Coding Step by Step (5): 
+  - Think about if you want to create a new object while there is some interaction e.g click on a button to create a new page, or create a new car. 
+  - Think about if objects will be forever stayed on the screen, will they disappear on a screen?
+  - Some other syntax will be useful in relation to objects orientation in p5js, they are append() and splice() for creating and deleting objects. 
 
 #### Tasks for next week
 - miniEx5 - [Games with Objects](https://github.com/AUAP/AP2018/blob/master/all_miniex/mini_ex5.md)
