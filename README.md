@@ -135,7 +135,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - [Short p5.js video by Daniel Shiffman](https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) (watch 2.3, 6.1, 6.2, 6.3, 7.1, 7.2, 7.3)
   - [p5.js examples - Objects](https://p5js.org/examples/objects-objects.html)
   - [p5.js examples - Array of Objects](https://p5js.org/examples/objects-array-of-objects.html)
-  - Lee, Roger Y. *Software Engineering: A Hands-On Approach*. Springer, 2013. 17-24, 32-37 (Check Blackboard - ch. 2 Object-Oriented concepts)
+  - Lee, Roger Y. *Software Engineering: A Hands-On Approach*. Springer, 2013. 17-24, 34-37 (Check Blackboard - ch. 2 Object-Oriented concepts)
 - **Suggested reading/video**
   - [p5.js coding challenge #31: Flappy Bird by Daniel Shiffman](https://www.youtube.com/watch?v=cXgA1d_E-jY)
   - Crutzen, Cecile and Kotkamp Erna. Object Orientation. Software Studies\a lexicon. Eds Matthew F. MIT Press, 2008. 200-207
