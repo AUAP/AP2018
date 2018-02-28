@@ -45,6 +45,97 @@ Agenda:
 ![object1](https://github.com/AUAP/AP2018/blob/master/class05/car1.jpg)
   - what might be the attributes of a car? 
   - what might be the behaviors of a car? 
+  
+- Coding Step by Step (1): what would be your class name? 
+```javascript
+//create a class: template/blueprint of objects
+class Car {
+
+}
+
+```
+- Coding Step by Step (2): what are the attributes of a car? 
+```javascript
+//create a class: template/blueprint of objects
+class Car {
+  constructor(getcolor, speed, xpos, ypos, size) { //initalize the objects
+    this.getcolor = getcolor;
+    this.speed = speed;
+    this.pos = new createVector(xpos, ypos);  //check this feature: https://p5js.org/reference/#/p5/createVector
+    this.size = size;
+  }
+}
+```
+- Coding Step by Step (3.1): what are the behaviors of a car? (for example, assume the car can move from one location to another horizontally on a screen) 
+```javascript
+//create a class: template/blueprint of objects
+class Car {
+  constructor(getcolor, speed, xpos, ypos, size) { //initalize the objects
+    this.getcolor = getcolor;
+    this.speed = speed;
+    this.pos = new createVector(xpos, ypos);  //check this feature: https://p5js.org/reference/#/p5/createVector
+    this.size = size;
+  }
+  drive() {
+    this.pos.x+=this.speed;  //this.pos.x = this.pos.x + this.speed;
+    if (this.pos.x > width) {
+       this.pos.x = 0;
+    }
+  }
+}
+```
+- Coding Step by Step (3.2): what are the behaviors of a car? (you need to display it on a screen) 
+```javascript
+//create a class: template/blueprint of objects
+class Car {
+  constructor(getcolor, speed, xpos, ypos, size) { //initalize the objects
+    this.getcolor = getcolor;
+    this.speed = speed;
+    this.pos = new createVector(xpos, ypos);  //check this feature: https://p5js.org/reference/#/p5/createVector
+    this.size = size;
+  }
+  drive() {
+    this.pos.x+=this.speed;  //this.pos.x = this.pos.x + this.speed;
+    if (this.pos.x > width) {
+       this.pos.x = 0;
+    }
+  }
+ display() {
+   noStroke();
+   fill(this.getcolor);
+   rect(this.pos.x,this.pos.y,this.size,this.size);
+ }
+}
+```
+- Coding Step by Step (4.1): The basic structure has been setup, next is to try to create a car object that can display on the screen
+```javascript
+let car = [];
+
+function setup() {
+ createCanvas(windowWidth, windowHeight);
+
+ car[0] = new Car(color(255,0,0), 10, 10, 100, 20); //create/construct a new object instance
+ car[1] = new Car(color(0,0,255), 15, 20, 300, 10);
+}
+```
+- Coding Step by Step (4.2): The car object has been created but you need to specify what you want the car to perform and to show the changes over time and to display it on a screen. 
+```javascript
+let car = [];
+
+function setup() {
+ createCanvas(windowWidth, windowHeight);
+
+ car[0] = new Car(color(255,0,0), 10, 10, 100, 20); //create/construct a new object instance
+ car[1] = new Car(color(0,0,255), 15, 20, 300, 10);
+}
+
+function draw() {
+ for (let i = 0; i <car.length; i++) {
+  car[i].drive();
+  car[i].display();
+ }
+}
+```
 
 #### Tasks for next week
 - miniEx5 - [Games with Objects](https://github.com/AUAP/AP2018/blob/master/all_miniex/mini_ex5.md)
