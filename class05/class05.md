@@ -23,13 +23,15 @@ Agenda:
   - A program execution is regarded as a physical model, simulating the behavior of either a real or imaginary part of the world (Madsen et al, 1993, p.16)
   - Objects are used for representing (or modeling) physical phenomena (Madsen et al, 1993, p.18)
   - Objects are computerized material (Madsen et al, 1993, p.18)
+  - Objects are designed both to manage data and to carry out operations (Lee, 2013, 17)
 <p><p><p>
 
-  - A class specifies the structure of its objects' attributes and the possible behaviors of its objects.
+  - A class specifies the structure of its objects' attributes and the possible behaviors/actions of its objects.
     - like a template and blueprint of things
-  - Think of an object as a specific instance
+  - Think of an object as a specific instance (objects are instances of classes - Lee, 2013, p. 20)
     - An object holds specific values of attributes (but these values can change over time)
-    - An object has behaviors, which can perform in different ways
+    - An object has behaviors, which can perform action(s) in different ways
+    - In other words, "attributes and actions are combined to make up a single unified object" (Lee, 2013, 17)
   - e.g1 A person with **properties** like name=winnie, haircolor=brown, wear glasses, height=165cm, favoriteColor=blue ...
   - e.g2 A person **runs** from Aarhus C to Aarhus N (run is the method- which will be defined via functions)
   - Translate into programming concepts where a program may have more than one person with the same properties but different values: 
@@ -144,5 +146,58 @@ function draw() {
 #### Tasks for next week
 - miniEx5 - [Games with Objects](https://github.com/AUAP/AP2018/blob/master/all_miniex/mini_ex5.md)
 - Peer-tutoring: Group 4 / Respondents: Group 5, Topic: Conditions with sound and video files
+
+---
+#### The concept of Object Orientation (my own notes)
+-p. 17: In OOP, "software is not broken down into either operations or data, but rather into abstract software artifacts, called objects"
+
+"These objects are designed both to manage data and to carry out operations"
+
+-p. 18: abstraction: "capturing and focusing on the important details, while leaving out those that are less important"
+
+-> oop allows creation of objects that represent only a portion of the real world objects. It describes the "outside view" of an object, and not the objects inner workings, or encapsulated information. "
+
+-> p. 32: "an abstraction is a generalization of an object which includes only those details necessary to define it and to differentiate it from other objects"
+
+-> "it retains only those details required for accurate description and identification of the object, but excludes all other nonessential information (Jia 2003)"
+
+-p. 18: "an object in the world of computer programming is an entity with attributes that belong to and describe it"
+
+"These attributes can be actions the object is capable of performing, an interface to access those attributes and actions, and most importantly, a unique identity"
+
+"An object is a specific instance of a class, which can be thought of as a blueprint for that object"
+
+-each object has an unique identity.
+
+-"An object inherits most of its attributes from its class, but these attributes may differ amongst the object instances of that class"
+
+-the concept of state of an object..
+
+-p. 19: "objects are able to both change states and react to state changes" through methods
+
+-"AN object's constructor is the actual method that handles the creation and initialization of the object" -> physically places that object into the computer's memory
+
+-Similarly, "erasing an object, and thus freeing up the memory in which it resided"
+
+-why delete object? free up memory and provide room in the system memory, potentially for the creation of other objects. "It also prevents faulty code from creating memory leaks"
+
+-p. 20: "objects are instances of classes"
+
+-metaphor: class as DNA -> description of attributes
+
+-p. 20: "a class is the concept behind an object, or the 'essence' of an object, while an object itself is a tangible entity with a place in space and time (or system memory) (Booch 1994)"
+
+object depends on class as "the object could not exist without the class that it is derived from"
+
+->"a class must be defined before the object can even be conceived"
+
+-adv of oo:
+
+1/ modularity -> break into smaller modules -> reduce overall complexity -> efficiency and workability -> reusability (creation of independent components, each with a distinct function) -> a/ opportunistic and accidental reuse -> for new project b/ deliberate reuse  -> with reusability in mind
+
+-p. 24: information hiding -> encapsulation
+
+
+
 
 
