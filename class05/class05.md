@@ -30,10 +30,6 @@ Agenda:
   - A class defines a group of methods (functions) and fields (variables)
   - e.g1 A person with **properties** like brown hair, wear glasses, 165cm tall, female ...
   - e.g2 A person **runs** from Aarhus C to Aarhus N (run is the method- which will be defined via functions)
-  First Header | Second Header
------------- | -------------
-Content cell 1 | Content cell 2
-Content column 1 | Content column 2
 
    Person        |
   -------------  |
