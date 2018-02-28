@@ -27,13 +27,14 @@ Agenda:
 - Objects
   - Objects with properties, state and behaviors
   - Objects can do stuff -> having various functions
-  - A class defines a group of methods (functions) and fields (variables)
-  - e.g1 A person with **properties** like brown hair, wear glasses, 165cm tall, female ...
+  - A class defines a group of methods (functions) and fields (variables) like a template and blueprint of things
+  - e.g1 A person with **properties** like haircolor=brown, wear glasses, height=165cm, favoriteColor=blue ...
   - e.g2 A person **runs** from Aarhus C to Aarhus N (run is the method- which will be defined via functions)
+  - Translate into programming concepts where a program may have more than one person with the same properties but differnet values: 
 
    Person        |
   -------------  |
-  Hair_color, with_glasses, Height, Gender, FromLocation, ToLocation|
+  HairColor, withGlasses, Height, FavoriteColor, FromLocation, ToLocation|
   run()     
 
 
