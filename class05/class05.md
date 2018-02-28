@@ -118,7 +118,7 @@ function setup() {
  car[1] = new Car(color(0,0,255), 15, 20, 300, 10); //if you want to create one more
 }
 ```
-- Coding Step by Step (4.2): The car object has been created but you need to specify what you want the car to perform and to show the changes over time and to display it on a screen. 
+- Coding Step by Step (4.2): The car object has been created but you need to specify how you want the car to perform and to show the changes over time => remember to display them on a screen. 
 ```javascript
 let car = [];
 
