@@ -37,7 +37,7 @@ Agenda:
   Name, HairColor, withGlasses, Height, FavoriteColor, FromLocation, ToLocation|
   run()     
 
-
+  ![object1](https://github.com/AUAP/AP2018/blob/master/class05/object1.png)
 
 
 #### Tasks for next week
