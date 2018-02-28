@@ -1,18 +1,14 @@
-Announcement: 
-
-Messy Notes:
+Messy notes of class05 - Object Orientation
 
 Agenda:
-
-    Design work showcase: [ToFu Go](http://tofu-go.com/) by Francis Lam
-    Peer-Tutoring: p5.play libary
-    The theme about Object Orientation
-    Sample code: start from scratch 
-    Tasks for next week
-
+- Design work showcase: [ToFu Go](http://tofu-go.com/) by Francis Lam
+- Peer-Tutoring: p5.play libary
+- The theme about Object Orientation
+- Sample code: start from scratch 
+- Tasks for next week
 
 #### Tasks for next week
-- miniEx5 - Games with Objects
+- miniEx5 - [Games with Objects](https://github.com/AUAP/AP2018/blob/master/all_miniex/mini_ex5.md)
 - Peer-tutoring: Group 4 / Respondents: Group 5, Topic: Conditions with sound and video files
 
 
