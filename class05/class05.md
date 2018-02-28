@@ -17,6 +17,24 @@ Agenda:
 
 - Interview:[Francis Lam](http://www.design-china.org/post/35833433475/francis-lam)
 
+#### The theme about Object Orientation
+
+- Object Oriented Programming
+  - A program execution is regarded as a physical model, simulating the behavior of either a real or imaginary part of the world (Madsen et al, 1993, p.16)
+  - Objects are used for representing (or modeling) physical phenomena (Madsen et al, 1993, p.18)
+  - Objects are computerized material (Madsen et al, 1993, p.18)
+
+- Objects
+  - Objects with properties, state and behaviors
+  - Objects can do stuff -> having various functions
+  - A class defines a group of methods (functions) and fields (variables)
+  - e.g1 A person with **properties** like brown hair, wear glasses, 165cm tall, female ...
+  - e.g2 A person **runs** from Aarhus C to Aarhus N (run is the method- which will be defined via functions)
+  | Person        |
+  | -------------:|
+  | Hair_color, with_glasses, Height, Gender, FromLocation, ToLocation|
+  | run()     |
+
 
 
 
