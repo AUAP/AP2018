@@ -44,6 +44,7 @@ Agenda:
 ![object](https://github.com/AUAP/AP2018/blob/master/class05/object0.png)
 
 - In-class activity: Creating and Defining Car objects
+![object1](https://github.com/AUAP/AP2018/blob/master/class05/car1.jpg)
   - what might be the attributes of a car? 
   - what might be the behaviors of a car? 
 
