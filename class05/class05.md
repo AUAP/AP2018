@@ -43,6 +43,9 @@ Agenda:
 
 ![object](https://github.com/AUAP/AP2018/blob/master/class05/object0.png)
 
+- In-class activity: Creating and Defining Car objects
+  - what might be the attributes of a car? 
+  - what might be the behaviors of a car? 
 
 #### Tasks for next week
 - miniEx5 - [Games with Objects](https://github.com/AUAP/AP2018/blob/master/all_miniex/mini_ex5.md)
