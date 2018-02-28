@@ -128,7 +128,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 ##### Wed tutorial session and Fri shutup and code session.
 - **Class structure:**
   - Objects, Behaviors and Arguments
-  - Design/Artwork example: [ToFu Go](http://tofu-go.com/) by Francis Lam | See more [here]()
+  - Design/Artwork example: [ToFu Go](http://tofu-go.com/) by Francis Lam 
 - **Peer-tutoring: Group 3 / Respondents: Group 4, Topic: p5.play library**
   - How to import and use p5.play library in your sketch?
 - **Read/Watch before class:** 
