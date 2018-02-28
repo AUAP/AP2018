@@ -232,3 +232,5 @@ Pold - Button in Software Studies
 - Student talks also about the social credit system in China but surprisingly not many of them have heard of great firewall in China. 
 
 - should add one more about tracking emotions..emotion becomes quantified. (example would be the demo in the trackr lib)
+
+- feedback from tutorial session: understand the sample code but confuse with the concept of libraries. This needs to address for introducing any new library lke the clmtrackr one. Simply walkthrough again how to import library and how to modify the html file.  
