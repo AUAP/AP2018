@@ -10,7 +10,7 @@ Agenda:
 [background video](https://loopvideos.com/V9NirY55HfU)
 
 #### [ToFu Go](http://tofu-go.com/) by Francis Lam
-- ToFu Go
+
 ![tofu go](http://tofu-go.com/iphone0.png)
 
 - About Francis:
