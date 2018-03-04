@@ -234,3 +234,5 @@ Pold - Button in Software Studies
 - should add one more about tracking emotions..emotion becomes quantified. (example would be the demo in the trackr lib)
 
 - feedback from tutorial session: understand the sample code but confuse with the concept of libraries. This needs to address for introducing any new library lke the clmtrackr one. Simply walkthrough again how to import library and how to modify the html file.  
+
+- more heatmap ref: (Hastie, Tibshirani, and Friedman 2009, 7 - The elements of statistical learning: Data mining, inference, and prediction) + Mackenzie 2013 - from validating to verifying: Public appeals in synthetic biology( 
