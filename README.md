@@ -189,7 +189,8 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - check mini_ex folder > mini_ex7.md
 ---
  #### Class 08 | Week 12 | 22 Mar 2018 (Thur): Guest Lecture by Nick Montfort (Mandatory)
-  - 15.00-17.00 @ 5008-138. Details will follow soon 
+  - 15.00-17.00 @ 5008-138
+  - [Details](http://darc.au.dk/blog/nyhed/artikel/lecture-by-professor-nick-montfort-from-mit/)
 ---
  #### Week 13, no class due to Easter Holiday
  ##### No Wed tutorial session and NO Fri shutup and code session.
