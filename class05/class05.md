@@ -45,6 +45,11 @@ Agenda:
 
 ![object](https://github.com/AUAP/AP2018/blob/master/class05/object0.png)
 
+- Discussion in Groups:
+```javascript
+Try to discuss a game that you are familiar with and describe the characters/objects by using the concept of class and object. 
+```
+
 - In-class activity: Creating and Defining Car objects
 ![object1](https://github.com/AUAP/AP2018/blob/master/class05/car1.jpg)
   - what might be the attributes of a car? 
