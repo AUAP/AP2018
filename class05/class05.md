@@ -151,6 +151,8 @@ function draw() {
   - Think about if objects will be forever stayed on the screen, will they disappear on a screen?
   - Some other syntax would be useful in relation to objects orientation in p5js, they are append() and splice() for creating and deleting objects. 
 
+- [RunMe](https://rawgit.com/AUAP/AP2018/master/class05/sketch05/index.html) and [source code](https://github.com/AUAP/AP2018/blob/master/class05/sketch05/sketch.js)
+
 #### Tasks for next week
 - miniEx5 - [Games with Objects](https://github.com/AUAP/AP2018/blob/master/all_miniex/mini_ex5.md)
 - Peer-tutoring: Group 4 / Respondents: Group 5, Topic: Conditions with sound and video files
