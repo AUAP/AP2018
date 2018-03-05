@@ -12,9 +12,9 @@
 - [John Conway's Game of Life](http://web.stanford.edu/~cdebs/GameOfLife/)
 
 **Tasks:**
-1. Make sure you have read the text by Winnie Soon and watch the video lecture by Marius Watz: 
-- [1 hr video] Beautiful Rules: Generative models of creativity (2007) by Marius Watz
-- Soon, Winnie. Executing Liveness. PhD dissertation. Aarhus University, 2016. 82-90 (the section on Generativity)
+1. Make sure you have read the text by Winnie Soon and watched the video lecture by Marius Watz: 
+  - [1 hr video] [Beautiful Rules: Generative models of creativity](https://vimeo.com/26594644) (2007) by Marius Watz
+  - Soon, Winnie. [Executing Liveness](http://siusoon.net/home/me/doc/soon_PhD_FINAL.pdf). PhD dissertation. Aarhus University, 2016. 82-90  (the section on Generativity)
 2. Start with a blank paper. Think of at least three simple rules that you want to implement in a generative program.
 3. Design a generative program that utlize at least one for-loop/while-loop and one conditional statement. (You may also consider to use noise() and random() syntax)
 4. Upload your sketch to your own Github account under a folder called **mini_ex6**. (Make sure your program can be run on a web browser, and if it requires downloading other library, please specify in your readme file) 
