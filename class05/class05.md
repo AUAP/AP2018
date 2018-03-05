@@ -153,6 +153,10 @@ function draw() {
 
 - [RunMe](https://rawgit.com/AUAP/AP2018/master/class05/sketch05/index.html) and [source code](https://github.com/AUAP/AP2018/blob/master/class05/sketch05/sketch.js)
 
+- In-class task: 
+  - Download the code of sketch05
+  - Add one more behavior/method for the class Car.
+  
 #### Tasks for next week
 - miniEx5 - [Games with Objects](https://github.com/AUAP/AP2018/blob/master/all_miniex/mini_ex5.md)
 - Peer-tutoring: Group 4 / Respondents: Group 5, Topic: Conditions with sound and video files
