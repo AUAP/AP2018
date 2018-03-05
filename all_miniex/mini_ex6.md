@@ -3,7 +3,7 @@
 **Objectives:**
 - To implement a rule-based generative program from scratch.
 - To strengthen the computational use of loops and conditional statements in a program.
-- To reflect upon the concept of generativity theoretically and practically, including rules, temporality, authorship, emergence and processes.
+- To reflect upon the concept of generativity theoretically and practically, such as rules, temporality, authorship, emergence and processes.
 
 **Get some inspiration here**
 - [Generative Design - sketches](http://www.generative-gestaltung.de/2/), [soure code](https://github.com/generative-design/Code-Package-p5.js)
