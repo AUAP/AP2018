@@ -16,7 +16,7 @@
   - [1 hr video] [Beautiful Rules: Generative models of creativity](https://vimeo.com/26594644) (2007) by Marius Watz
   - Soon, Winnie. [Executing Liveness](http://siusoon.net/home/me/doc/soon_PhD_FINAL.pdf). PhD dissertation. Aarhus University, 2016. 82-90  (the section on Generativity)
 2. Start with a blank paper. Think of at least three simple rules that you want to implement in a generative program.
-3. Design a generative program that utlizes at least one for-loop/while-loop and one conditional statement. (You may also consider to use noise() and random() syntax)
+3. Based on the rules in step 2, then design a generative program that utlizes at least one for-loop/while-loop and one conditional statement. (You may also consider to use noise() and random() syntax)
 4. Upload your sketch to your own Github account under a folder called **mini_ex6**. (Make sure your program can be run on a web browser, and if it requires downloading other library, please specify in your readme file) 
 5. Create a readme file (README.md) and upload to the same mini_ex6 directory (see [this](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for editing the README). The readme file should contain the followings:
 - A screenshot of your program
