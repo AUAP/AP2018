@@ -18,7 +18,7 @@
 - [Characterror: 90 second time challenge demo](http://characterror.decontextualize.com/) by Allison Parrish
 4. Upload your game or game object sketch to your own Github account under a folder called **mini_ex5**. (Make sure your program can be run on a web browser, and if it requires downloading other library or other devices, please specify in your readme file) 
 5. Create a readme file (README.md) and upload to the same mini_ex5 directory (see [this](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for editing the README). The readme file should contain the followings:
-- A screenshot of your program
+- A screenshot/animated gif/video of your program
 - A URL link to your program and run on a browser, see: https://rawgit.com/.
 - Describe how does your game/game object works? 
 - Describe how you program the objects and their related attributes and methods in your game.
