@@ -21,7 +21,7 @@
 5. Create a readme file (README.md) and upload to the same mini_ex6 directory (see [this](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for editing the README). The readme file should contain the followings:
 - A screenshot of your program
 - A URL link to your program and run on a browser, see: https://rawgit.com/.
-- What are the rules in your generative program and descirbe how your program performs over time.
+- What are the rules in your generative program and describe how your program performs over time.
 - How does this mini-exericse help you to understand what might be generativity? (see the above - objective 3)
 6. Provide peer-feedback to 2 of your classmates on their works by creating "issues" on his/her github corresponding repository. Write with the issue title "Feedback on mini_ex(?) by (YOUR FULL NAME)"
 
