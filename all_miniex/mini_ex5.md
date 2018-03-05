@@ -26,7 +26,7 @@
 - Extend/connect your game project to wider digital culture context, can you think of a digital example and describe how complex details and operations are being abstracted and encapsulated?  
 6. Provide peer-feedback to 2 of your classmates on their works by creating "issues" on his/her github corresponding repository. Write with the issue title "Feedback on mini_ex(?) by (YOUR FULL NAME)"
 
-NB!: Feel Free to explore and experiment more syntax/data input devices.
+NB!: Feel Free to explore and experiment more syntax.
 
 **What is peer-feedback?**
 1. First you describe what is the work, what are the elements in the work? like what you have seen, what you have experienced and what syntax he/she has used.
