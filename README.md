@@ -163,7 +163,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - [6 mins Video] [How to Draw with Code](https://www.youtube.com/watch?v=_8DMEHxOLQE) by Casey Reas
   - [p5.js Coding Challenge #14: Fractal Trees - Recursive by Daniel Shiffman](https://www.youtube.com/watch?v=0jjeOYMjmDU)
   - [p5.js Coding Challenge #76: Recursion by Daniel Shiffman](https://www.youtube.com/watch?v=jPsZwrV9ld0)
-- **Weekly mini ex6: due week 12, Monday night | Generative Art** 
+- **Weekly mini ex6: due week 12, Monday night | A generative program** 
   - check mini_ex folder > mini_ex6.md
  ---
  #### Class 07 | Week 12 | 20 Mar 2018: Language Plus Code
