@@ -47,7 +47,8 @@ Agenda:
 
 - Discussion in Groups:
 ```javascript
-Try to discuss a game that you are familiar with and describe the characters/objects by using the concept of class and object. 
+Try to discuss a game that you are familiar with and describe the characters/objects 
+by using the concept of class and object. 
 ```
 
 - In-class activity: Creating and Defining Car objects
