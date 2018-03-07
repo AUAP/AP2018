@@ -12,14 +12,18 @@ Agenda:
 ![image](https://wordandimage.files.wordpress.com/2012/04/4194960757_de88781e77_o.jpg)
 [A House of Dust](http://www.zachwhalen.net/pg/dust/) (a simulation of a 1967 poem by Alison Knowles and James Tenney) by Zach Whalen | see more background info [here](http://www.artbytranslation.org/_pdf/HOUSE_OF_DUST_JOURNAL_25_08_2016_BDEF_PREVIEW.pdf)
 
-Structure: 
+Rules: 
 ```
-A HOUSE OF (list material) 
- (list location) 
-  USING (list light source) 
+A HOUSE OF (a material) 
+ (a site/situation) 
+  USING (a light source) 
    INHABITED BY (list inhabitants)
 ```
-*in which combinations of the variables were randomly generated.
+*in which combinations of the variables were randomly generated. (chance operations and language)
+*originally written in FORTRAN
+- interpretable score (Higgins, et al, 2012)
+- meaning of the work beyond language
+- influenced by [Fluxus movement](https://www.artsy.net/article/artsy-editorial-fluxus-movement-art-museums-galleries) and John Cage (chance operations)
  
 #### Generativity
 
