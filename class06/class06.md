@@ -37,7 +37,7 @@ Check [here](https://www.openprocessing.org/browse/?q=noise&time=anytime&type=ta
 - Perlin noise by Ken Perlin, [noise()](https://p5js.org/reference/#/p5/noise), and more [here](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-noise/a/perlin-noise)
  - good for programming life-like behaviors
  - "it produces a naturally ordered (“smooth”) sequence of pseudo-random numbers." -> good for simulating natural behaviors
- - 
+ - **more here....TBC**
 
 ### Generativity: Simple rules to a complex pattern
 
