@@ -91,6 +91,11 @@ RULES:
 - How can we better use our peers?
 
 #### Tasks for next week
+- miniEx6 - [A generative program](https://github.com/AUAP/AP2018/blob/master/all_miniex/mini_ex6.md)
+- Peer-tutoring: Group 5 / Respondents: Group 6, Topic: JSON
+    - What is JSON? How to use JSON?
+    - Why is it important to know JSON or Why JSON is so popular?
+    - How may we understand data processing through JSON?
 
 #### Notes on reading (my own notes)
 Marius Watz:
