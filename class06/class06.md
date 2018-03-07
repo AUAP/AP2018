@@ -34,7 +34,10 @@ Generative art refers to any art practice in which the **artist cedes control** 
 ### noise and random
 Check [here](https://www.openprocessing.org/browse/?q=noise&time=anytime&type=tags#)
 
-- Perlin noise, [noise()](https://p5js.org/reference/#/p5/noise)
+- Perlin noise by Ken Perlin, [noise()](https://p5js.org/reference/#/p5/noise), and more [here](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-noise/a/perlin-noise)
+ - good for programming life-like behaviors
+ - "it produces a naturally ordered (“smooth”) sequence of pseudo-random numbers." -> good for simulating natural behaviors
+ - 
 
 ### Generativity: Simple rules to a complex pattern
 
@@ -63,6 +66,9 @@ Rules:
 
 ### In-class ex: 10 print
 ![10print](https://github.com/AUAP/AP2018/blob/master/class06/10Print.png)
+
+- history: a Basic program with a single line of code in the early 1980s. (appear in the userguide of Comodore 64)
+- see the book [here](https://www.amazon.com/gp/product/0262018462/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0262018462&linkCode=as2&tag=slatmaga-20)
 
 [RUNME](https://rawgit.com/AUAP/AP2018/master/class06/sketch06a/index.html)
 
