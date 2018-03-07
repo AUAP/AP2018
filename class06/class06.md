@@ -66,7 +66,9 @@ Rules:
 
 ### In-class ex: 10 print
 ![10print](https://github.com/AUAP/AP2018/blob/master/class06/10Print.png)
-
+```
+10 PRINT CHR$(205.5+RND(1)); : GOTO 10
+```
 - history: a Basic program with a single line of code in the early 1980s. (appear in the userguide of Comodore 64)
 - see the book [here](https://www.amazon.com/gp/product/0262018462/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0262018462&linkCode=as2&tag=slatmaga-20)
 
