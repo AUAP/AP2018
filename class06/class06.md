@@ -40,7 +40,7 @@ Check [here](https://www.openprocessing.org/browse/?q=noise&time=anytime&type=ta
 
 ![circles](https://github.com/AUAP/AP2018/blob/master/class06/complex_balls.gif)
 ```
-Discuss what are the rules implement in the sketch.
+Discuss what are the rules in the sketch.
 ```
 [RUNME](https://rawgit.com/AUAP/AP2018/master/class06/sketch06c/index.html)
 
