@@ -35,10 +35,17 @@ Generative art refers to any art practice in which the **artist cedes control** 
 - Generativity: Simple rules to complex pattern
 
 - Throbber and generativity
+![throbber](https://github.com/AUAP/AP2018/blob/master/class06/throbbering.gif)
+
+[RUNME](https://rawgit.com/AUAP/AP2018/master/class06/sketch06b/index.html)
+
+[README](https://github.com/AUAP/AP2018/blob/master/class06/sketch06b/sketch.js)
 
 - In-class ex: 10 print
 ![10print](https://github.com/AUAP/AP2018/blob/master/class06/10Print.png)
+
 [RUNME](https://rawgit.com/AUAP/AP2018/master/class06/sketch06a/index.html)
+
 [README](https://github.com/AUAP/AP2018/blob/master/class06/sketch06a/sketch.js)
 
 RULES:
@@ -51,7 +58,6 @@ RULES:
 
 #### Notes on reading (my own notes)
 Marius Watz:
-
 
 - photoshop: a different tool...different way of working with images
 
