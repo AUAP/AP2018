@@ -34,6 +34,18 @@ Generative art refers to any art practice in which the **artist cedes control** 
 - Randomness, loops and rules
 - Generativity: Simple rules to complex pattern
 
+![circles](https://github.com/AUAP/AP2018/blob/master/class06/complex_balls.gif)
+```
+Rules:
+1. Pick a random throbber's slash
+2. Fill the screen with the random throbber's slash
+3. Randomly select one throbber and rotate it
+4. Select another throbber randomly and rotate itself
+```
+[RUNME](https://rawgit.com/AUAP/AP2018/master/class06/sketch06c/index.html)
+
+[README](https://github.com/AUAP/AP2018/blob/master/class06/sketch06c/sketch.js)
+
 - Throbber and generativity (can you spot the rotating throbber?)
 
 ![throbber](https://github.com/AUAP/AP2018/blob/master/class06/throbbering.gif)
