@@ -8,15 +8,17 @@ Agenda:
 - Mid way evaluation
 - Tasks for next week
 
+#### Artwork
+[A House of Dust](http://www.zachwhalen.net/pg/dust/) (a simulation of a 1967 poem by Alison Knowles and James Tenney) by Zach Whalen | see more background info [here](http://www.artbytranslation.org/_pdf/HOUSE_OF_DUST_JOURNAL_25_08_2016_BDEF_PREVIEW.pdf)
+ 
 #### Generativity
 
 Generative art refers to any art practice where artists use a system, such as a set of natural languages, rules, a computer program, a machine, or other procedural invention, which is set into motion with some degree of autonomy contributing to or resulting in a completed work of art. (Galanter, 2003)
 
-Generative art refers to any art practice in which the artist cedes control to a system with functional autonomy that contributes to, or results in, a completed work of art. Systems may include natural langauge instructions, biological or chemical processes, computer programs, machines, self-organizing materials mathematical operations, and other procedural interventions. (Galanter, 2008, p. 154)
+Generative art refers to any art practice in which the **artist cedes control** to a system with functional autonomy that contributes to, or results in, a completed work of art. Systems may include natural langauge instructions, biological or chemical processes, computer programs, machines, **self-organizing** materials mathematical operations, and other procedural interventions. (Galanter, 2008, p. 154)
 
-- self-organizing processes 
-- Authorship
-
+- Randomness, loops and rules
+- In-class ex: 10 print
 
 #### Notes on reading (my own notes)
 Marius Watz:
