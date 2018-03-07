@@ -1,7 +1,7 @@
 Messy notes of class06 - Generativity
 
 Agenda:
-- Artwork showcase: 
+- Artwork showcase: A House of Dust (a simulation of a 1967 poem by Alison Knowles and James Tenney) by Zach Whalen
 - Peer-Tutoring: conditions with sound and video files 
 - The theme about Generativity
 - Sample code
