@@ -85,6 +85,10 @@ RULES:
 ```
 - see other [10Print](https://twitter.com/hashtag/10print?src=hash)
 
+#### Mid-way evaluation
+
+#### Tasks for next week
+
 #### Notes on reading (my own notes)
 Marius Watz:
 
