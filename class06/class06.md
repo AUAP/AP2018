@@ -97,6 +97,7 @@ RULES:
     - Why is it important to know JSON or Why JSON is so popular?
     - How may we understand data processing through JSON?
 
+---
 #### Notes on reading (my own notes)
 Marius Watz:
 
