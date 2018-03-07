@@ -33,6 +33,8 @@ Generative art refers to any art practice in which the **artist cedes control** 
 
 - Randomness, loops and rules
 - In-class ex: 10 print
+ - see other [10Print](https://twitter.com/hashtag/10print?src=hash)
+ - 
 
 #### Notes on reading (my own notes)
 Marius Watz:
