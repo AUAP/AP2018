@@ -35,6 +35,7 @@ Generative art refers to any art practice in which the **artist cedes control** 
 - Generativity: Simple rules to complex pattern
 
 - Throbber and generativity
+
 ![throbber](https://github.com/AUAP/AP2018/blob/master/class06/throbbering.gif)
 
 [RUNME](https://rawgit.com/AUAP/AP2018/master/class06/sketch06b/index.html)
