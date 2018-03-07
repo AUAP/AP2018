@@ -11,6 +11,15 @@ Agenda:
 #### Artwork
 ![image](https://wordandimage.files.wordpress.com/2012/04/4194960757_de88781e77_o.jpg)
 [A House of Dust](http://www.zachwhalen.net/pg/dust/) (a simulation of a 1967 poem by Alison Knowles and James Tenney) by Zach Whalen | see more background info [here](http://www.artbytranslation.org/_pdf/HOUSE_OF_DUST_JOURNAL_25_08_2016_BDEF_PREVIEW.pdf)
+
+Structure: 
+```
+A house of (list material) 
+ (list location) 
+  Using (list light source) 
+   Inhabited by (list inhabitants)
+```
+*in which combinations of the variables were randomly generated.
  
 #### Generativity
 
