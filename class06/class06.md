@@ -32,21 +32,17 @@ Generative art refers to any art practice where artists use a system, such as a 
 Generative art refers to any art practice in which the **artist cedes control** to a system with functional autonomy that contributes to, or results in, a completed work of art. Systems may include natural langauge instructions, biological or chemical processes, computer programs, machines, **self-organizing** materials mathematical operations, and other procedural interventions. (Galanter, 2008, p. 154)
 
 - Randomness, loops and rules
-- Generativity: Simple rules to complex pattern
+### Generativity: Simple rules to complex pattern
 
 ![circles](https://github.com/AUAP/AP2018/blob/master/class06/complex_balls.gif)
 ```
-Rules:
-1. Pick a random throbber's slash
-2. Fill the screen with the random throbber's slash
-3. Randomly select one throbber and rotate it
-4. Select another throbber randomly and rotate itself
+Discuss what are the rules implement in the sketch.
 ```
 [RUNME](https://rawgit.com/AUAP/AP2018/master/class06/sketch06c/index.html)
 
 [README](https://github.com/AUAP/AP2018/blob/master/class06/sketch06c/sketch.js)
 
-- Throbber and generativity (can you spot the rotating throbber?)
+### Throbber and generativity (can you spot the rotating throbber?)
 
 ![throbber](https://github.com/AUAP/AP2018/blob/master/class06/throbbering.gif)
 
@@ -61,7 +57,7 @@ Rules:
 
 [README](https://github.com/AUAP/AP2018/blob/master/class06/sketch06b/sketch.js)
 
-- In-class ex: 10 print
+### In-class ex: 10 print
 ![10print](https://github.com/AUAP/AP2018/blob/master/class06/10Print.png)
 
 [RUNME](https://rawgit.com/AUAP/AP2018/master/class06/sketch06a/index.html)
