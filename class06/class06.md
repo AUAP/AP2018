@@ -33,8 +33,16 @@ Generative art refers to any art practice in which the **artist cedes control** 
 
 - Randomness, loops and rules
 - In-class ex: 10 print
- - see other [10Print](https://twitter.com/hashtag/10print?src=hash)
- - 
+![10print](https://github.com/AUAP/AP2018/blob/master/class06/10Print.png)
+[RUNME](https://rawgit.com/AUAP/AP2018/master/class06/sketch06a/index.html)
+[README](https://github.com/AUAP/AP2018/blob/master/class06/sketch06a/sketch.js)
+RULES:
+1. Throw a dice randomly
+2. Half of the chance print a backward slash
+3. The other half of the chance will print a forward slash
+4. Fill the whole canvas with the randomly generated slash
+
+- see other [10Print](https://twitter.com/hashtag/10print?src=hash)
 
 #### Notes on reading (my own notes)
 Marius Watz:
