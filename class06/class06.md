@@ -86,6 +86,9 @@ RULES:
 - see other [10Print](https://twitter.com/hashtag/10print?src=hash)
 
 #### Mid-way evaluation
+- How much effort have you put in the course?
+- How do you think about the course in relation to the materials e.g coding environments, mini ex, slides, sample code, fri and wed sessions?
+- How can we better use our peers?
 
 #### Tasks for next week
 
