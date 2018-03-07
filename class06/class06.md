@@ -31,8 +31,12 @@ Generative art refers to any art practice where artists use a system, such as a 
 
 Generative art refers to any art practice in which the **artist cedes control** to a system with functional autonomy that contributes to, or results in, a completed work of art. Systems may include natural langauge instructions, biological or chemical processes, computer programs, machines, **self-organizing** materials mathematical operations, and other procedural interventions. (Galanter, 2008, p. 154)
 
-- Randomness, loops and rules
-### Generativity: Simple rules to complex pattern
+### noise and random
+Check [here](https://www.openprocessing.org/browse/?q=noise&time=anytime&type=tags#)
+
+- Perlin noise, [noise()](https://p5js.org/reference/#/p5/noise)
+
+### Generativity: Simple rules to a complex pattern
 
 ![circles](https://github.com/AUAP/AP2018/blob/master/class06/complex_balls.gif)
 ```
