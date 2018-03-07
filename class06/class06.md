@@ -14,10 +14,10 @@ Agenda:
 
 Structure: 
 ```
-A house of (list material) 
+A HOUSE OF (list material) 
  (list location) 
-  Using (list light source) 
-   Inhabited by (list inhabitants)
+  USING (list light source) 
+   INHABITED BY (list inhabitants)
 ```
 *in which combinations of the variables were randomly generated.
  
