@@ -211,7 +211,13 @@ object depends on class as "the object could not exist without the class that it
 
 -p. 24: information hiding -> encapsulation
 
-
+#### Afterclass thoughts (my own notes)
+- Students seem ok with the object-class approach (it is good to remind them to read both the text and watch the video in advance to the class -> less confusion and more prepared) -> but then need to think about if this is a topic to introduce in a book, how should we write that. 
+- At this stage, students are more comfortable with, and confident in coding, which is much ealier than previous years. Not sure it is due to students' bg or course/theme arrangement or the change of mini exercises.
+- p5.play also works quite well as an introduction or rethinking of objects and behaviors, and what might be the limitation of using library. 
+- live coding part is not easy, esp it needs to pay attention to small/capital letter and minior punctuation mistakes, as well as having a time pressure and tight schedule. But challenging and fun though. 
+- the more i teach about OOP, the more i think it is quite important to include this in the curriculum and forthcoming book, because it presents a way of thinking (abstraction) and how the world is being represented, translated and imagined. It relates to neutrality of code, architecture of many programming languages including java, c++, c sharp, java, python, perl, openframeworks, objective-c, etc. It also easily explains the concept of abstraction (both in computer sci and humanities term) Think about nowadays apps and games, many of them are built upon this archiecture. I even think that this chapter/theme should be expanded too. 
+- the points to class struggle, efficiency, labour practices should be an extension i think (also with a little bit of history). Not much has been written about this. Perhaps chrisian and søren's book would be useful here. 
 
 
 
