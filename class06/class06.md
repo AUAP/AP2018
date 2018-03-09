@@ -68,6 +68,9 @@ Rules:
 - A screen saver, [Throb](https://github.com/siusoon/Throb/blob/master/README.md)
 ![screensaver](https://github.com/AUAP/AP2018/blob/master/class06/screensaver.png)
 
+### Other examples:
+[OpenProcessing](https://www.openprocessing.org/browse/?q=generative&time=anytime&type=tags#)
+
 ### In-class ex: 10 print
 ![10print](https://github.com/AUAP/AP2018/blob/master/class06/10Print.png)
 ```
