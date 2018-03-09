@@ -51,7 +51,7 @@ Discuss what are the rules in the sketch.
 
 ### Throbber and generativity (can you spot the rotating throbber?)
 
-![throbber](https://github.com/AUAP/AP2018/blob/master/class06/throbbering.gif)
+![throbber](https://github.com/AUAP/AP2018/blob/master/class06/throbbering1.gif)
 
 ```
 Rules:
