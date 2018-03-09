@@ -65,7 +65,7 @@ Rules:
 [README](https://github.com/AUAP/AP2018/blob/master/class06/sketch06b/sketch.js)
 
 - A book cover [here](http://arts.au.dk/uploads/pics/WinnieSoon-DissertationCover.jpg)
-- A screen saver, Throb
+- A screen saver, [Throb](https://github.com/siusoon/Throb/blob/master/README.md)
 ![screensaver](https://github.com/AUAP/AP2018/blob/master/class06/screensaver.png)
 
 ### In-class ex: 10 print
