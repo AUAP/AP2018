@@ -219,7 +219,9 @@ object depends on class as "the object could not exist without the class that it
 - the more i teach about OOP, the more i think it is quite important to include this in the curriculum and forthcoming book, because it presents a way of thinking (abstraction) and how the world is being represented, translated and imagined. It relates to neutrality of code, architecture of many programming languages including java, c++, c sharp, java, python, perl, openframeworks, objective-c, etc. It also easily explains the concept of abstraction (both in computer sci and humanities term) Think about nowadays apps and games, many of them are built upon this archiecture. I even think that this chapter/theme should be expanded too. 
 - the points to class struggle, efficiency, labour practices should be an extension i think (also with a little bit of history). Not much has been written about this. Perhaps chrisian and søren's book would be useful here. 
 - can link race and oo through the text by Tara McPherson: U.S. Operating Systems at Mid-Century -> also her article critiques the idea of modularity and fragmentation/partitions/divides + separates object from context, cause from effect. (logics of the lenticular)
-- another link to Lev Manovich 
+  - e.g race and identity politics in games 
+  - p.34: "We must develop common languges that link the study of code and culture"  (McPherson, 2012)
+
 
 
 
