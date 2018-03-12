@@ -19,7 +19,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 1. Weekly mini exercises (mostly individual with a few group works) + peer feedback 
 2. Peer-tutoring/Peer-feedback: within 20 mins in-class presentation with respondents 
 3. Active participation in class discussion and exercises
-4. FINAL group project - in the form of a “readme” and a “runme” (software) packaged + in class presentation 
+4. [FINAL group project](https://github.com/AUAP/AP2018_Submission/tree/master/Final_Project) - in the form of a “readme” and a “runme” (software) packaged + in class presentation 
 5. Oral exam (Date: to be confirmed)
 
 !NB: 20 ECTS is equivalent to around 25 hours per week, including lecture and tutorial. As such, you are required to spend around 20 hours per week in reading and programming. The more you practice everyday, the more you get out of the course. There is no short cut and the best way is to PRACTICE!
