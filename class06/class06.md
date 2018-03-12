@@ -31,14 +31,21 @@ Generative art refers to any art practice where artists use a system, such as a 
 
 Generative art refers to any art practice in which the **artist cedes control** to a system with functional autonomy that contributes to, or results in, a completed work of art. Systems may include natural langauge instructions, biological or chemical processes, computer programs, machines, **self-organizing** materials mathematical operations, and other procedural interventions. (Galanter, 2008, p. 154)
 
-### noise and random
+### Random() and Noise()
+```
+Discuss why you have used random/noise function in your previous mini_exercises? What is the significance of randomness in your program? What is pseudorandomness?
+```
 Check [here](https://www.openprocessing.org/browse/?q=noise&time=anytime&type=tags#)
 
-- Perlin noise by Ken Perlin, [noise()](https://p5js.org/reference/#/p5/noise), and more [here](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-noise/a/perlin-noise)
- - good for programming life-like behaviors
- - "it produces a naturally ordered (“smooth”) sequence of pseudo-random numbers." -> good for simulating natural behaviors
- - **more here....TBC**
-
+- Perlin noise by Ken Perlin, [noise()](https://p5js.org/reference/#/p5/noise)
+ - only returns the range of 0-1
+ - a more organic appearance 
+ - non uniform distribution 
+ - "it produces a naturally ordered (“smooth”) sequence of pseudo-random numbers." -> good for simulating natural/life-like behaviors
+  - the generated values are related to each other -> useful for generating random patterns
+ - example [here](https://blog.federicopepe.com/2016/06/random-vs-perlin-noise/)
+ - more [here](https://eev.ee/blog/2016/05/29/perlin-noise/)
+ 
 ### Generativity: Simple rules to a complex pattern
 
 ![circles](https://github.com/AUAP/AP2018/blob/master/class06/complex_balls.gif)
@@ -48,6 +55,29 @@ Discuss what are the rules in the sketch.
 [RUNME](https://rawgit.com/AUAP/AP2018/master/class06/sketch06c/index.html)
 
 [README](https://github.com/AUAP/AP2018/blob/master/class06/sketch06c/sketch.js)
+
+### 10 PRINT
+![10print](https://github.com/AUAP/AP2018/blob/master/class06/10Print.png)
+```
+10 PRINT CHR$(205.5+RND(1)); : GOTO 10
+```
+- history: a Basic program with a single line of code in the early 1980s. (appear in the userguide of Commodore 64)
+- see the book [here](https://www.amazon.com/gp/product/0262018462/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0262018462&linkCode=as2&tag=slatmaga-20)
+
+[RUNME](https://rawgit.com/AUAP/AP2018/master/class06/sketch06a/index.html)
+
+[README](https://github.com/AUAP/AP2018/blob/master/class06/sketch06a/sketch.js)
+
+```
+RULES:
+1. Throw a dice randomly
+2. Half of the chance print a backward slash
+3. The other half of the chance will print a forward slash
+4. Fill the whole canvas with the randomly generated slash
+```
+- see other [10Print](https://twitter.com/hashtag/10print?src=hash)
+
+In-class ex: Try to create your own 10Print within your group. 
 
 ### Throbber and generativity (can you spot the rotating throbber?)
 
@@ -68,35 +98,20 @@ Rules:
 - A screen saver, [Throb](https://github.com/siusoon/Throb/blob/master/README.md)
 ![screensaver](https://github.com/AUAP/AP2018/blob/master/class06/screensaver.png)
 
+In-class group discussion: 
+```
+Reflect upon the notes that you have made while reading the assigned text, what does it mean by "The artist cedes control to a system"? How might we rethink the notion of authorship in generative works?
+```
 ### Other examples:
 [OpenProcessing](https://www.openprocessing.org/browse/?q=generative&time=anytime&type=tags#)
 
-### In-class ex: 10 print
-![10print](https://github.com/AUAP/AP2018/blob/master/class06/10Print.png)
-```
-10 PRINT CHR$(205.5+RND(1)); : GOTO 10
-```
-- history: a Basic program with a single line of code in the early 1980s. (appear in the userguide of Comodore 64)
-- see the book [here](https://www.amazon.com/gp/product/0262018462/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0262018462&linkCode=as2&tag=slatmaga-20)
-
-[RUNME](https://rawgit.com/AUAP/AP2018/master/class06/sketch06a/index.html)
-
-[README](https://github.com/AUAP/AP2018/blob/master/class06/sketch06a/sketch.js)
-
-```
-RULES:
-1. Throw a dice randomly
-2. Half of the chance print a backward slash
-3. The other half of the chance will print a forward slash
-4. Fill the whole canvas with the randomly generated slash
-```
-- see other [10Print](https://twitter.com/hashtag/10print?src=hash)
-
 #### Mid-way evaluation
+```
+Discuss in groups:
 - How do you think about the course in relation to coding environments, mini ex, slides, sample code, fri and wed sessions?
 - What are the things you can do to make the course better?
 - How can we better use our peers?
-
+```
 #### Tasks for next week
 - miniEx6 - [A generative program](https://github.com/AUAP/AP2018/blob/master/all_miniex/mini_ex6.md)
 - Peer-tutoring: Group 5 / Respondents: Group 6, Topic: JSON
