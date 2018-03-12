@@ -77,8 +77,11 @@ RULES:
 ```
 - see other [10Print](https://twitter.com/hashtag/10print?src=hash)
 
-In-class ex: Try to create your own 10Print within your group. 
-
+In-class ex: 
+```
+Work with the one next to you:
+Try to create your own 10Print. 
+```
 ### Throbber and generativity (can you spot the rotating throbber?)
 
 ![throbber](https://github.com/AUAP/AP2018/blob/master/class06/throbbering1.gif)
