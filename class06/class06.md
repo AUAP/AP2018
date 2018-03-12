@@ -116,7 +116,7 @@ How might we rethink the notion of authorship in generative works?
 ```
 Discuss in groups:
 - How do you think about the course in relation to: 
-  coding environments, mini ex, slides, sample code, fri and wed sessions, etc?
+  coding environments, peer-tutoring, mini ex, slides, sample code, Tue/Wed/Fri sessions, etc?
 - What are the things you can do to make the course better?
 - How can we better use our peers?
 ```
