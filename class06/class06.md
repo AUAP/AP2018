@@ -23,7 +23,7 @@ A HOUSE OF (a material)
 *originally written in FORTRAN
 - interpretable score (Higgins, et al, 2012)
 - meaning of the work beyond language
-- influenced by [Fluxus movement](https://www.artsy.net/article/artsy-editorial-fluxus-movement-art-museums-galleries) and John Cage (chance operations)
+- influenced by [Fluxus movement](https://www.widewalls.ch/what-is-fluxus/) and John Cage (chance operations)
  
 #### Generativity
 
