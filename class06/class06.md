@@ -96,7 +96,8 @@ Rules:
 ```
 [RUNME](https://rawgit.com/AUAP/AP2018/master/class06/sketch06b/index.html)
 
-[README](https://github.com/AUAP/AP2018/blob/master/class06/sketch06b/sketch.js)
+[Soure code](https://github.com/AUAP/AP2018/blob/master/class06/sketch06b/sketch.js)
+(this also demonstrates how to use OOP)
 
 - A book cover [here](http://arts.au.dk/uploads/pics/WinnieSoon-DissertationCover.jpg)
 - A screen saver, [Throb](https://github.com/siusoon/Throb/blob/master/README.md)
