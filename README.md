@@ -157,6 +157,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - take a look at different generative art sketches: http://www.generative-gestaltung.de/2/
   - [1 hr video] [Beautiful Rules: Generative models of creativity](https://vimeo.com/26594644) (2007) by Marius Watz
   - Soon, Winnie. [Executing Liveness](http://siusoon.net/home/me/doc/soon_PhD_FINAL.pdf). PhD dissertation. Aarhus University, 2016. 82-90  (the section on Generativity)
+  - The video of [Noise() vs Random()](https://www.youtube.com/watch?v=YcdldZ1E9gU) by Daniel Shiffman
 - **Suggested reading/video**
   - [The Recode Project](http://recodeproject.com/) and [Memory Slam](http://nickm.com/memslam/) by Nick Montfort
   - Galanter, Philip. "[Generative Art Theory](http://cmuems.com/2016/60212/resources/galanter_generative.pdf)". *A Companion to Digital Art*. Eds. Christiane P, 2016. 
