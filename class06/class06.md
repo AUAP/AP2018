@@ -36,7 +36,7 @@ Generative art refers to any art practice in which the **artist cedes control** 
 Discuss why you have used random/noise function in your previous mini_exercises? 
 What is the significance of randomness in your program? What is pseudorandomness?
 ```
-Check [here](https://www.openprocessing.org/browse/?q=noise&time=anytime&type=tags#)
+Check [here](https://www.openprocessing.org/browse/?q=noise&time=anytime&type=tags#) for more
 
 - Perlin noise by Ken Perlin, [noise()](https://p5js.org/reference/#/p5/noise)
  - only returns the range of 0-1
