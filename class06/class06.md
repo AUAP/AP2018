@@ -33,7 +33,8 @@ Generative art refers to any art practice in which the **artist cedes control** 
 
 ### Random() and Noise()
 ```
-Discuss why you have used random/noise function in your previous mini_exercises? What is the significance of randomness in your program? What is pseudorandomness?
+Discuss why you have used random/noise function in your previous mini_exercises? 
+What is the significance of randomness in your program? What is pseudorandomness?
 ```
 Check [here](https://www.openprocessing.org/browse/?q=noise&time=anytime&type=tags#)
 
