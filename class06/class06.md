@@ -103,7 +103,9 @@ Rules:
 
 In-class group discussion: 
 ```
-Reflect upon the notes that you have made while reading the assigned text, what does it mean by "The artist cedes control to a system"? How might we rethink the notion of authorship in generative works?
+Reflect upon the notes that you have made while reading the assigned text, 
+what does it mean by "The artist cedes control to a system"? 
+How might we rethink the notion of authorship in generative works?
 ```
 ### Other examples:
 [OpenProcessing](https://www.openprocessing.org/browse/?q=generative&time=anytime&type=tags#)
@@ -111,7 +113,8 @@ Reflect upon the notes that you have made while reading the assigned text, what 
 #### Mid-way evaluation
 ```
 Discuss in groups:
-- How do you think about the course in relation to coding environments, mini ex, slides, sample code, fri and wed sessions?
+- How do you think about the course in relation to: 
+  coding environments, mini ex, slides, sample code, fri and wed sessions, etc?
 - What are the things you can do to make the course better?
 - How can we better use our peers?
 ```
