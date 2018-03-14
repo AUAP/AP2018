@@ -191,3 +191,8 @@ authorship: product of artist
 
 - code as a method to create different forms
 
+#### Afterclass thoughts (my own notes)
+- Placing this topic after OOP is good because we can start talking something more conceptually as they already have the technical base.
+- Students feedback are quite positive in terms of discussing authorship and working on their 10Print with different results
+- Indeed more discussion can go into something like processes vs result (this could be discussed in the book as we used the time to work on the mid way evaluation)
+- We didn't exactly follow the sequence of discussion as planned on this page, but sort of swap around and things went well.
