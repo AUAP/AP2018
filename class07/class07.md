@@ -2,15 +2,22 @@ Messy notes of class07 - Language Plus Code
 
 Agenda:
 - Artwork showcase: Vocable Code by Winnie Soon
+- Conceptual discussion on Vocable Code (both the text and the artwork)
 - Peer-Tutoring (group 5)/Respondents (group 6): JSON
-- The theme about Language
-- Sample code
+- Make your own vocable code
 - Final Project walkthrough
 - Tasks for next week
 
 #### Vocable Code (2017) by Winnie Soon
 Vocable Code is both a work of “software art” (software as artwork, not software to make an artwork) and a “codework” (where the source code and critical writing operate together) produced to embody “queer code”. Collective statements and voices complete the phrase “Queer is…” and together make a computational and poetic composition for two screens: on one of these, texts and voices are repeated and disrupted by mathematical chaos, together exploring the performativity of code and language; on the other, is a mix of a computer programming syntax and human language. In this sense queer code can be understood as both an object and subject of study that intervenes in the world’s “becoming” and how material bodies are produced via human and nonhuman practices. 
 
+#### Conceptual discussion on Vocable Code 
+```
+Go through the notes that you have taken, then go through the runme and readme of Vocable Code.
+Discussion: 
+What are voices? 
+Can you draw a relation between the two pieces based on the notes that you have written? 
+```
 **Instructions:**
 1.	Find a blank paper and prepare to write a sentence.
 2.	Complete the sentence with the starting words: “Queer is…”
