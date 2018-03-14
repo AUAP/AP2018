@@ -17,6 +17,8 @@ Vocable Code is both a work of “software art” (software as artwork, not soft
 
 [Source Code](https://github.com/siusoon/VocableCode/tree/master/vocablecode_program)
 
+[More details](https://github.com/siusoon/VocableCode)
+
 #### Conceptual discussion on Vocable Code 
 ```
 Go through the notes that you have taken, then go through the runme and readme of Vocable Code.
