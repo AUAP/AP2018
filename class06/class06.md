@@ -196,3 +196,4 @@ authorship: product of artist
 - Students feedback are quite positive in terms of discussing authorship and working on their 10Print with different results
 - Indeed more discussion can go into something like processes vs result (this could be discussed in the book as we used the time to work on the mid way evaluation)
 - We didn't exactly follow the sequence of discussion as planned on this page, but sort of swap around and things went well.
+- In the book we need to address more about the rules, as this comes out of the blue for students. It may be contextualize through fluxus or constrainted based writing and articulate through processes and emergence. 
