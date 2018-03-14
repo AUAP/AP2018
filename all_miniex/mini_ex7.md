@@ -14,7 +14,7 @@
 - [Rita library](http://rednoise.org/rita/) by Daniel Howe (you need to make sure you have time to experiment with the library)
 
 **Tasks:**
-1. This is a group mini exercise. Form a group of 2 (max 3)
+1. This is a group mini exercise. Form a group of 2 (max 3) based on your study group.
 2. Make sure you have read the text by Geoff Cox and Alex McLean: 
 - Cox, Geoff and McLean, Alex. Speaking Code. MIT Press, 2013. 17-38. (check blackboard - ch.1 Vocable Code)
 3. Work together in a group, and design and develop an electronic (audio)literature 
