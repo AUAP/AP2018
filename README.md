@@ -17,7 +17,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 
 ## TASKS:   
 1. Weekly mini exercises (mostly individual with a few group works) + peer feedback 
-2. Peer-tutoring/Peer-feedback: within 20 mins in-class presentation with respondents 
+2. [Peer-tutoring/Peer-feedback](https://github.com/AUAP/AP2018_Submission): within 20 mins in-class presentation with respondents 
 3. Active participation in class discussion and exercises
 4. [FINAL group project](https://github.com/AUAP/AP2018_Submission/tree/master/Final_Project) - in the form of a “readme” and a “runme” (software) packaged + in class presentation 
 5. Oral exam (Date: to be confirmed)
