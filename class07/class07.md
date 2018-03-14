@@ -14,17 +14,17 @@ Vocable Code is both a work of “software art” (software as artwork, not soft
 **Instructions:**
 1.	Find a blank paper and prepare to write a sentence.
 2.	Complete the sentence with the starting words: “Queer is…”
-  a.	Each sentence contains no more than 5 words (the starting words- “queer is” is not included)
-  b.	More than 1 sentence is allowed but not more than 3.
-  c.	English word/sentence is required.
-  d.	It is ok to have just one word.
+  - Each sentence contains no more than 5 words (the starting words- “queer is” is not included)
+  -	More than 1 sentence is allowed but not more than 3.
+  -	English word/sentence is required.
+  -	It is ok to have just one word.
 3.	Download/Locate a voice recording app on your smartphone (e.g “Voice Recorder” on Android phone or “Voice Memos app” on iphone)
 4.	Try to find a quiet environment and record your voice, and see if the app works (controlling the start and end of the recording button).
 5.	Prepare to record your voice with your written sentence(s).
-  a.	It is up to you to decide the temporality and rhythm of speaking the text.
-  b.	It is up to you to either speak the full word or full sentence with different pitch/tempo/rhythm.
-  c.	You can also speak on a certain part (phonetics) of the word or sentence. In other words, the word/sentence doesn’t need to be fully pronounced. 
-  d.	The first two provided words “queer is” can be omitted. 
+  -	It is up to you to decide the temporality and rhythm of speaking the text.
+  -	It is up to you to either speak the full word or full sentence with different pitch/tempo/rhythm.
+  -	You can also speak on a certain part (phonetics) of the word or sentence. In other words, the word/sentence doesn’t need to be fully pronounced. 
+  -	The first two provided words “queer is” can be omitted. 
 6.	Record your voice, and each voice file holds one sentence only.
 
 
