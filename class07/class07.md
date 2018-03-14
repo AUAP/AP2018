@@ -9,10 +9,12 @@ Agenda:
 - Tasks for next week
 
 #### Vocable Code (2017) by Winnie Soon
+<iframe src="https://player.vimeo.com/video/248759443" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Vocable Code is both a work of “software art” (software as artwork, not software to make an artwork) and a “codework” (where the source code and critical writing operate together) produced to embody “queer code”. It examines the notion of queerness in computer coding. Through collecting voices and statements from others that help to complete the sentence that begins: “Queer is…”, the work is computationally and poetically composed where the texts and voices are repeated and disrupted by mathematical chaos, creating a dynamic audio-visual literature and exploring the performativity of code, subjectivity and language. Behind the executed web interface, the code itself is deliberately written as a codework, a mix of a computer programming language and human language, exploring the material and linguistic tensions of writing and reading within the context of (non)binary poetry and computer code.
 
 [RunMe](https://rawgit.com/siusoon/VocableCode/master/vocablecode_program/index.html)
+
 [Source Code](https://github.com/siusoon/VocableCode/tree/master/vocablecode_program)
 
 #### Conceptual discussion on Vocable Code 
