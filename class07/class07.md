@@ -21,12 +21,12 @@ Vocable Code is both a work of “software art” (software as artwork, not soft
 
 #### Conceptual discussion on Vocable Code 
 ```
-Go through the notes that you have taken, then go through the runme and readme of Vocable Code.
+Go through the notes that you have taken, then go through the runme and the source code of Vocable Code.
 Discussion: 
-What are voices? 
-Can you draw a relation between the two pieces based on the notes that you have written? 
+- What are voices? 
+- Can you draw a relation between the two pieces based on the notes that you have written? 
 ```
-**Instructions:**
+**Instructions for voice recording:**
 1.	Find a blank paper and prepare to write a sentence.
 2.	Complete the sentence with the starting words: “Queer is…”
   - Each sentence contains no more than 5 words (the starting words- “queer is” is not included)
@@ -42,7 +42,12 @@ Can you draw a relation between the two pieces based on the notes that you have 
   -	The first two provided words “queer is” can be omitted. 
 6.	Record your voice, and each voice file holds one sentence only.
 
-
+**Modify the code**
+- Download the whole vocable code foler
+- modify the json file to include your own voice
+- convert the voice files into wave file format
+- Put the wave file into the voice folder 
+- Run the vocable code 
 
 #### Tasks for next week
 - miniEx7 - [Group work: e-lit](https://github.com/AUAP/AP2018/blob/master/all_miniex/mini_ex7.md)
