@@ -18,6 +18,7 @@ Agenda:
   - syntactics: formal structure
 - reading/writing/speaking
 - Expressively: different voices
+- Subjectivity
 - Bodily meaning
 - Performativity
 - code and poetry
