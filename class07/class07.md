@@ -21,6 +21,7 @@ Agenda:
 - Bodily meaning
 - Performativity
 - code and poetry
+- electronic literature
 
 #### Vocable Code (2017) by Winnie Soon
 ![image](http://siusoon.net/wp-content/uploads/2017/10/vocablecode.png)
