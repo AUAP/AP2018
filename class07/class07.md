@@ -37,7 +37,6 @@ Performance time - vocable code
 
 #### New syntax:
 
-new syntax: 
 - add new font 
 ```
 withPride = loadFont('inclusive/Gilbert_TypeWithPride.otf');
@@ -57,7 +56,7 @@ whatisQueer = loadJSON('inclusive/voices.json');
 queers = whatisQueer.queers;
 SpeakingCode(queers[WhoIsQueer].iam, makingStatements);
 ```
-### Technical discussion:
+#### Technical discussion:
 
 [Source Code](https://github.com/siusoon/VocableCode/tree/master/vocablecode_program)
 
