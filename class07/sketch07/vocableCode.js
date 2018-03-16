@@ -1,7 +1,4 @@
 // CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-/*
-ver2 - update all var to let and some other parameters and names [12 Mar 2018]
-*/
 
 let withPride;
 let whatisQueer;
