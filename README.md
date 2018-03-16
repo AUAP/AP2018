@@ -170,9 +170,8 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
  #### Class 07 | Week 12 | 20 Mar 2018: Language Plus Code
 ##### Wed tutorial session and NO Fri shutup and code session.
 - **Class structure:**
-  - Typography and textuality
-  - Codework
-  - Introduce the final code project
+  - Speech/Voice/Performativity
+  - [Introduce the final code project](https://github.com/AUAP/AP2018_Submission/blob/master/Final_Project/Readme.md)
 - **Peer-tutoring: Group 5 / Respondents: Group 6, Topic: JSON**
   - What is JSON? How to use JSON?
   - Why is it important to know JSON or Why JSON is so popular?
