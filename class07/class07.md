@@ -96,6 +96,7 @@ Discussion:
 **Modify the code**
 - Structure of the code 
 <img src="https://github.com/AUAP/AP2018/blob/master/class07/file_structure.png" width="450px">
+
 - JSON file
 - Download the whole vocable code folder
 - modify the json file to include your own voice
