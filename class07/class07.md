@@ -2,13 +2,25 @@ Messy notes of class07 - Language Plus Code
 
 Agenda:
 - Artwork showcase: Vocable Code by Winnie Soon
-- Contextualize the theme
+- Contextualize the theme 'Language"
 - Short performance
 - Conceptual and technical discussion on Vocable Code 
 - Peer-Tutoring (group 5)/Respondents (group 6): JSON
 - Make your own vocable code
 - Final Project walkthrough
 - Tasks for next week
+
+#### Why Language plus code? 
+- human language and programming language
+- abstraction and translation
+- semotic (signs and symbols)
+  - semantics: the relations of signs to their context 
+  - syntactics: formal structure
+- reading/writing/speaking
+- Expressively: different voices
+- Bodily meaning
+- Performativity
+- code and poetry
 
 #### Vocable Code (2017) by Winnie Soon
 ![image](http://siusoon.net/wp-content/uploads/2017/10/vocablecode.png)
@@ -23,7 +35,29 @@ Vocable Code is both a work of “software art” (software as artwork, not soft
 
 Performance time - vocable code
 
-#### Technical discussion on Vocable Code
+#### New syntax:
+
+new syntax: 
+- add new font 
+```
+withPride = loadFont('inclusive/Gilbert_TypeWithPride.otf');
+```
+- delete object > object.splice
+```
+queerRights.splice(non_binary, floor(1.34387));
+```
+- concatenated text/characters
+```
+let getVoice = "inclusive/voices/" + iam + makingStatements + ".wav";
+```
+- read JSON
+![image4](https://github.com/AUAP/AP2018/blob/master/class07/json.png)
+```
+	whatisQueer = loadJSON('inclusive/voices.json');
+	queers = whatisQueer.queers;
+  SpeakingCode(queers[WhoIsQueer].iam, makingStatements);
+```
+### Technical discussion:
 
 [Source Code](https://github.com/siusoon/VocableCode/tree/master/vocablecode_program)
 
@@ -62,9 +96,7 @@ Discussion:
 - Structure of the code 
 <img src="https://github.com/AUAP/AP2018/blob/master/class07/file_structure.png" width="450px">
 - JSON file
-
-![image4](https://github.com/AUAP/AP2018/blob/master/class07/json.png)
-- Download the whole vocable code foler
+- Download the whole vocable code folder
 - modify the json file to include your own voice
 - convert the voice files into wave file format
 - Put the wave file into the voice folder 
