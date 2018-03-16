@@ -59,7 +59,9 @@ Discussion:
 
 **Modify the code**
 - Structure of the code 
-
+![image3](https://github.com/AUAP/AP2018/blob/master/class07/file_structure.png)
+- JSON file
+![image4](https://github.com/AUAP/AP2018/blob/master/class07/json.png)
 - Download the whole vocable code foler
 - modify the json file to include your own voice
 - convert the voice files into wave file format
