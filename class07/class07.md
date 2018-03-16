@@ -2,6 +2,7 @@ Messy notes of class07 - Language Plus Code
 
 Agenda:
 - Artwork showcase: Vocable Code by Winnie Soon
+- Contextualize the theme
 - Short performance
 - Conceptual and technical discussion on Vocable Code 
 - Peer-Tutoring (group 5)/Respondents (group 6): JSON
