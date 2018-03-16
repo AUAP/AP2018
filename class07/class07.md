@@ -58,6 +58,8 @@ Discussion:
 6.	Record your voice, and each voice file holds one sentence only.
 
 **Modify the code**
+- Structure of the code 
+
 - Download the whole vocable code foler
 - modify the json file to include your own voice
 - convert the voice files into wave file format
