@@ -51,7 +51,8 @@ queerRights.splice(non_binary, floor(1.34387));
 ```
 let getVoice = "inclusive/voices/" + iam + makingStatements + ".wav";
 ```
-- read JSON
+- reading JSON
+
 ![image4](https://github.com/AUAP/AP2018/blob/master/class07/json.png)
 ```
 whatisQueer = loadJSON('inclusive/voices.json');
