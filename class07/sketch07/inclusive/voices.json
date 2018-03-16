@@ -1,0 +1,62 @@
+{
+	"description": "The file contains the meta data of queer text",
+	"condition": "statement2 cannot be null",
+	"copyLeft": "Creative Common Licence BY 3.0",
+	"queers":
+	[
+		{
+		  "iam": "Winnie",
+    	"lastname": "Soon",
+    	"statement2": "not fixed not null",
+    	"statement3": "not null not closed"
+    	},
+		{
+  		"iam": "Polly",
+    	"lastname": "Poon",
+    	"statement2": "possibility with no boundary",
+    	"statement3": "null"
+ 		},
+    	{
+  		"iam": "Søren",
+    	"lastname": "Pold",
+    	"statement2": "fixing the binary",
+    	"statement3": "null"
+ 		},
+ 		{
+  		"iam": "Magda",
+    	"lastname": "Tyzlik-carver",
+    	"statement2": "interesting sometimes lonely",
+    	"statement3": "what I want it to be"
+ 		},
+ 		{
+  		"iam": "Sarah",
+    	"lastname": "Schorr",
+    	"statement2": "intricacies of gray",
+    	"statement3": "changing and individual"
+ 		},
+ 		{
+  		"iam": "Elyzabeth",
+    	"lastname": "Holford",
+    	"statement2": "whatever they need to be",
+    	"statement3": "null"
+ 		},
+ 		{
+  		"iam": "Gabriel",
+    	"lastname": "Pereira",
+    	"statement2": "going south",
+    	"statement3": "deconstruction performance reflexiveness"
+    	},
+ 		{
+  		"iam": "Annette",
+    	"lastname": "Markham",
+    	"statement2": "a false dilemma, to me",
+    	"statement3": "not very queer these days"
+ 		},
+		{
+			"iam": "Anna",
+			"lastname": "Brynskov",
+			"statement2": "i like chocolate",
+			"statement3": "not only gay"
+		}
+ 	]
+}
