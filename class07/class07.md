@@ -53,9 +53,9 @@ let getVoice = "inclusive/voices/" + iam + makingStatements + ".wav";
 - read JSON
 ![image4](https://github.com/AUAP/AP2018/blob/master/class07/json.png)
 ```
-	whatisQueer = loadJSON('inclusive/voices.json');
-	queers = whatisQueer.queers;
-  SpeakingCode(queers[WhoIsQueer].iam, makingStatements);
+whatisQueer = loadJSON('inclusive/voices.json');
+queers = whatisQueer.queers;
+SpeakingCode(queers[WhoIsQueer].iam, makingStatements);
 ```
 ### Technical discussion:
 
