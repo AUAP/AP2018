@@ -39,7 +39,13 @@ Vocable Code is both a work of “software art” (software as artwork, not soft
 Performance time - vocable code
 
 #### New syntax:
-
+- call back vs preload
+```
+function SpeakingCode(iam, makingStatements) {
+	let getVoice = "inclusive/voices/" + iam + makingStatements + ".wav";
+	speak = loadSound(getVoice, speakingNow);
+}
+```
 - add new font 
 ```
 withPride = loadFont('inclusive/Gilbert_TypeWithPride.otf');
