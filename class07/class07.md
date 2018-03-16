@@ -13,7 +13,7 @@ Agenda:
 #### Why Language plus code? 
 - human language and programming language
 - abstraction and translation
-- semotic (signs and symbols)
+- semiotics (signs and symbols)
   - semantics: the relations of signs to their context 
   - syntactics: formal structure
 - reading/writing/speaking
