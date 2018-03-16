@@ -14,7 +14,7 @@ Agenda:
 
 Vocable Code is both a work of “software art” (software as artwork, not software to make an artwork) and a “codework” (where the source code and critical writing operate together) produced to embody “queer code”. It examines the notion of queerness in computer coding. Through collecting voices and statements from others that help to complete the sentence that begins: “Queer is…”, the work is computationally and poetically composed where the texts and voices are repeated and disrupted by mathematical chaos, creating a dynamic audio-visual literature and exploring the performativity of code, subjectivity and language. Behind the executed web interface, the code itself is deliberately written as a codework, a mix of a computer programming language and human language, exploring the material and linguistic tensions of writing and reading within the context of (non)binary poetry and computer code.
 
-<img src="https://github.com/AUAP/AP2018/blob/master/class07/setup.png" width="300px">
+<img src="https://github.com/AUAP/AP2018/blob/master/class07/setup.png" width="400px">
 
 [RunMe](https://rawgit.com/siusoon/VocableCode/master/vocablecode_program/index.html)
 
