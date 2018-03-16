@@ -56,3 +56,38 @@ Discussion:
 ---
 #### Notes on reading (my own notes)
 Vocable code by Geoff Cox:
+
+the aesthetic aspects of programs but particularly to their speech-like qualities, to make apparent the vocable elements that underpin some unstable aspects of coding practices (p. 17)
+
+p. 19: the body is implicated in coding practice. Through the connection to speech, programs can be called into action as utterances....as if possessing a voice.
+
+p. 23: contract spoken and written forms of language
+
+p. 24: "Wall was emphasizing the point that code has expressive qualities, and the need for programmers to 'express both their emotional and technical natures simultaneously"
+
+- syntactical and semantic registers
+
+p. 25: "The interplay of the body of the code, the programmer's comments, and the human-machine reader express how hardware and software, text and code, are embodied"
+
+p. 26: "This embodiment issue has become crucially important for unerstanding the interactive experience of computation, extending the limits of HCI (human-computer interaction) traditions."
+
+-> bodily relationships.
+
+"Programmers bring bodily meaning to their work by applying models of human perception, and by trying to account for the ways that other social bodies are drawn into the process of meaning production"
+
+p. 27: "computer programs have bodies in the sense that other materialities and meanings are deeply interwoven, and these necessarily exist as part of wider social relations"
+
+p. 29: "to give voice to those without a voice"
+
+p. 32: "The meanings of words are not derived from an inherent logical structure alone that manipulates symbols into particular sequences (like a program), but also from their social usage."
+
+speech -> complexities of meaning production
+
+p. 35: speech act: "sentences can do something as opposed to just saying something: "to utter the sentence ... is not to describe my doing of what I should be said in so uttering to be doing or to state that i am doing it: it is to do it"
+
+-> performative
+
+p. 35: "Programs are operative inasmuch as they do what they say, but moreover they do what they say at the moment of saying it"
+
+- voice of the programmer
+
