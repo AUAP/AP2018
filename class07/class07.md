@@ -61,6 +61,7 @@ Discussion:
 - Structure of the code 
 <img src="https://github.com/AUAP/AP2018/blob/master/class07/file_structure.png" width="450px">
 - JSON file
+
 ![image4](https://github.com/AUAP/AP2018/blob/master/class07/json.png)
 - Download the whole vocable code foler
 - modify the json file to include your own voice
