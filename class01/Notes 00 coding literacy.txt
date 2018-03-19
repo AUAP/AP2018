@@ -1,5 +1,4 @@
 NOTES 00 Coding Literacy
-
 00.1
 Uses of Literacy - Richard Hoggart
 this informs the development of Cultural Studies initially around the inclusion of working class cultures and an expanded notion of literacy... Also Raymond Williams’ Cultural Materialism - all from a literary tradition. 
@@ -9,14 +8,18 @@ This Lexicon as inspiration - eg. Culture as one of the most contested terms - i
 - addition of race to discussion, as well as gender and sexuality of course. Disruption of base and superstructure model of classical Marxism.
 eg. Stuart Hall “Encoding, Decoding” (semiotic tradition, linguistics as way of reading culture)
 
+lack of attention to alt.right and sub-culture (ref. Florian Cramer and Angela Nagle at transmediale)
+
 00.2 Cultures of Coding
 
-Inspired Software Studies: A Lexicon.
+Inspired by Software Studies: A Lexicon.
 
 Our key terms might be: culture, aesthetics, programming...
 
 coding in tradition of literary criticism (critical code studies)
 Free and open source principles.
+
+changing literacy - Walter Ong’s Orality and Literacy... (maybe even Neil Postman)
 
 00.3 Culture of Github
 Matthew Fuller, Andrew Goffey, Adrian Mackenzie, Richard Mills and Stuart Sharples, "Big Diff, Granularity, Incoherence, and Production in the Github Software Repository" in How To Be a Geek: Essays on the Culture of Software.
