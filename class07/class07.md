@@ -34,6 +34,8 @@ Vocable Code is both a work of “software art” (software as artwork, not soft
 
 [RunMe](https://rawgit.com/siusoon/VocableCode/master/vocablecode_program/index.html)
 
+[Source code with comments](https://github.com/AUAP/AP2018/blob/master/class07/sketch07/vocableCode_xx.js)
+
 [More details](https://github.com/siusoon/VocableCode)
 
 Performance time - vocable code
