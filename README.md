@@ -226,6 +226,8 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - [Flow chart symbols by Robert L. Oakman](http://www.wiley.com/college/busin/icmis/oakman/outline/chap05/slides/symbols.htm)
   - [Flow chart examples by Richa](https://blog.udemy.com/flowchart-examples/)
   - [Multiple js Files - video by Daniel Shiffman](https://www.youtube.com/watch?v=Yk18ZKvXBj4)
+- **Suggested reading**
+  - Ed Finn, “What is an Algorithm,” in What Algorithms Want, MIT Press, 2017, pp. 15-56.
 - **Peer-tutoring: Group 7 / Respondents: Group 8, Topic: Your coding challenge**
   - Feel free to suggest your own coding challenge
 - **Peer-tutoring: Group 8 / Respondents: Group 9, Topic: Your coding challenge**
