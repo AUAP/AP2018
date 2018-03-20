@@ -17,7 +17,7 @@
 1. This is a group mini exercise. Form a group of 2 (max 3) based on your study group.
 2. Make sure you have read the text by Geoff Cox and Alex McLean: 
 - Cox, Geoff and McLean, Alex. Speaking Code. MIT Press, 2013. 17-38. (check blackboard - ch.1 Vocable Code)
-3. Work together in a group, and design and develop an electronic (audio)literature 
+3. Work together in a group, and design and develop an electronic (audio)literature (it is not a must to use voice/speech)
 4. Upload your group e-lit to each individual Github account under a folder called **mini_ex7**. (Make sure your program can be run on a web browser, and if it requires downloading other library or other devices, please specify in your readme file) 
 5. Create a readme file together (README.md) and upload to the same mini_ex7 directory (see [this](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for editing the README). The readme file should contain the followings:
 - Who are you collaborate with?
