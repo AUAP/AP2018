@@ -203,6 +203,8 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - Guest lecture: Don't Erase Me by Tilde Lageri Damborg and Tobias Stenberg Christensen
 - **Peer-tutoring: Group 6 / Respondents: Group 7, Topic: Parsing**
   - What is parsing? 
+  - Can you create a sample code that demonstrate parsing?
+  - What might be the related syntax when we have to parse data?
 - **Read/Watch before class:** 
   - [p5.js video tutorial: working with data by Daniel Shiffman](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r)(watch 10.1-10.10)
   - Critical Software Thing. Executing. Draft. 2017. (check blackboard) 
