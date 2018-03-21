@@ -53,10 +53,10 @@
     	"statement3": "not very queer these days"
  		},
 		{
-			"iam": "Anna",
-			"lastname": "Brynskov",
-			"statement2": "i like chocolate",
-			"statement3": "not only gay"
+		"iam": "Anna",
+	 "lastname": "Brynskov",
+	 "statement2": "i like chocolate",
+	 "statement3": "not only gay"
 		}
  	]
 }
