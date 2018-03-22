@@ -208,6 +208,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 - **Read/Watch before class:** 
   - [p5.js video tutorial: working with data by Daniel Shiffman](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r)(watch 10.1-10.10)
   - Critical Software Thing. Executing. Draft. 2017. (check blackboard) 
+  - Winnie Soon, ”Executing Unpredictable Queries” in [Executing Liveness](http://siusoon.net/home/me/doc/soon_PhD_FINAL.pdf). An examination of the live dimension of code inter-actions in software (art) practice (PhD thesis), 2016, pp. 117-139 (excerpt - also in Software Studies assigned reading) 
 - **Suggested reading/video**
   - Kirschenbaum, Matthew G. Mechanisms: New Media and the Forensic Imagination, 2007, 25-71. (in blackboard)
   - Bucher, Taina, “Objects of intense feeling: The case of the Twitter API”, in Computational Culture: a journal of software studies. 2013. Web. 27 Nov. 2013. <http://computationalculture.net/article/objects-of-intense-feeling-the-case-of-the-twitter-api>
