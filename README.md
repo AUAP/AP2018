@@ -208,7 +208,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 - **Read/Watch before class:** 
   - [p5.js video tutorial: working with data by Daniel Shiffman](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r)(watch 10.1-10.10)
   - Critical Software Thing. Executing. Draft. 2017. (check blackboard) 
-  - Albright, Jonathan. "[he Graph API: Key Points in the Facebook and Cambridge Analytica Debacle](https://medium.com/tow-center/the-graph-api-key-points-in-the-facebook-and-cambridge-analytica-debacle-b69fe692d747)". Medium, 2018.
+  - Albright, Jonathan. "[he Graph API: Key Points in the Facebook and Cambridge Analytica Debacle](https://medium.com/tow-center/the-graph-api-key-points-in-the-facebook-and-cambridge-analytica-debacle-b69fe692d747)". Medium, 2018. (check out the recent hot topic around Cambridge Analytica online)
 - **Suggested reading/video**
   - Kirschenbaum, Matthew G. Mechanisms: New Media and the Forensic Imagination, 2007, 25-71. (in blackboard)
   - Bucher, Taina, “Objects of intense feeling: The case of the Twitter API”, in Computational Culture: a journal of software studies. 2013. Web. 27 Nov. 2013. <http://computationalculture.net/article/objects-of-intense-feeling-the-case-of-the-twitter-api>
