@@ -43,7 +43,7 @@ var apikey = "INPUT YOUR OWN KEY";
 - Go to [Custom Search JSON/Atom API](https://developers.google.com/custom-search/json-api/v1/overview)
 - click the blue botton “Get A Key” -> Create project -> Enter your project name (e.g miniEx9) -> Click 'Create and Enable API’ -> Copy your API key and paste on your program > line 7.
 
-3. [Basic] After you get the API key, next is to replace the search engine ID (cx)
+3. [Basic] After you get the API key, next is to replace the search engine ID (cx) on line 8
 ```javascript
 var engineID = "INPUT YOUR OWN";
 ```
