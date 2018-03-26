@@ -79,5 +79,22 @@ https://www.googleapis.com/customsearch/v1?key=YOURKEY&cx=YOURID&imgSize=small&q
 - uncomment line 35-42
 - if you are using Google chrome, please install an extra add on: [Allow-Control-Allow-Original:*](https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi?hl=en) (it is because the image is hosted with different domain, the current browser does not allow you to manipulate an image in this way. You can either install this add on or do server side programming like using node.js)
 - It seems working fine on Firefox (at least for my browser)
-
+- You should able to load the image and with the animated effects, but still you should encounter 'Type Error' on your browser console. It is because The image is not in preload and it is generated on the fly, and it takes time to load the image and get the pixel color value. I have used the '[try and catch statement](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch)' to keep the code running over time (it is a javasript syntax)
+```
+	try {	//takes time to load the external image
+		loadImage(getImg, function(img) {
+		image(img,0,0);
+			/* //try to uncomment this block if you manage to get the image. 
+			img.loadPixels();
+			img_x = floor(random(0,img.width-1));
+			img_y = floor(random(0,img.height-1));
+			loc = (img_x+img_y * img.width)*4;		//which pixel of the image (and each pixel array holds red, green, blue and alpha values)
+			stroke(color(img.pixels[loc],img.pixels[loc + 1], img.pixels[loc+2]));
+			line(img_x,0,img_x,height);
+			*/
+		});
+	}catch(error) {
+  		console.error(error);
+}
+```
 
