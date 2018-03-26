@@ -78,6 +78,6 @@ https://www.googleapis.com/customsearch/v1?key=YOURKEY&cx=YOURID&imgSize=small&q
 8. If you want to work with the advanced code, you need:
 - uncomment line 35-42
 - if you are using Google chrome, please install an extra add on: [Allow-Control-Allow-Original:*](https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi?hl=en) (it is because the image is hosted with different domain, the current browser does not allow you to manipulate an image in this way. You can either install this add on or do server side programming like using node.js)
-- It seems working fine no Firefox (at least for my browser)
+- It seems working fine on Firefox (at least for my browser)
 
 
