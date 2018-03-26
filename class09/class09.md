@@ -15,7 +15,7 @@ Agenda:
 
 #### Google API walkthrough- in-class ex
 ![image](https://github.com/AUAP/AP2018/blob/master/class09/flowers.gif)
-- Basic: The sample code is about getting a static image from Google image search API, and then display it on a screen. This requires you to:
+- Basic: The sample code is about getting a static image from Google image search API (via parsing JSON), and then display it on a screen. This requires you to:
 1. Understand the Google image search API workflow
 2. Understand the API specification
 3. Understand the corresponding returned JSON file format from Google image search API
@@ -61,6 +61,12 @@ var engineID = "INPUT YOUR OWN";
 
 6. How to get the exact data? 
 ```javascript
+function fetchImage() {
+	request = url + "key=" + apikey + "&cx=" + engineID + "&imgSize=" + imgSize + "&q=" + query;
+	console.log(request);
+	loadJSON(request, gotData); //this is the key syntax and line of code to make a query request and get a query response
+}
+
 getImg = data.items[0].pagemap.cse_thumbnail[0].src; // this is the thumbnail
 ```
 ![image6](https://github.com/AUAP/AP2018/blob/master/class09/image6.png)
