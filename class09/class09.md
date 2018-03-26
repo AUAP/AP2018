@@ -55,7 +55,7 @@ var engineID = "INPUT YOUR OWN";
 
 4. Settings on the control panel:
 - select “search the entire web but emphasize included sites” 
-- Make sure the “Image Search” is ON > click update
+- Make sure the “Image Search” is ON > click **update**
 
 5. Try to run your program and see if any image display on your screen (turn your browser console on)
 
