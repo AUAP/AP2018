@@ -28,7 +28,7 @@
   - Understand what are the available data: the data file format and API specification
   - Decide which data fields you want to choose to explore 
   - Utilize the web API and the coresponding data in your suggested program
-  - Please reserve more time if you are getting data from other unfamiliar platforms, as the registration process can take a look time to do so. 
+  - Please reserve more time if you are getting data from other unfamiliar platforms, as the registration process can take a long time to do so. 
 4. Upload your program to each individual Github account under a folder called **mini_ex8**. (Make sure your program can be run on a web browser, and if it requires downloading other library or other devices, please specify in your readme file) 
 5. Create a readme file together (README.md) and upload to the same mini_ex8 directory (see [this](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for editing the README). The readme file should contain the followings:
 - Who are you collaborate with?
