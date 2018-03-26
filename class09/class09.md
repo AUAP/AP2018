@@ -96,4 +96,13 @@ try {	//takes time to load the external image
   	console.error(error);
 }
 ```
+#### Tasks for next week
+- miniEx8 - [Group work: Working with APIs](https://github.com/AUAP/AP2018/blob/master/all_miniex/miniex8.md)
+- Peer-tutoring: Group 7 / Respondents: Group 8, Topic: Your coding challenge
+- Peer-tutoring: Group 8 / Respondents: Group 9, Topic: Your coding challenge
+	- Think of a syntax that you think would be good for your peers to know
+	- Prepare a sample code/ex that help the class to understand it
+	- Or you may want to discuss any aspect of the code or suggest an approach to help solving problems.
+
+
 
