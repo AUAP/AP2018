@@ -34,8 +34,8 @@ line(img_x,0,img_x,height);
 ```
 
 #### Step by Step:
-1. Create a p5 sketch, then copy and paste the [source code](https://github.com/AUAP/AP2018/blob/master/class09/sketch09/sketch09.js) to your code editor. (you need to have a html file and the p5 library.
-2. The objective is to replace the the API on line 7
+1. [Basic] Create a p5 sketch, then copy and paste the [source code](https://github.com/AUAP/AP2018/blob/master/class09/sketch09/sketch09.js) to your code editor. (you need to have a html file and the p5 library.
+2. [Basic] The objective is to replace the the API on line 7
 ```javascript
 var apikey = "INPUT YOUR OWN KEY"; 
 ```
@@ -43,7 +43,7 @@ var apikey = "INPUT YOUR OWN KEY";
 - Go to [Custom Search JSON/Atom API](https://developers.google.com/custom-search/json-api/v1/overview)
 - click the blue botton “Get A Key” -> Create project -> Enter your project name (e.g miniEx9) -> Click 'Create and Enable API’ -> Copy your API key and paste on your program > line 7.
 
-3. After you get the API key, next is to replace the search engine ID (cx)
+3. [Basic] After you get the API key, next is to replace the search engine ID (cx)
 ```javascript
 var engineID = "INPUT YOUR OWN";
 ```
@@ -53,13 +53,13 @@ var engineID = "INPUT YOUR OWN";
 - Add search engine -> Put something in “Sites to search” (e.g http://www.google.com) and “Name of the search engine” (e.g miniEx9) -> Click ‘create’; “Details” with ‘Search Engine ID’ 
 - Copy the ID (that is the cx) and paste on your program > line 8. 
 
-4. Settings on the control panel:
+4. [Basic] Settings on the control panel:
 - select “search the entire web but emphasize included sites” 
 - Make sure the “Image Search” is ON > click **update**
 
-5. Try to run your program and see if any image display on your screen (turn your browser console on)
+5. [Basic] Try to run your program and see if any image display on your screen (turn your browser console on)
 
-6. How to get the exact data? 
+6. [Basic] How to get the exact data? 
 ```javascript
 function fetchImage() {
 	request = url + "key=" + apikey + "&cx=" + engineID + "&imgSize=" + imgSize + "&q=" + query;
@@ -71,7 +71,7 @@ getImg = data.items[0].pagemap.cse_thumbnail[0].src; // this is the thumbnail
 ```
 ![image6](https://github.com/AUAP/AP2018/blob/master/class09/image6.png)
 
-7. I want to search for other keywords or other image format.
+7. [Basic] I want to search for other keywords or other image format.
 - Change your query on line 10, right now the keywords is warhol flowers. The program won't take space between text, please use '+' sign to join the text. 
 ```javascript
 var query = "warhol+flowers"; //search keywords
@@ -81,7 +81,7 @@ var query = "warhol+flowers"; //search keywords
 https://www.googleapis.com/customsearch/v1?key=YOURKEY&cx=YOURID&imgSize=small&q=warhol+flowers
 
 
-8. If you want to work with the advanced code, you need:
+8. [Advanced] If you want to work with the advanced code, you need:
 - uncomment line 35-42
 - if you are using Google chrome, please install an extra add on and then restart the browser and turn it on: [Allow-Control-Allow-Original:*](https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi?hl=en) (it is because the image is hosted with different domain, the current browser does not allow you to manipulate an image in this way. You can either install this add on or do server side programming like using node.js)
 - It seems working fine on Firefox (at least for my browser), perhaps you may need to restart the browser
