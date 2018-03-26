@@ -1,7 +1,7 @@
 /*
 class09: Fetching and visualizing images from Google image search API
 - ok to run on firefox, but if you run on Chrome you need to install extra add on: Allow-Control-Allow-Original:* (https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi?hl=en)
-- credit: Image Lines by Anna the Crow https://www.openprocessing.org/sketch/120964 
+- credit: Image Lines in Processing by Anna the Crow https://www.openprocessing.org/sketch/120964
 */
 var url = "https://www.googleapis.com/customsearch/v1?";
 var apikey = "INPUT YOUR OWN KEY";  //register API key here: https://developers.google.com/custom-search/json-api/v1/overview
