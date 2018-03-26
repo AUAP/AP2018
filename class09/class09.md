@@ -40,7 +40,7 @@ line(img_x,0,img_x,height);
 var apikey = "INPUT YOUR OWN KEY"; 
 ```
 ![image4](https://github.com/AUAP/AP2018/blob/master/class09/image4.png)
-- Go to [Custom Search JSON/Atom API](https://developers.google.com/custom-search/json-api/v1/overview)-
+- Go to [Custom Search JSON/Atom API](https://developers.google.com/custom-search/json-api/v1/overview)
 - click the blue botton “Get A Key” -> Create project -> Enter your project name (e.g miniEx9) -> Click 'Create and Enable API’ -> Copy your API key and paste on your program > line 7.
 
 3. After you get the API key, next is to replace the search engine ID (cx)
@@ -52,7 +52,7 @@ var engineID = "INPUT YOUR OWN";
 -Add search engine -> Put something in “Sites to search” (e.g http://www.google.com) and “Name of the search engine” (e.g miniEx9) -> Click ‘create’; “Details” with ‘Search Engine ID’ 
 - Copy the ID (that is the cx) and paste on your program > line 8. 
 
-4. Settings in the control panel:
+4. Settings on the control panel:
 - select “search the entire web but emphasize included sites” 
 - Make sure the “Image Search” is ON > click update
 
@@ -63,5 +63,19 @@ var engineID = "INPUT YOUR OWN";
 getImg = data.items[0].pagemap.cse_thumbnail[0].src; // this is the thumbnail
 ```
 ![image6](https://github.com/AUAP/AP2018/blob/master/class09/image6.png)
+
+7. I want to search for other keywords or other image format.
+- Change your query on line 10, right now the keywords is warhol flowers. The program won't take space between text, please use '+' sign to join the text. 
+- look at [here](https://developers.google.com/custom-search/json-api/v1/reference/cse/list#parameters) to change different parameters, such as image size or add imgColorType etc. 
+- The whole URL is as below, and there is a total of 100 free requests and each parameter is seperated by a '&' sign 
+https://www.googleapis.com/customsearch/v1?key=YOURKEY&cx=YOURID&imgSize=small&q=warhol+flowers
+```
+var query = "warhol+flowers"; //search keywords
+```
+
+8. If you want to work with the advanced code, you need:
+- uncomment line 35-42
+- if you are using Google chrome, please install an extra add on: [Allow-Control-Allow-Original:*](https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi?hl=en) (it is because the image is hosted with different domain, the current browser does not allow you to manipulate an image in this way. You can either install this add on or do server side programming like using node.js)
+- It seems working fine no Firefox (at least for my browser)
 
 
