@@ -10,11 +10,13 @@
   - [Other weather API by apix with code example](https://p5js.org/examples/hello-p5-weather.html)
   - [New York times with code example](https://www.youtube.com/watch?v=IMne3LY4bks&list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r&index=9)
   - [Giphy images with code example](https://www.youtube.com/watch?v=mj8_w11MvH8&index=10&list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r)
+  - [Wikipedia API](https://www.youtube.com/watch?v=RPz75gcHj18)
   - [Twitter API and Twitter Bot with code example](http://shiffman.net/a2z/twitter-bots/)
   - [Movie API with code example](https://itp.nyu.edu/classes/cc-s16/movie-api-data/)
   - [Global statistic API with code example](https://itp.nyu.edu/classes/cc-s16/inqubu-global-statistics-api/)
   - [Google map API](https://developers.google.com/maps/documentation/javascript/)
   - [Search many other kinds of API](https://www.programmableweb.com/)
+  - Refer to in-class material for Google Image search (w/ source code)
   
 **for those APIs require OAuth, you need [Node.js](https://nodejs.org/en/). See what is Node [here](https://www.youtube.com/watch?v=RF5_MPSNAtU&index=1&list=PLRqwX-V7Uu6atTSxoRiVnSuOn6JHnq2yV) for 15.1 and 15.2**
  
