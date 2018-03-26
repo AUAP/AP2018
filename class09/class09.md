@@ -67,12 +67,13 @@ getImg = data.items[0].pagemap.cse_thumbnail[0].src; // this is the thumbnail
 
 7. I want to search for other keywords or other image format.
 - Change your query on line 10, right now the keywords is warhol flowers. The program won't take space between text, please use '+' sign to join the text. 
-- look at [here](https://developers.google.com/custom-search/json-api/v1/reference/cse/list#parameters) to change different parameters, such as image size or add imgColorType etc. 
-- The whole URL is as below, and there is a total of 100 free requests and each parameter is seperated by a '&' sign 
-https://www.googleapis.com/customsearch/v1?key=YOURKEY&cx=YOURID&imgSize=small&q=warhol+flowers
 ```
 var query = "warhol+flowers"; //search keywords
 ```
+- look at [here](https://developers.google.com/custom-search/json-api/v1/reference/cse/list#parameters) to change different parameters, such as image size or add imgColorType etc. 
+- The whole URL is as below, and there is a total of 100 free requests and each parameter is seperated by a '&' sign 
+https://www.googleapis.com/customsearch/v1?key=YOURKEY&cx=YOURID&imgSize=small&q=warhol+flowers
+
 
 8. If you want to work with the advanced code, you need:
 - uncomment line 35-42
