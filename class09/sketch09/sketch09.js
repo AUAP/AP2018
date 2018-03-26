@@ -42,7 +42,7 @@ function draw() {
 			*/
 		});
 	}catch(error) {
-  	console.error(error);
+  		console.error(error);
 	}
 }
 
