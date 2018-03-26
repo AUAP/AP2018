@@ -32,7 +32,7 @@ function draw() {
 	try {	//takes time to load the external image
 		loadImage(getImg, function(img) {
 		image(img,0,0);
-			/*
+			/* //try to uncomment this block if you manage to get the image. 
 			img.loadPixels();
 			img_x = floor(random(0,img.width-1));
 			img_y = floor(random(0,img.height-1));
