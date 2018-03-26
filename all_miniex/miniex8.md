@@ -16,7 +16,7 @@
   - [Google map API](https://developers.google.com/maps/documentation/javascript/)
   - [Search many other kinds of API](https://www.programmableweb.com/)
   
->> for those APIs require OAuth, you need [Node.js](https://nodejs.org/en/). See what is Node [here](https://www.youtube.com/watch?v=RF5_MPSNAtU&index=1&list=PLRqwX-V7Uu6atTSxoRiVnSuOn6JHnq2yV) for 15.1 and 15.2
+**for those APIs require OAuth, you need [Node.js](https://nodejs.org/en/). See what is Node [here](https://www.youtube.com/watch?v=RF5_MPSNAtU&index=1&list=PLRqwX-V7Uu6atTSxoRiVnSuOn6JHnq2yV) for 15.1 and 15.2**
  
 **Tasks:**
 1. First, take a deep breath. This mini exercise may require sometimes to do it. This is a group mini exercise. Form a group of 2 (max 3) based on your study group (best- different from last time).
