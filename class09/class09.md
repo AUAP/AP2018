@@ -111,7 +111,7 @@ B. **Runtime errors**: It happens during the execution of a program and it can c
 TypeError: str is undefined
 ReferenceError: hello is not defined
 ```  
-B. **Logical errors**: Arguably the hardest error to locate as it deals with logics but not syntax. The code may still run perfectly but the result is not what you expected. 
+C. **Logical errors**: Arguably the hardest error to locate as it deals with logics but not syntax. The code may still run perfectly but the result is not what you expected. 
   - try to identify where errors might occur, down to block of code or line of code
   - try to identify type errors
   - Use [Try/Catch/Finally/Throw an exception](https://www.w3schools.com/js/js_errors.asp) 
