@@ -32,14 +32,14 @@ function draw() {
 	try {	//takes time to load the external image
 		loadImage(getImg, function(img) {
 		image(img,0,0);
-			/* //try to uncomment this block if you manage to get the image. 
-			img.loadPixels();
-			img_x = floor(random(0,img.width-1));
-			img_y = floor(random(0,img.height-1));
-			loc = (img_x+img_y * img.width)*4;		//which pixel of the image (and each pixel array holds red, green, blue and alpha values)
-			stroke(color(img.pixels[loc],img.pixels[loc + 1], img.pixels[loc+2]));  //rgb values
-			line(img_x,0,img_x,height);
-			*/
+		/* //try to uncomment this block if you manage to get the image. 
+		img.loadPixels();
+		img_x = floor(random(0,img.width-1));
+		img_y = floor(random(0,img.height-1));
+		loc = (img_x+img_y * img.width)*4;//which pixel of the image (and each pixel array holds red, green, blue and alpha values)
+		stroke(color(img.pixels[loc],img.pixels[loc + 1], img.pixels[loc+2]));  //rgb values
+		line(img_x,0,img_x,height);
+		*/
 		});
 	}catch(error) {
   		console.error(error);
@@ -47,8 +47,8 @@ function draw() {
 }
 
 function fetchImage() {
-		request = url + "key=" + apikey + "&cx=" + engineID + "&imgSize=" + imgSize + "&q=" + query;
-		console.log(request);
-		loadJSON(request, gotData); //this is the key syntax and line of code to make a query request and get a query response
+	request = url + "key=" + apikey + "&cx=" + engineID + "&imgSize=" + imgSize + "&q=" + query;
+	console.log(request);
+	loadJSON(request, gotData); //this is the key syntax and line of code to make a query request and get a query response
 
 }
