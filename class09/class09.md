@@ -48,6 +48,7 @@ var apikey = "INPUT YOUR OWN KEY";
 var engineID = "INPUT YOUR OWN";
 ```
 ![image5](https://github.com/AUAP/AP2018/blob/master/class09/image5.png)
+
 -Get the search engine ID (CX) [here](https://cse.google.com/all)
 -Add search engine -> Put something in “Sites to search” (e.g http://www.google.com) and “Name of the search engine” (e.g miniEx9) -> Click ‘create’; “Details” with ‘Search Engine ID’ 
 - Copy the ID (that is the cx) and paste on your program > line 8. 
