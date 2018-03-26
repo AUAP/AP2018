@@ -19,8 +19,8 @@ Agenda:
 1. Understand the Google image search API workflow
 2. Understand the API specification
 3. Understand the corresponding returned JSON file format from Google image search API
-4. Able to get teh API key and search engine ID from Google
-5. Settings at the Google image search console
+4. Able to get the API key and search engine ID from Google
+5. Configure the settings at the Google image search console
 - Advanced: Uncomment line 35-42, where you will get the effects in which the image color of the image will be picked up and presented as animated lines.
 ```javascript
 /*
