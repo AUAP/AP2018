@@ -8,3 +8,9 @@ Agenda:
 - Guest lecture: Don't Erase Me by Tilde Lageri Damborg and Tobias Stenberg Christensen
 - Tasks for next week
 
+#### NET ART GENERATOR by Cornelia Sollfrank, ver5b updated by Winnie Soon
+[Artwork](http://nag.iap.de/)
+
+
+#### Google API walkthrough
+![image](https://github.com/AUAP/AP2018/blob/master/class09/flowers.gif)
