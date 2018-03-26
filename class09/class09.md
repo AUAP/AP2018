@@ -33,8 +33,8 @@ line(img_x,0,img_x,height);
 */
 ```
 
-#### Step by Step
-1. Create a p5 sketch, then copy and paste the [source code](https://github.com/AUAP/AP2018/blob/master/class09/sketch09/sketch09.js) to your code editor
+#### Step by Step:
+1. Create a p5 sketch, then copy and paste the [source code](https://github.com/AUAP/AP2018/blob/master/class09/sketch09/sketch09.js) to your code editor. (you need to have a html file and the p5 library.
 2. The objective is to replace the the API on line 7
 ```
 var apikey = "INPUT YOUR OWN KEY"; 
