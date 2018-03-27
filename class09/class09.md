@@ -67,7 +67,9 @@ function fetchImage() {
 	loadJSON(request, gotData); //this is the key syntax and line of code to make a query request and get a query response
 }
 
-getImg = data.items[0].pagemap.cse_thumbnail[0].src; // this is the thumbnail
+function gotData(data) {   //a callback needs an argument
+	getImg = data.items[0].pagemap.cse_thumbnail[0].src;  // this is the thumbnail
+}
 ```
 ![image6](https://github.com/AUAP/AP2018/blob/master/class09/image6.png)
 
