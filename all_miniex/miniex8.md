@@ -38,7 +38,7 @@
 - A title of your program
 - A URL link to your program and run on a browser, see: https://rawgit.com/.
 - What is the program about? which API have you used and why? 
-- (individual)Can you describe and reflect your process of making this mini exercise in terms of acquiring, processing, using and representing data?
+- (individual)Can you describe and reflect your process of making this mini exercise in terms of acquiring, processing, using and representing data? How much do you understand this provided data? How do platform providers sort the data and give you the selected data?  
 - (individual)Try to formulate a question in relation to web APIs or querying processes that you want to investigate further when you have more time.  
 
 6. Provide peer-feedback to 2 of your classmates on their works by creating "issues" on his/her github corresponding repository. Write with the issue title "Feedback on mini_ex(?) by (YOUR FULL NAME)"
