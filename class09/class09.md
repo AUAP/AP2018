@@ -25,14 +25,12 @@ Agenda:
 5. Configure the settings at the Google image search console
 - Advanced: Uncomment line 35-42, where you will get the effects in which the image color of the image will be picked up and presented as animated lines.
 ```javascript
-/*
 img.loadPixels();
-img_x = floor(random(0,img.width-1));
-img_y = floor(random(0,img.height-1));
-loc = (img_x+img_y * img.width)*4;		//which pixel of the image (and each pixel array holds red, green, blue and alpha values)
+img_x = floor(random(0,img.width));
+img_y = floor(random(0,img.height));
+loc = (img_x+img_y * img.width)*4; //which pixel of the image (and each pixel array holds red, green, blue and alpha values)
 stroke(color(img.pixels[loc],img.pixels[loc + 1], img.pixels[loc+2]));
 line(img_x,0,img_x,height);
-*/
 ```
 
 #### Step by Step:
