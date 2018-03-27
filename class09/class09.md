@@ -28,7 +28,7 @@ Agenda:
 img.loadPixels();
 img_x = floor(random(0,img.width));
 img_y = floor(random(0,img.height));
-loc = (img_x+img_y * img.width)*4; //which pixel of the image (and each pixel array holds red, green, blue and alpha values)
+loc = (img_x+img_y * img.width)*4; // formular to locate the no: x+y*width, indicating which pixel of the image in a grid (and each pixel array holds red, green, blue and alpha values) can see more here: https://www.youtube.com/watch?v=nMUMZ5YRxHI
 stroke(color(img.pixels[loc],img.pixels[loc + 1], img.pixels[loc+2]));
 line(img_x,0,img_x,height);
 ```
@@ -96,7 +96,7 @@ try {	//takes time to load the external image
 	img.loadPixels();
 	img_x = floor(random(0,img.width));
 	img_y = floor(random(0,img.height));
-	loc = (img_x+img_y * img.width)*4; //which pixel of the image (and each pixel array holds red, green, blue and alpha values), can see more here: https://www.youtube.com/watch?v=nMUMZ5YRxHI
+	loc = (img_x+img_y * img.width)*4; // formular to locate the no: x+y*width, indicating which pixel of the image in a grid (and each pixel array holds red, green, blue and alpha values) can see more here: https://www.youtube.com/watch?v=nMUMZ5YRxHI
 	stroke(color(img.pixels[loc],img.pixels[loc + 1], img.pixels[loc+2])); //rgb values
 	line(img_x,0,img_x,height);		
 	});
