@@ -67,6 +67,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 ---
 #### Class 02 | Week 7 | 13 Feb 2018: Having fun with basics
 ##### Wed tutorial session and Fri shutup and code session.
+- Artwork showcase: Inter_fight(2015) by Cesar Escudero Andaluz
 - **Class structure:**
   - basic structure: HTML, CSS, JS
   - Coordinate system
@@ -85,6 +86,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 ---
 #### Class 03 | Week 8 | 20 Feb 2018: Temporality: Infinite loops
 ##### Wed tutorial session and Fri shutup and code session.
+- Artwork showcase: Asterisk Painting by John P. Bell, ported to p5.js and modified by Winnie Soon
 - **Class structure:**
   - Arrays
   - Conditional Statements
@@ -105,6 +107,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 ---
 #### Class 04 | Week 9 | 27 Feb 2018: Data capture
 ##### Wed tutorial session and Fri shutup and code session.
+- Artwork showcase: How We Act Together by Lauren McCarthy and Kyle McDonald
 - **Class structure:**
   - Interacting with captured data: Mouse, Keyboard, Audio, Web Camera
   - Capturing and Tracking
@@ -126,6 +129,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 ---
 #### Class 05 | Week 10 | 6 Mar 2018: Object Orientation
 ##### Wed tutorial session and Fri shutup and code session.
+- Artwork showcase: ToFu Go by Francis Lam
 - **Class structure:**
   - Objects, Behaviors and Arguments
   - Design/Artwork example: [ToFu Go](http://tofu-go.com/) by Francis Lam 
@@ -146,6 +150,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   ---
 #### Class 06 | Week 11 | 13 Mar 2018: Generativity
 ##### Wed tutorial session and NO Fri shutup and code session.
+- Artwork showcase: A House of Dust (a simulation of a 1967 poem by Alison Knowles and James Tenney) by Zach Whalen
 - **Class structure:**
   - Randomness, loops and rules
   - In-class ex: 10 print
@@ -169,6 +174,8 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
  ---
  #### Class 07 | Week 12 | 20 Mar 2018: Language Plus Code
 ##### Wed tutorial session and NO Fri shutup and code session.
+
+- Artwork showcase: Vocable Code by Winnie Soon
 - **Class structure:**
   - Speech/Voice/Performativity
   - [Introduce the final code project](https://github.com/AUAP/AP2018_Submission/blob/master/Final_Project/Readme.md)
@@ -197,6 +204,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 ---
 #### Class 09 | Week 14 | 3 Apr 2018: Queries and APIs
 ##### Wed tutorial session and NO Fri shutup and code session.
+- Artwork showcase: Net Art Generator by Cornelia Sollfrank, updated by Winnie Soon
 - **Class structure:**
   - API
   - In-class ex: Walkthrough Google API
