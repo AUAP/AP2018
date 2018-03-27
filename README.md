@@ -257,6 +257,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - What is node.js? 
   - Experiment 1 or 2 npm (package manager) and walkthrough with the class? 
 - **Suggested reading/video**
+  - Dobson, James. E. ["Can An Algorithm Be Disturbed?: Machine Learning, Intrinsic Criticism, and the Digital Humanities."](https://pdfs.semanticscholar.org/987a/c2ba1da176d52036023f7ef05f47c6366d29.pdf) College Literature, vol. 42 no. 4, 2015, pp. 543-564. Project MUSE
   - [ConvNetJS: Deep Learning in your browser](https://cs.stanford.edu/people/karpathy/convnetjs/)
   - [p5ML.js](https://itpnyu.github.io/p5-deeplearn-js/)
   - [20 mins video - A Return to Machine Learning by Kyle McDonald](https://www.youtube.com/watch?v=POrPIABj2MI)
