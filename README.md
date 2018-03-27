@@ -261,7 +261,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 - **Suggested reading/video**
   - Dobson, James. E. ["Can An Algorithm Be Disturbed?: Machine Learning, Intrinsic Criticism, and the Digital Humanities."](https://pdfs.semanticscholar.org/987a/c2ba1da176d52036023f7ef05f47c6366d29.pdf) College Literature, vol. 42 no. 4, 2015, pp. 543-564. Project MUSE
   - [ConvNetJS: Deep Learning in your browser](https://cs.stanford.edu/people/karpathy/convnetjs/)
-  - [p5ML.js](https://itpnyu.github.io/p5-deeplearn-js/)
+  - [ml5.js](https://github.com/ml5js/ml5-library)
   - [20 mins video - A Return to Machine Learning by Kyle McDonald](https://www.youtube.com/watch?v=POrPIABj2MI)
 - **Weekly mini ex11: due week 17, Sun night | Draft of synopsis**
   - check mini_ex folder > mini_ex11.md
