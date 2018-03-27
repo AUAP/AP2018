@@ -236,9 +236,10 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - [18 mins video: Algorithms in BBC](https://www.youtube.com/watch?v=gOKVwRIyWdg) and full ver (optional) is [here](https://www.youtube.com/watch?v=T1os88EvPc4&t=0s)
   - [Flow chart symbols by Robert L. Oakman](http://www.wiley.com/college/busin/icmis/oakman/outline/chap05/slides/symbols.htm)
   - [Flow chart examples by Richa](https://blog.udemy.com/flowchart-examples/)
-  - [Multiple js Files - video by Daniel Shiffman](https://www.youtube.com/watch?v=Yk18ZKvXBj4)
+  - Bhattarai, Pratistha. [Algorithmic Value: Cultural Encoding, Textuality, and the Myth of “Source Code”](http://catalystjournal.org/ojs/index.php/catalyst/article/view/125/html_4), *Catalyst: Feminism, theory, technoscience*, 3:1, 2017. 
 - **Suggested reading**
   - Ed Finn, “What is an Algorithm,” in What Algorithms Want, MIT Press, 2017, pp. 15-56.
+  - [Multiple js Files - video by Daniel Shiffman](https://www.youtube.com/watch?v=Yk18ZKvXBj4)
 - **Peer-tutoring: Group 7 / Respondents: Group 8, Topic: Your coding challenge**
   - Feel free to suggest your own coding challenge
 - **Peer-tutoring: Group 8 / Respondents: Group 9, Topic: Your coding challenge**
