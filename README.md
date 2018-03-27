@@ -204,7 +204,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 ---
 #### Class 09 | Week 14 | 3 Apr 2018: Queries and APIs
 ##### Wed tutorial session and NO Fri shutup and code session.
-- Artwork showcase: Net Art Generator by Cornelia Sollfrank, updated by Winnie Soon
+- Artwork showcase: Net Art Generator by Cornelia Sollfrank
 - **Class structure:**
   - API
   - In-class ex: Walkthrough Google API
