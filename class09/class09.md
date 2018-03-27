@@ -106,7 +106,7 @@ try {	//takes time to load the external image
 ```
 
 9. Checking out different errors:
-At this stage, your program will be more complex. You need to develop a way to identify errors. The error is from your own writing of the program, or error from parsing the data, or error from Google. Is it syntactic  FOr example, if you encounter error 403 in your console, this likely means that Google has barred your API as the requests exceed the 100 times. 
+At this stage, your program will be more complex. You need to develop a way to understand, identify and locate errors. Is the error from your own writing of the program, or error from parsing the data, or error from Google? Are they minor errors or critical errors (that stop your program from running)? Are they belong to syntactic, runtime or logical errors? (see below) For example, if you encounter error 403 in your console, this likely means that Google has barred your API as the requests exceed the 100 times. 
 
 In a broad sense, errors can be categorized in three types:
 
