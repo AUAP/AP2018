@@ -17,7 +17,7 @@ Agenda:
 
 #### Google API walkthrough- in-class ex
 ![image](https://github.com/AUAP/AP2018/blob/master/class09/flowers.gif)
-- **Basic: The sample code is about getting a static image from Google image search API (via parsing JSON), and then display it on a screen, you need to get the key ID and Engine ID so that the program can run and fetch image on the fly**. This requires you to:
+- **Basic: The sample code is about getting a static image from Google image search API (via parsing JSON), and then display it on a screen, you need to get the key ID and Engine ID so that the program can run and fetch a networked image on the fly**. This requires you to:
 1. Understand the Google image search API workflow
 2. Understand the API specification
 3. Understand the corresponding returned JSON file format from Google image search API
