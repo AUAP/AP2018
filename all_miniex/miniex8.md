@@ -25,7 +25,8 @@
 2. Make sure you have read the text by Critical Software Thing and Albright Jonathan: 
   - Critical Software Thing. Executing. Draft. 2017. (check blackboard)
   - Albright, Jonathan. "[The Graph API: Key Points in the Facebook and Cambridge Analytica Debacle](https://medium.com/tow-center/the-graph-api-key-points-in-the-facebook-and-cambridge-analytica-debacle-b69fe692d747)". Medium, 2018. (check out the recent hot topic around Cambridge Analytica online)
-3. This is a relatively complex exercise that requires you to:
+3. This is a relatively complex exercise that requires you to
+  - Design a program that utilizes at least one web API
   - Source for a Web API
   - Understand what are the available data: the data file format and API specification
   - Decide which data fields you want to choose to explore 
