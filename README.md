@@ -215,7 +215,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - What might be the related syntax when we have to parse data?
 - **Read/Watch before class:** 
   - [p5.js video tutorial: working with data by Daniel Shiffman](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r)(watch 10.1-10.10)
-  - Critical Software Thing. Executing. Draft. 2017. (check blackboard) 
+  - Critical Software Thing. "Executing". Nanna Thylstrup, Daniela Agostinho, Annie Ring, Catherine D’Ignazio and Kristin Veel, eds.,Uncertain Archives, (forthcoming). (check blackboard) 
   - Albright, Jonathan. "[The Graph API: Key Points in the Facebook and Cambridge Analytica Debacle](https://medium.com/tow-center/the-graph-api-key-points-in-the-facebook-and-cambridge-analytica-debacle-b69fe692d747)". Medium, 2018. (check out the recent hot topic around Cambridge Analytica online)
 - **Suggested reading/video**
   - Kirschenbaum, Matthew G. Mechanisms: New Media and the Forensic Imagination, 2007, 25-71. (in blackboard)
