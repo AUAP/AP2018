@@ -26,12 +26,12 @@
   - Critical Software Thing. Executing. Draft. 2017. (check blackboard)
   - Albright, Jonathan. "[The Graph API: Key Points in the Facebook and Cambridge Analytica Debacle](https://medium.com/tow-center/the-graph-api-key-points-in-the-facebook-and-cambridge-analytica-debacle-b69fe692d747)". Medium, 2018. (check out the recent hot topic around Cambridge Analytica online)
 3. This is a relatively complex exercise that requires you to
-  - Design a program that utilizes at least one web API
-  - Source for a Web API
-  - Understand what are the available data: the data file format and API specification
-  - Decide which data fields you want to choose to explore 
-  - Utilize the web API and the coresponding data in your suggested program
-  - Please reserve more time if you are getting data from other unfamiliar platforms, as the registration process can take a long time to do so. 
+  - Design a program that utilizes at least one web API (think about what you want to say conceptually)
+    -  Source for a Web API
+    - Understand what are the available data: the data file format and API specification
+    - Decide which data fields you want to choose to explore 
+    - Utilize the web API and the coresponding data in your suggested program
+    - Please reserve more time if you are getting data from other unfamiliar platforms, as the registration process can take a long time to do so. 
 4. Upload your program to each individual Github account under a folder called **mini_ex8**. (Make sure your program can be run on a web browser, and if it requires downloading other library or other devices, please specify in your readme file) 
 5. Create a readme file together (README.md) and upload to the same mini_ex8 directory (see [this](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for editing the README). The readme file should contain the followings:
 - Who are you collaborate with?
