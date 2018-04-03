@@ -267,7 +267,10 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - check mini_ex folder > mini_ex11.md
 ---
 #### Class 12 | Week 16 | 20 Apr 2018 (Fri), 14.00-16.00 @ The small Auditorium, Building 5510, INCUBA Science Park
-- Guest lecture by Anders Visti. Details will follow soon.
+- Guest lecture by Anders Visti. 
+- Title: Programmable matters
+- Abstract: This lecture is a presentation of recent works by visual artist and coder Anders Visti, as well as an insight into the processes that inform these works. The lecture is focused on how to think about and work with software and computers in relation to artistic production.
+- Bio: Anders Visti is a visual artist working with code. Founder and co-editor of the publishing house * [asterisk] from 2002-12. Founder and editor of the printed web publication ‡ DobbeltDagger and initiator of !=null, a public forum for artists, researchers, developers and hackers using contemporary technology for creative expression and aesthetic inquiry. Currently he is teaching basic coding skills and foundational computing at Funen Art Academy and Jutland Art Academy in Denmark.
 ---
 #### Class 13 | Week 17 | 24 Apr 2018: Group supervision
 ##### Wed tutorial session and NO Fri shutup and code session.
