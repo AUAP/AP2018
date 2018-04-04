@@ -4,8 +4,7 @@ Agenda:
 - Artwork showcase: Google will eat itself (2005) by UBERMORGEN, Alessandro Ludovico and Paolo Cirio 
 - Peer-Tutoring (group 7)/Respondents (group 8): Your coding challenge
 - Peer-Tutoring (group 8)/Respondents (group 9): Your coding challenge
-- Flow Chart
-- Algorithms
+- Flow Chart & Algorithms
 - Discussion of final project
 - Tasks for next week
 
@@ -75,4 +74,11 @@ A flow chart shows a breakdown of tasks representing procedures, step-by-step pr
 
 #### Example:
 Vocable Code 
+
 ![image5](https://github.com/siusoon/VocableCode/blob/master/Flow_Chart_of_Vocable%20Code.jpg)
+
+##### Tasks for next week
+- [miniEx9](https://github.com/AUAP/AP2018/blob/master/all_miniex/mini_ex9.md), Individual and Group work: Flow Charts
+- Peer-tutoring: Group 9 / Respondents: Group 3, Topic: node.js
+  - What is node.js?
+  - Experiment 1 or 2 npm (package manager) and walkthrough with the class?
