@@ -7,14 +7,14 @@
 
 **Tasks:**
 1. This mini exercise is divided into two parts. First is individual and second is a group work (your whole study group)
-2. For the individual work:
+2. For the **individual** work:
   - Look at your previous mini exercises and select the most technically complex one
   - Draw an individual flow chart to present the program (Pay attention to: which items you select to present through a flow chart)
   - In the readme file:
     - Attach the flowchart image
     - You need to have a hyperlink that links to your chosen mini_ex folder. 
     - What is the difficulty in drawing the flow chart? 
-3. For the group work:
+3. For the **group** work:
   - Get together as a study group and brainstrom the forthcoming program for the final project 
   - In the readme file:
     - Present two different ideas with two different flow charts (it is important to think about the balance between simplicity and complexity. How can we get a sense of what's your program about?)
