@@ -22,5 +22,9 @@ GWEI - Google Will Eat Itself is to show-case and unveil a total monopoly of inf
 
 ![image3](http://www.gwei.org/img/GWEI_Johannesburg1.jpg)
 ![image1](http://www.gwei.org/img/diag_gwei_attack.gif)
-![image2](http://www.gwei.org/img/GWEI_SYSTEM.gif)
 
+More different flowcharts [here](http://www.gwei.org/pages/diagram/diagram.html) 
+
+#### Discussion
+- Find out how GWEI works
+- 
