@@ -221,6 +221,8 @@ object depends on class as "the object could not exist without the class that it
 - can link race and oo through the text by Tara McPherson: U.S. Operating Systems at Mid-Century -> also her article critiques the idea of modularity and fragmentation/partitions/divides + separates object from context, cause from effect. (logics of the lenticular)
   - e.g race and identity politics in games 
   - p.34: "We must develop common languges that link the study of code and culture"  (McPherson, 2012)
+ - Find a good text: The obscure Objects of Object Orientation by Matthew Fuller and Andrew Goffey 
+ 
 
 
 
