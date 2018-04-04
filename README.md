@@ -233,10 +233,8 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
     - Flow chart and Algorithms
     - Discussion of final project
 - **Read/watch before class**
-  - [4 mins video: Algorithms in pseudocode and flow diagrams](https://www.youtube.com/watch?v=XDWw4Ltfy5w)
   - [18 mins video: Algorithms in BBC](https://www.youtube.com/watch?v=gOKVwRIyWdg) and full ver (optional) is [here](https://www.youtube.com/watch?v=T1os88EvPc4&t=0s)
-  - [Flow chart symbols by Robert L. Oakman](http://www.wiley.com/college/busin/icmis/oakman/outline/chap05/slides/symbols.htm)
-  - [Flow chart examples by Richa](https://blog.udemy.com/flowchart-examples/)
+  - [4 mins video: Algorithms in pseudocode and flow diagrams](https://www.youtube.com/watch?v=XDWw4Ltfy5w)
   - Ed Finn, “What is an Algorithm,” in What Algorithms Want, MIT Press, 2017, pp. 15-56. (in blackboard - take some time to read it)
 - **Suggested reading**
   - [Multiple js Files - video by Daniel Shiffman](https://www.youtube.com/watch?v=Yk18ZKvXBj4)
