@@ -42,7 +42,7 @@ From Ed Finn:
 **Cultural perspective (p. 15-16, 47)**: 
 - Algorithms performs many other kinds of cultural work (e.g suggesting potential mates, books and booking vocations)
 - Algorithms function as culture machines
-- By learning to interpret the container, the inputs and outputs, the seams of implementation, we can begin to develop a way of reading algorithms as culture machines taht operate in the gap between code and culture. 
+- By learning to interpret the container, the inputs and outputs, the seams of implementation, we can begin to develop a way of reading algorithms as culture machines that operate in the gap between code and culture. 
 - The most important aspect of an algorithmic system is not the surface material it presents to the world at any particular moment [...] but rather the system of rules and agents that constantly generate and manipulate that surface material.
 
 #### Flow Chart? 
