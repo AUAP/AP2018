@@ -208,6 +208,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 - **Class structure:**
   - API
   - In-class ex: Walkthrough Google API
+  - Different types of errors
   - Guest lecture: Don't Erase Me by Tilde Lageri Damborg and Tobias Stenberg Christensen
 - **Peer-tutoring: Group 6 / Respondents: Group 7, Topic: Parsing**
   - What is parsing? 
