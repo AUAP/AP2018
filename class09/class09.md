@@ -35,7 +35,7 @@ line(img_x,0,img_x,height);
 
 #### Step by Step:
 1. [Basic] Create a p5 sketch, then copy and paste the [source code](https://github.com/AUAP/AP2018/blob/master/class09/sketch09/sketch09.js) to your code editor. (you need to have a html file and the p5 library.
-2. [Basic] The objective is to replace the the API on line 7
+2. [Basic] The objective is to replace the API KEY with your own on line 7
 ```javascript
 var apikey = "INPUT YOUR OWN KEY"; 
 ```
@@ -73,7 +73,7 @@ function gotData(data) {   //a callback needs an argument
 ```
 ![image6](https://github.com/AUAP/AP2018/blob/master/class09/image6.png)
 
-7. [Basic] I want to search for other keywords or other image format.
+7. [Basic] What if I want to search for other keywords or other image format?
 - Change your query on line 10, right now the keywords is warhol flowers. The program won't take space between text, please use '+' sign to join the text. 
 ```javascript
 var query = "warhol+flowers"; //search keywords
@@ -81,7 +81,6 @@ var query = "warhol+flowers"; //search keywords
 - look at [here](https://developers.google.com/custom-search/json-api/v1/reference/cse/list#parameters) to change different parameters, such as image size or add imgColorType etc. 
 - The whole URL is as below, and there is a total of 100 free requests and each parameter is seperated by a '&' sign 
 https://www.googleapis.com/customsearch/v1?key=YOURKEY&cx=YOURID&imgSize=small&q=warhol+flowers
-
 
 8. [Advanced] If you want to work with the advanced code, you need:
 - uncomment line 35-42
@@ -107,7 +106,7 @@ try {	//takes time to load the external image
 ```
 
 9. Checking out different errors:
-At this stage, your program will be more complex. You need to develop a way to understand, identify and locate errors. Is the error from your own writing of the program, or error from parsing the data, or error from Google? Are they minor errors or critical errors (that stop your program from running)? Are they belong to syntactic, runtime or logical errors? (see below) For example, if you encounter error 403 in your console, this likely means that Google has barred your API as the requests exceed the 100 times. 
+At this stage, you have better programming skills and your design program will be more complex. You need to develop a way to understand, identify and locate errors. Is the error from your own writing of the program, or error from parsing the data, or error from Google? Are they minor errors or critical errors (that stop your program from running)? Are they belong to syntactic, runtime or logical errors? (see below) For example, if you encounter error 403 in your console, this likely means that Google has barred your API as the requests exceed the 100 times. 
 
 In a broad sense, errors can be categorized in three types:
 
