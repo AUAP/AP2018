@@ -1,14 +1,16 @@
 Messy notes of class10 - Algorithms
 
+announcement: Guest lecture on 20/Apr (Fri)
+
 Agenda:
 - Artwork showcase: Google will eat itself (2005) by UBERMORGEN, Alessandro Ludovico and Paolo Cirio 
 - Peer-Tutoring (group 7)/Respondents (group 8): Your coding challenge
 - Peer-Tutoring (group 8)/Respondents (group 9): Your coding challenge
 - Flow Chart & Algorithms
-- Discussion of final project
 - Tasks for next week
+- Discussion of final project
 
-##### Artwork showcase
+#### Artwork showcase
 [Google will eat itself](http://www.gwei.org/index.php) (2005) by UBERMORGEN, Alessandro Ludovico and Paolo Cirio 
 
 "One of Google's main revenue generators is the "Adsense" program: It places hundreds of thousands of little Google text-ads on websites around the world.
@@ -24,11 +26,11 @@ GWEI - Google Will Eat Itself is to show-case and unveil a total monopoly of inf
 
 More different flowcharts [here](http://www.gwei.org/pages/diagram/diagram.html) 
 
-#### Discussion
+##### Discussion
 - Find out how GWEI works
 - What's the role of flow charts here in their work? 
 
-##### What are algorithms? 
+#### What are algorithms? 
 ![image2](https://www.webopedia.com/imagesvr_ce/5326/algorithm.gif)
 
 From Ed Finn: 
@@ -43,7 +45,7 @@ From Ed Finn:
 - By learning to interpret the container, the inputs and outputs, the seams of implementation, we can begin to develop a way of reading algorithms as culture machines taht operate in the gap between code and culture. 
 - The most important aspect of an algorithmic system is not the surface material it presents to the world at any particular moment [...] but rather the system of rules and agents that constantly generate and manipulate that surface material.
 
-##### Flow Chart? 
+#### Flow Chart? 
 
 “[A flow chart] shows the constraints on the system, its system boundaries and the general flow of information around the system. It is a common means of understanding complex data flows around a system within computer science and software engineering…
 Flowcharts are very simple diagnostic and modeling structures that follow the logic of the program through a series of linear processes with decision gates, where a yes or no answer is expected, to guide the software to a certain resolution or output.”  (Berry 2011, pp. 113-114)
@@ -53,7 +55,7 @@ Practically: A flowchart is a diagram that shows the **breakdown of a task** or 
 ![image4](https://imgs.xkcd.com/comics/flow_charts.png)
 ![image5](https://wcs.smartdraw.com/flowchart/img/basic-symbols.jpg?bn=1510011109)
 
-#### in-class ex: draw a flow chart based on below code
+##### in-class ex: draw a flow chart based on below code
 ```javascript
 function setup() {
   createCanvas(windowWidth, windowheight);
@@ -72,13 +74,15 @@ Tools:
 
 A flow chart shows a breakdown of tasks representing procedures, step-by-step progression and algorithms. It is not a detailed flow chart that includes every possible computational steps but rather it demonstrates high-level processes for **visual understanding** that gives a general idea of how tasks are broken down. It is independent of any programming language as it **concerns procedures** but not coding syntax.
 
-#### Example:
+##### Example:
 Vocable Code 
 
 ![image5](https://github.com/siusoon/VocableCode/blob/master/Flow_Chart_of_Vocable%20Code.jpg)
 
-##### Tasks for next week
+#### Tasks for next week
 - [miniEx9](https://github.com/AUAP/AP2018/blob/master/all_miniex/mini_ex9.md), Individual and Group work: Flow Charts
 - Peer-tutoring: Group 9 / Respondents: Group 3, Topic: node.js
   - What is node.js?
   - Experiment 1 or 2 npm (package manager) and walkthrough with the class?
+
+##### Discussion for [final project](https://github.com/AUAP/AP2018_Submission/tree/master/Final_Project)
