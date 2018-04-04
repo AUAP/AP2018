@@ -70,3 +70,9 @@ Tools:
 ...
 
 [here](https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=forloop#R7VhRT9swEP41eZ2apEnbRyiFTdomJB4GjyZxEw%2FHFzkuTffrZ8dOE9cUEISITiuisj%2Bfz%2Bev3%2FnieOGyqK84KvMfkGLqBZO09sILLwjm8Ux%2BK2CngWg20UDGSaohvwNuyB9swNZsQ1JcWYYCgApS2mACjOFEWBjiHLa22RqovWqJMuwANwmiLvqLpCI324omHf4VkyxvV%2FYnZuQeJQ8Zhw0z63lBuG4%2BerhArS9jX%2BUohW1v0XDlhUsOIHSrqJeYKmpb2vS8yyOj%2B7g5ZuI1E9oZldi1e8eppMJ0gYscMmCIrjr0vNkfVh4mspeLgsqmL5tyUb67VfiXqO3eGbPfWIid%2BaXRRoCEOu%2FfAUrjQ8ejgji6pTZm2PDEWAVGJIhn2FhFezqlSjEUWAYjTTimSJBH2zsyesn2dh1nsmFoO0KhdvGI6MY4rWQYwuWVUilfxd82JwLflKgJfisTyGYRVaXW9JrUiuXzNaF0CRR44yhcR%2BpP4pXg8IB7I3Hz2ZP4iLnA9fM0ugSZCeHcSHRnp%2Ba2y4epgfJeKrTYexj1pw6lQ6r0Y5UYuUqMR1Ji5ND2jRFBEFV7la7lPyWVVOYE1urwzBFHicC8cti1uXtBr0OIbWqLbe6KzQ%2BeUFs8gNoWJyy22BXbbKxjb1CacE3ErYFV%2B84uIrf9AtONjU6u1uAI7MaOKJvtyGhyyWGWq%2B2gJO9nsReeye4lYaSSKXPp5nQOxf2mGiefw4Pi8VRCP1U%2B%2FEHqh3%2FCKT1zVTcfSXQzh7ZrTphoVIctqckKwjoYWAVUtaqEY8w%2BXTUJ4xHLiT8%2FYfG9V2lm6jVo2dTtM%2BHBaTA74FmL3czqqD7jHO16ZqUyqI6vE0X2OtPFweXnBXs%2Fft7e2YdtLxs64k4new5fJR1XOVegskx9MVwLOwU%2FWZJNR00y91H3JziUCMWZtW%2F7xsSA4YPrlYHkI3PGZDeRZKjKeq6oIgmiZ2agIGlKj93l7J9iCK4XU%2FtAax9aX7iMBQNQ3froUb1iqXukndbtNjhI%2FSB01ftR19sg%2FC%2FescTrvkm4w%2B5195%2FhOli8TdZv4Fp2u9eUuth1r4LD1V8%3D)
+
+A flow chart shows a breakdown of tasks representing procedures, step-by-step progression and algorithms. It is not a detailed flow chart that includes every possible computational steps but rather it demonstrates high-level processes for **visual understanding** that gives a general idea of how tasks are broken down. It is independent of any programming language as it **concerns procedures** but not coding syntax.
+
+#### Example:
+Vocable Code 
+![image5](https://github.com/siusoon/VocableCode/blob/master/Flow_Chart_of_Vocable%20Code.jpg)
