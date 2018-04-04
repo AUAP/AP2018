@@ -223,8 +223,8 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - Bucher, Taina, “Objects of intense feeling: The case of the Twitter API”, in Computational Culture: a journal of software studies. 2013. Web. 27 Nov. 2013. <http://computationalculture.net/article/objects-of-intense-feeling-the-case-of-the-twitter-api>
   - Winnie Soon, ”Executing Unpredictable Queries” in [Executing Liveness](http://siusoon.net/home/me/doc/soon_PhD_FINAL.pdf). An examination of the live dimension of code inter-actions in software (art) practice (PhD thesis), 2016, pp. 117-139 (excerpt - also in Software Studies assigned reading) 
   - [p5.js video: Twitter Bot Tutorial by Daniel Shiffman](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6atTSxoRiVnSuOn6JHnq2yV)
-- **Weekly mini ex9: due week 15, Monday night | Working with APIs** 
-  - check mini_ex folder > mini_ex9.md
+- **Weekly mini ex8: due week 15, Monday night | Working with APIs** 
+  - check mini_ex folder > mini_ex8.md
 ---
 #### Class 10 | Week 15 | 10 Apr 2018: Algorithms
 ##### Wed tutorial session and NO Fri shutup and code session
@@ -245,8 +245,8 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - Feel free to suggest your own coding challenge
 - **Peer-tutoring: Group 8 / Respondents: Group 9, Topic: Your coding challenge**
   - Feel free to suggest your own coding challenge
-- **Weekly mini ex10: due week 16, Monday night | Flow Chart** 
-  - check mini_ex folder > mini_ex10.md
+- **Weekly mini ex9: due week 16, Monday night | Flow Chart** 
+  - check mini_ex folder > mini_ex9.md
 ---
 #### Class 11 | Week 16 | 17 Apr 2018: Advanced topics: Machine Learning and Prediction
 ##### Wed tutorial session and NO Fri shutup and code session but with Fri Mandatory Guest Lecture
@@ -264,8 +264,8 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - [ConvNetJS: Deep Learning in your browser](https://cs.stanford.edu/people/karpathy/convnetjs/)
   - [ml5.js](https://github.com/ml5js/ml5-library)
   - [20 mins video - A Return to Machine Learning by Kyle McDonald](https://www.youtube.com/watch?v=POrPIABj2MI)
-- **Weekly mini ex11: due week 17, Sun night | Draft of synopsis**
-  - check mini_ex folder > mini_ex11.md
+- **Weekly mini ex10: due week 17, Sun night | Draft of synopsis**
+  - check mini_ex folder > mini_ex10.md
 ---
 #### Class 12 | Week 16 | 20 Apr 2018 (Fri), 14.00-16.00 @ The small Auditorium, Building 5510, INCUBA Science Park
 - Guest lecture by Anders Visti. 
