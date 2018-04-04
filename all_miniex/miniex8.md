@@ -1,4 +1,4 @@
-# Weekly mini ex7: due week 14, Monday night - Working with APIs
+# Weekly mini ex8: due week 14, Monday night - Working with APIs
 
 **Objectives:**
 1. To design and implement a program that utilizes web API(s). 
