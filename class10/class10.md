@@ -20,6 +20,7 @@ Google pays us monthly by check. Each time we collect enough money, we buy the n
 
 GWEI - Google Will Eat Itself is to show-case and unveil a total monopoly of information, a weakness of the new global advertisment system and the renaissance of the “new economic bubble" - reality is, Google is currently valued more than all Swiss Banks together (sic)."
 
+![image3](http://www.gwei.org/img/GWEI_Johannesburg1.jpg)
 ![image1](http://www.gwei.org/img/diag_gwei_attack.gif)
 ![image2](http://www.gwei.org/img/GWEI_SYSTEM.gif)
 
