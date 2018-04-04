@@ -133,5 +133,9 @@ C. **Logical errors**: Arguably the hardest error to locate as it deals with log
 	- Prepare a sample code/ex that help the class to understand it
 	- Or you may want to discuss any aspect of the code or suggest an approach to help solving problems.
 
-
+#### Afterclass thoughts
+- I think it is a nice timing and way to introduce try and catch errors/exceptions
+- Students use less time than I expected to work with api keys
+- Students like the step by step procedures, I am unsure if it only works in a classroom settings or it may also work in the coming project. To what extend a video is useful vs step by step guide. 
+- It works really well with the guest lecture, three ways: work with different platform providerd (twitter in this case), and they are students meaning things are achievable, and how we could approach data critically. 
 
