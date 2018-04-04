@@ -237,9 +237,8 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - [18 mins video: Algorithms in BBC](https://www.youtube.com/watch?v=gOKVwRIyWdg) and full ver (optional) is [here](https://www.youtube.com/watch?v=T1os88EvPc4&t=0s)
   - [Flow chart symbols by Robert L. Oakman](http://www.wiley.com/college/busin/icmis/oakman/outline/chap05/slides/symbols.htm)
   - [Flow chart examples by Richa](https://blog.udemy.com/flowchart-examples/)
-  - Bhattarai, Pratistha. [Algorithmic Value: Cultural Encoding, Textuality, and the Myth of “Source Code”](http://catalystjournal.org/ojs/index.php/catalyst/article/view/125/html_4), *Catalyst: Feminism, theory, technoscience*, 3:1, 2017. 
-- **Suggested reading**
   - Ed Finn, “What is an Algorithm,” in What Algorithms Want, MIT Press, 2017, pp. 15-56.
+- **Suggested reading**
   - [Multiple js Files - video by Daniel Shiffman](https://www.youtube.com/watch?v=Yk18ZKvXBj4)
 - **Peer-tutoring: Group 7 / Respondents: Group 8, Topic: Your coding challenge**
   - Feel free to suggest your own coding challenge
@@ -259,6 +258,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - Experiment 1 or 2 npm (package manager) and walkthrough with the class? 
 - **Read/Watch before class**
   - [TED 19 mins video]: [From 1 to 100 pixels](https://www.youtube.com/watch?v=bfhcco9gS30&app=desktop) by Adam Harvey 
+  - Bhattarai, Pratistha. [Algorithmic Value: Cultural Encoding, Textuality, and the Myth of “Source Code”](http://catalystjournal.org/ojs/index.php/catalyst/article/view/125/html_4), *Catalyst: Feminism, theory, technoscience*, 3:1, 2017. 
 - **Suggested reading/video**
   - Dobson, James. E. ["Can An Algorithm Be Disturbed?: Machine Learning, Intrinsic Criticism, and the Digital Humanities."](https://pdfs.semanticscholar.org/987a/c2ba1da176d52036023f7ef05f47c6366d29.pdf) College Literature, vol. 42 no. 4, 2015, pp. 543-564. Project MUSE
   - [ConvNetJS: Deep Learning in your browser](https://cs.stanford.edu/people/karpathy/convnetjs/)
