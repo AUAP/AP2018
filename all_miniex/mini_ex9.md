@@ -4,6 +4,7 @@
 1. To acquire the ability to decompose/break down a computer program into definable parts
 2. To organize and structure a computer program through a flow chart
 3. To understand flowchart as a means for communication and planning 
+4. To understand the concept of algorithms from both computer science and cultural perspectives
 
 **Tasks:**
 1. This mini exercise is divided into two parts. First is individual and second is a group work (your whole study group)
