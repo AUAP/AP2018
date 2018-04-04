@@ -33,6 +33,10 @@ More different flowcharts [here](http://www.gwei.org/pages/diagram/diagram.html)
 #### What are algorithms? 
 ![image2](https://www.webopedia.com/imagesvr_ce/5326/algorithm.gif)
 
+![image4](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Diagram_for_the_computation_of_Bernoulli_numbers.jpg/1600px-Diagram_for_the_computation_of_Bernoulli_numbers.jpg)
+
+Bernoulli number ‘algorithm’, Ada Lovelace, 1843 (One of the world first algorithms) 
+
 From Ed Finn: 
 
 **Computer Science perspective (p. 17-18)**: 
