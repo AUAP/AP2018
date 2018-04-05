@@ -25,7 +25,7 @@ ref: https://twitter.com/mit_csail/status/916032004466122758
 Resource: [http://softwarestudies.projects.cavi.au.dk/index.php/Machine_Learning_Experiments](http://softwarestudies.projects.cavi.au.dk/index.php/Machine_Learning_Experiments)
 
 #### Introducing ML javascript related library
-- [Teachable machine](https://teachablemachine.withgoogle.com/)
+- [Teachable machine](https://teachablemachine.withgoogle.com/) (more focus on the training process)
 - [ml5js](https://github.com/ml5js)
   - image classification [link](https://rawgit.com/AUAP/AP2018/master/class11/sketch11_imageclassifier/index.html)
   
