@@ -10,9 +10,13 @@ Agenda:
 
 #### What is Machine Learning? 
 ![image3](https://github.com/AUAP/AP2018/blob/master/class11/ML1.png)
+
 ![image4](https://github.com/AUAP/AP2018/blob/master/class11/ML2.png)
+
 ![image5](https://github.com/AUAP/AP2018/blob/master/class11/ML3.png)
+
 ![image6](https://github.com/AUAP/AP2018/blob/master/class11/ML4.png)
+
 ![image7](https://github.com/AUAP/AP2018/blob/master/class11/ML5.png)
 
 Resource: [http://softwarestudies.projects.cavi.au.dk/index.php/Machine_Learning_Experiments](http://softwarestudies.projects.cavi.au.dk/index.php/Machine_Learning_Experiments)
