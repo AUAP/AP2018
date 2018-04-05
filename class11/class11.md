@@ -17,8 +17,10 @@ Resource: [http://softwarestudies.projects.cavi.au.dk/index.php/Machine_Learning
 - [Teachable machine](https://teachablemachine.withgoogle.com/)
 - [ml5js](https://github.com/ml5js)
   - image classification
+  
   ![image1](http://softwarestudies.projects.cavi.au.dk/images/thumb/c/c2/Ml5.png/628px-Ml5.png)
   - LSTM text generation
+  
   ![image2](http://softwarestudies.projects.cavi.au.dk/images/d/da/LSTMText.png)
 
 #### Task for this/next week:
