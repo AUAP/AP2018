@@ -27,10 +27,10 @@ Resource: [http://softwarestudies.projects.cavi.au.dk/index.php/Machine_Learning
 #### Introducing ML javascript related library
 - [Teachable machine](https://teachablemachine.withgoogle.com/) (more focus on the training process)
 - [ml5js](https://github.com/ml5js)
-  - image classification [link](https://rawgit.com/AUAP/AP2018/master/class11/sketch11_imageclassifier/index.html)
+  - image classification [link](https://rawgit.com/AUAP/AP2018/master/class11/sketch11_imageclassifier/index.html), it is a pre-trained model based on approximately 15 million images via [ImageNet](http://image-net.org/).
   
   ![image1](http://softwarestudies.projects.cavi.au.dk/images/thumb/c/c2/Ml5.png/628px-Ml5.png)
-  - LSTM text generation [link](https://rawgit.com/AUAP/AP2018/master/class11/sketch11_LSTMText/index.html)
+  - LSTM text generation [link](https://rawgit.com/AUAP/AP2018/master/class11/sketch11_LSTMText/index.html), it is also a pre-trained model based on a corpus of Ernest Hemingway.
   
   ![image2](http://softwarestudies.projects.cavi.au.dk/images/d/da/LSTMText.png)
   
