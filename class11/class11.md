@@ -19,7 +19,7 @@ Agenda:
 
 ![image7](https://github.com/AUAP/AP2018/blob/master/class11/ML5.png)
 
-<img src="https://pbs.twimg.com/media/DLZmGjIW0AA628B.jpg" width="500">
+<img src="https://pbs.twimg.com/media/DLZmGjIW0AA628B.jpg" width="550">
 
 ref: https://twitter.com/mit_csail/status/916032004466122758
 
