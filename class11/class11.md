@@ -27,13 +27,13 @@ Resource: [http://softwarestudies.projects.cavi.au.dk/index.php/Machine_Learning
 #### Introducing ML javascript related library
 - [Teachable machine](https://teachablemachine.withgoogle.com/)
 - [ml5js](https://github.com/ml5js)
-  - image classification
+  - image classification [link](https://rawgit.com/AUAP/AP2018/master/class11/sketch11_imageclassifier/index.html)
   
   ![image1](http://softwarestudies.projects.cavi.au.dk/images/thumb/c/c2/Ml5.png/628px-Ml5.png)
-  - LSTM text generation
+  - LSTM text generation [link](https://rawgit.com/AUAP/AP2018/master/class11/sketch11_LSTMText/index.html)
   
   ![image2](http://softwarestudies.projects.cavi.au.dk/images/d/da/LSTMText.png)
-
+  
 #### Task for this/next week:
 - Weekly [mini ex10](https://github.com/AUAP/AP2018/blob/master/all_miniex/mini_ex10.md): due week 17, Sun night | Draft of synopsis
 
