@@ -256,12 +256,10 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - Experiment 1 or 2 npm (package manager) and walkthrough with the class? 
 - **Read/Watch before class**
   - [TED 19 mins video]: [From 1 to 100 pixels](https://www.youtube.com/watch?v=bfhcco9gS30&app=desktop) by Adam Harvey 
-  - Bhattarai, Pratistha. [Algorithmic Value: Cultural Encoding, Textuality, and the Myth of “Source Code”](http://catalystjournal.org/ojs/index.php/catalyst/article/view/125/html_4), *Catalyst: Feminism, theory, technoscience*, 3:1, 2017. 
+  - Malevé, Nicolas. [Machine pedagogies](https://machineresearch.wordpress.com/2016/09/26/nicolas-maleve/). Machine Research, 2016.
 - **Suggested reading/video**
   - Dobson, James. E. ["Can An Algorithm Be Disturbed?: Machine Learning, Intrinsic Criticism, and the Digital Humanities."](https://pdfs.semanticscholar.org/987a/c2ba1da176d52036023f7ef05f47c6366d29.pdf) College Literature, vol. 42 no. 4, 2015, pp. 543-564. Project MUSE
-  - [ConvNetJS: Deep Learning in your browser](https://cs.stanford.edu/people/karpathy/convnetjs/)
   - [ml5.js](https://github.com/ml5js/ml5-library)
-  - [20 mins video - A Return to Machine Learning by Kyle McDonald](https://www.youtube.com/watch?v=POrPIABj2MI)
 - **Weekly mini ex10: due week 17, Sun night | Draft of synopsis**
   - check mini_ex folder > mini_ex10.md
 ---
