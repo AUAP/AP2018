@@ -9,6 +9,7 @@ Agenda:
 
 
 #### What is Machine Learning? 
+To be filled
 
 #### Introducing ML javascript related library
 - [Teachable machine](https://teachablemachine.withgoogle.com/)
