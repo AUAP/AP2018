@@ -37,6 +37,7 @@ Resource: [http://softwarestudies.projects.cavi.au.dk/index.php/Machine_Learning
 ##### Discussion
 - How could you relate your field and your life with Machine Learning?
 - What is learning in machine learning? 
+- What is training in machine learning?
   
 #### Task for this/next week:
 - Weekly [mini ex10](https://github.com/AUAP/AP2018/blob/master/all_miniex/mini_ex10.md): due week 17, Sun night | Draft of synopsis
