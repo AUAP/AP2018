@@ -256,7 +256,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - Experiment 1 or 2 npm (package manager) and walkthrough with the class? 
 - **Read/Watch before class**
   - [TED 19 mins video]: [From 1 to 100 pixels](https://www.youtube.com/watch?v=bfhcco9gS30&app=desktop) by Adam Harvey 
-  - Malevé, Nicolas. [Machine pedagogies](https://machineresearch.wordpress.com/2016/09/26/nicolas-maleve/). Machine Research, 2016.
+  - [A short text] Malevé, Nicolas. [Machine pedagogies](https://machineresearch.wordpress.com/2016/09/26/nicolas-maleve/). Machine Research, 2016.
 - **Suggested reading/video**
   - Dobson, James. E. ["Can An Algorithm Be Disturbed?: Machine Learning, Intrinsic Criticism, and the Digital Humanities."](https://pdfs.semanticscholar.org/987a/c2ba1da176d52036023f7ef05f47c6366d29.pdf) College Literature, vol. 42 no. 4, 2015, pp. 543-564. Project MUSE
   - [ml5.js](https://github.com/ml5js/ml5-library)
