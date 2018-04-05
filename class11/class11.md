@@ -36,6 +36,7 @@ Resource: [http://softwarestudies.projects.cavi.au.dk/index.php/Machine_Learning
   
 ##### Discussion
 - How could you relate your field and your life with Machine Learning?
+- How does the data effect the machine learning?
 - What is learning in machine learning? 
 - What is training in machine learning?
   
