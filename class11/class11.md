@@ -1,10 +1,10 @@
 Messy notes for Advanced topics: Machine Learning and Prediction
 
 Agenda:
+- Peer-tutoring: Group 9 / Respondents: Group 1, Topic: Node.js
 - What is Machine Learning?
 - Introducing ML javascript related library
 - Discussion on students' final project
-- Peer-tutoring: Group 9 / Respondents: Group 1, Topic: Node.js
 - Task for this/next week
 
 
