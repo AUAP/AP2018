@@ -20,6 +20,7 @@ Agenda:
 ![image7](https://github.com/AUAP/AP2018/blob/master/class11/ML5.png)
 
 ![image8](https://pbs.twimg.com/media/DLZmGjIW0AA628B.jpg)
+ref: https://twitter.com/mit_csail/status/916032004466122758
 
 Resource: [http://softwarestudies.projects.cavi.au.dk/index.php/Machine_Learning_Experiments](http://softwarestudies.projects.cavi.au.dk/index.php/Machine_Learning_Experiments)
 
