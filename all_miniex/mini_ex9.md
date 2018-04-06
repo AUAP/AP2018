@@ -11,7 +11,7 @@
 2. Make sure you have read the text by Ed Finn: 
 - Ed Finn, “What is an Algorithm,” in What Algorithms Want, MIT Press, 2017, pp. 15-56. (in blackboard - take some time to read it)
 3. For the **individual** work:
-  - Look at your previous mini exercises and select the most technically complex one
+  - Revisit your previous mini exercises and select the most technically complex one
   - Draw an individual flow chart to present the program (Pay attention to: which items you select to present through a flow chart)
   - In the readme file:
     - Attach the flowchart image
