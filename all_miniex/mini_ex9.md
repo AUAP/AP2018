@@ -16,7 +16,7 @@
   - In the readme file:
     - Attach the flowchart image
     - You need to have a hyperlink that links to your chosen mini_ex folder. 
-    - What is the difficulty in drawing the flow chart? 
+    - What may be the difficulty in drawing the flow chart? 
 4. For the **group** work:
   - Get together as a study group and brainstrom the forthcoming program for the final project 
   - In the readme file:
