@@ -64,7 +64,7 @@ Practically: A flowchart is a diagram that shows the **breakdown of a task** or 
 function setup() {
   createCanvas(windowWidth, windowheight);
   var sometext = ['h','e','l','l','o'];
-  for (var i=0;i<5; i++) {
+  for (var i=0;i<sometext.length; i++) {
     console.log(sometext[i]);
   }
 }
