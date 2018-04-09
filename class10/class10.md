@@ -35,7 +35,8 @@ More different flowcharts [here](http://www.gwei.org/pages/diagram/diagram.html)
 
 ![image4](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Diagram_for_the_computation_of_Bernoulli_numbers.jpg/1600px-Diagram_for_the_computation_of_Bernoulli_numbers.jpg)
 
-Bernoulli number ‘algorithm’, Ada Lovelace, 1843 (One of the world first algorithms) 
+Bernoulli number ‘algorithm’, Ada Lovelace, 1843 (One of the world first algorithms), [details here](http://www.fourmilab.ch/babbage/sketch.html) 
+" I want to put in Bernoulli’s numbers to show an implicit func?on can be worked out by the engine without human head &hands first. Give me the necessary formulae." by Ada Lovelace
 
 From Ed Finn: 
 
