@@ -36,7 +36,7 @@ More different flowcharts [here](http://www.gwei.org/pages/diagram/diagram.html)
 ![image4](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Diagram_for_the_computation_of_Bernoulli_numbers.jpg/1600px-Diagram_for_the_computation_of_Bernoulli_numbers.jpg)
 
 Bernoulli number ‘algorithm’, Ada Lovelace, 1843 (One of the world first algorithms), [details here](http://www.fourmilab.ch/babbage/sketch.html) 
-" I want to put in Bernoulli’s numbers to show an implicit func?on can be worked out by the engine without human head &hands first. Give me the necessary formulae." by Ada Lovelace
+"I want to put something about Bernoulli’s numbers, in one of my Notes, as an example of how the implicit function may be worked out by the engine without human head &hands first. Give me the necessary formulae." (Lovelace Papers, Bodleian Library, Oxford University, 42, folio 12 (6 Feb 1841). As quoted and cited in Dorothy Stein (ed.), 'This First Child of Mine', Ada: A Life and a Legacy (1985), 106-107.)
 
 From Ed Finn: 
 
