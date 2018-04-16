@@ -41,6 +41,7 @@ Resource: [http://softwarestudies.projects.cavi.au.dk/index.php/Machine_Learning
   ![image2](http://softwarestudies.projects.cavi.au.dk/images/d/da/LSTMText.png)
   
 ##### Discussion
+Try with all the examples above, then discuss:
 - How could you relate your field and your life with Machine Learning?
 - How does the data effect the machine learning?
 - What is reading/seeing in machine learning?
