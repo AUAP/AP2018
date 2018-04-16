@@ -10,19 +10,11 @@
 ##### Detailed command line
 
 - [Install git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-- Setup git 1: prepare a working directory, then type 
+- PREPARATION: prepare a working directory, then type 
   ```
   git init
   ```
-- Setup git 2: 
-  ```
-  git config --global user.name [Username] 
-  ```
-- Setup git 3: 
-  ```
-  git config --global user.email [email address] 
-  ```
-- Download the github files to local: (replace your file)
+- Download the github files to the local machine: 
   ```
   git pull https://github.com/xxxxx.git
   ```
@@ -33,17 +25,20 @@ If the downloaded files are different from the local, they will then merge with 
 - Example: If you want to remove a file > type rm, and if you want to add file or modify the file > type add
   ```
   git rm filename.extension
+  // need to remove one by one
   ```
   ```
   git add filename.extension
+ 
+  //can also do git add *
   ```
 - Example continue: 
   ```
-  git commit -m [description e.g delete what]
+  git commit -m "description e.g delete what"
   ```
 - Upload the files to github:
   ```
-  git push --set-upstream [github with your respository url] master
+  git push --set-upstream http://www.github.com/yourusername/yourrespositoryname master
   ```
 - other useful commands:
   ```
