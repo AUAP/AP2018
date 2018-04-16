@@ -1,12 +1,11 @@
 Messy notes for Advanced topics: Machine Learning and Prediction
 
 Agenda:
+- Discussion on students' final project
+- Task for this/next week
 - Peer-tutoring: Group 9 / Respondents: Group 1, Topic: Node.js
 - What is Machine Learning?
 - Introducing ML javascript related library
-- Discussion on students' final project
-- Task for this/next week
-
 
 #### What is Machine Learning? 
 ![image3](https://github.com/AUAP/AP2018/blob/master/class11/ML1.png)
