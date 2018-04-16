@@ -10,13 +10,13 @@ Agenda:
 #### What is Machine Learning? 
 ![image3](https://github.com/AUAP/AP2018/blob/master/class11/ML1.png)
 
-![image4](https://github.com/AUAP/AP2018/blob/master/class11/ML2.png)
-
 ![image5](https://github.com/AUAP/AP2018/blob/master/class11/ML3.png)
 
 ![image6](https://github.com/AUAP/AP2018/blob/master/class11/ML4.png)
 
 ![image7](https://github.com/AUAP/AP2018/blob/master/class11/ML5.png)
+
+![image4](https://github.com/AUAP/AP2018/blob/master/class11/ML2.png)
 
 <img src="https://pbs.twimg.com/media/DLZmGjIW0AA628B.jpg" width="550">
 
