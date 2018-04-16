@@ -6,6 +6,8 @@ Agenda:
 - Peer-tutoring: Group 9 / Respondents: Group 1, Topic: Node.js
 - What is Machine Learning?
 - Introducing ML javascript related library
+
+** running at the background: [seebotschat](https://www.twitch.tv/videos/113582306)
   
 #### Discussion on final project + Task for this/next week:
 - Weekly [mini ex10](https://github.com/AUAP/AP2018/blob/master/all_miniex/mini_ex10.md): due week 17, Sun night | Draft of synopsis
