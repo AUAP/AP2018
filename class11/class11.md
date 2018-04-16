@@ -6,6 +6,10 @@ Agenda:
 - Peer-tutoring: Group 9 / Respondents: Group 1, Topic: Node.js
 - What is Machine Learning?
 - Introducing ML javascript related library
+  
+#### Discussion on final project + Task for this/next week:
+- Weekly [mini ex10](https://github.com/AUAP/AP2018/blob/master/all_miniex/mini_ex10.md): due week 17, Sun night | Draft of synopsis
+- Sign up [here](https://etherpad.net/p/ap2018)
 
 #### What is Machine Learning? 
 ![image3](https://github.com/AUAP/AP2018/blob/master/class11/ML1.png)
@@ -39,7 +43,3 @@ Resource: [http://softwarestudies.projects.cavi.au.dk/index.php/Machine_Learning
 - How does the data effect the machine learning?
 - What is reading/seeing in machine learning?
 - What is learning in machine learning? 
-  
-#### Discussion on final project + Task for this/next week:
-- Weekly [mini ex10](https://github.com/AUAP/AP2018/blob/master/all_miniex/mini_ex10.md): due week 17, Sun night | Draft of synopsis
-
