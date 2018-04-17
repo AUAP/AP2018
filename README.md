@@ -145,6 +145,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - Crutzen, Cecile and Kotkamp Erna. Object Orientation. Software Studies\a lexicon. Eds Matthew F. MIT Press, 2008. 200-207
   - Black, Andrew P. [Object-oriented Programming: some history, and challenges for the next fifty years](https://arxiv.org/abs/1303.0427). 2013.
   - Dahl, Ole-Johan. [The Birth of Object Orientation: the Simula Languages](https://link.springer.com/chapter/10.1007/978-3-540-39993-3_3). *Object-Orientation to Formal Methods*. Eds. Owe O., Krogdahl S., Lyche T. Lecture Notes in Computer Science, vol 2635. Springer, Berlin, Heidelberg . 2004.
+  - The obscure Objects of Object Orientation, 2017 by Matthew Fuller and Andrew Goffey
 - **Weekly mini ex5: due week 11, Monday night | Games with objects** 
   - check mini_ex folder > mini_ex5.md
   ---
