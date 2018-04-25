@@ -138,4 +138,5 @@ C. **Logical errors**: Arguably the hardest error to locate as it deals with log
 - Students use less time than I expected to work with api keys
 - Students like the step by step procedures, I am unsure if it only works in a classroom settings or it may also work in the coming project. To what extend a video is useful vs step by step guide. 
 - It works really well with the guest lecture, three ways: work with different platform providerd (twitter in this case), and they are students meaning things are achievable, and how we could approach data critically. 
+- I think it is also important to think about the responsibility and accountability in collecting and using online data. The article from danah boyd & Kate Crawford is useful and i have updated on the suggested reading list. (but need to think may be good to put in assigned reading)
 
