@@ -223,6 +223,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - Kirschenbaum, Matthew G. Mechanisms: New Media and the Forensic Imagination, 2007, 25-71. (in blackboard)
   - Bucher, Taina, “Objects of intense feeling: The case of the Twitter API”, in Computational Culture: a journal of software studies. 2013. Web. 27 Nov. 2013. <http://computationalculture.net/article/objects-of-intense-feeling-the-case-of-the-twitter-api>
   - Winnie Soon, ”Executing Unpredictable Queries” in [Executing Liveness](http://siusoon.net/home/me/doc/soon_PhD_FINAL.pdf). An examination of the live dimension of code inter-actions in software (art) practice (PhD thesis), 2016, pp. 117-139 (excerpt - also in Software Studies assigned reading) 
+  -  danah boyd & Kate Crawford (2012) CRITICAL QUESTIONS FOR BIG DATA, Information, Communication & Society, 15:5, 662-679, 
   - [p5.js video: Twitter Bot Tutorial by Daniel Shiffman](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6atTSxoRiVnSuOn6JHnq2yV)
 - **Weekly mini ex8: due week 15, Monday night | Working with APIs** 
   - check mini_ex folder > mini_ex8.md
