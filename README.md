@@ -220,10 +220,10 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
   - Critical Software Thing. "Executing". Nanna Thylstrup, Daniela Agostinho, Annie Ring, Catherine D’Ignazio and Kristin Veel, eds.,Uncertain Archives, (forthcoming). (check blackboard) 
   - Albright, Jonathan. "[The Graph API: Key Points in the Facebook and Cambridge Analytica Debacle](https://medium.com/tow-center/the-graph-api-key-points-in-the-facebook-and-cambridge-analytica-debacle-b69fe692d747)". Medium, 2018. (check out the recent hot topic around Cambridge Analytica online)
 - **Suggested reading/video**
+  - danah boyd & Kate Crawford (2012) CRITICAL QUESTIONS FOR BIG DATA, Information, Communication & Society, 15:5, 662-679,
   - Kirschenbaum, Matthew G. Mechanisms: New Media and the Forensic Imagination, 2007, 25-71. (in blackboard)
   - Bucher, Taina, “Objects of intense feeling: The case of the Twitter API”, in Computational Culture: a journal of software studies. 2013. Web. 27 Nov. 2013. <http://computationalculture.net/article/objects-of-intense-feeling-the-case-of-the-twitter-api>
-  - Winnie Soon, ”Executing Unpredictable Queries” in [Executing Liveness](http://siusoon.net/home/me/doc/soon_PhD_FINAL.pdf). An examination of the live dimension of code inter-actions in software (art) practice (PhD thesis), 2016, pp. 117-139 (excerpt - also in Software Studies assigned reading) 
-  -  danah boyd & Kate Crawford (2012) CRITICAL QUESTIONS FOR BIG DATA, Information, Communication & Society, 15:5, 662-679, 
+  - Winnie Soon, ”Executing Unpredictable Queries” in [Executing Liveness](http://siusoon.net/home/me/doc/soon_PhD_FINAL.pdf). An examination of the live dimension of code inter-actions in software (art) practice (PhD thesis), 2016, pp. 117-139 (excerpt - also in Software Studies assigned reading)  
   - [p5.js video: Twitter Bot Tutorial by Daniel Shiffman](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6atTSxoRiVnSuOn6JHnq2yV)
 - **Weekly mini ex8: due week 15, Monday night | Working with APIs** 
   - check mini_ex folder > mini_ex8.md
