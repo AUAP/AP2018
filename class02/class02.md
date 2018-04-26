@@ -238,3 +238,4 @@ Some thoughts: Do think about how Adobe illustrator is designed and developed. W
     3. New syntax: beginshape(), endShape(), vertex(), loadImage(), preload(), createImg(), frameRate(), functions, mousePressed(), translate(), mouseX and mouseY. 
     4. The difference between loadImage and createImg
     5. The concept of variables: declare, initialization and usage  (something can be stored, changed and reused)
+ - May be it is also good to think about introducing geometry, scaling things, positive and negative space to explore various pattern via basic shapes. 
