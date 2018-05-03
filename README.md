@@ -31,7 +31,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 ## LEARNING OUTCOMES:
 1. Learn foundamental concepts in computer programming, such as abstraction, structure, function, iteration, variables and arrays, conditional statements, objects, feedback and interactivity.
 2. Acquire ability to design, read and write processes via computer code and build/develop computational artefacts.
-3. Integrate practical and theoretical skills to articulte and conceptualize computational artefacts.
+3. Integrate practical and theoretical skills to articulate and conceptualize computational artefacts.
 4. Recognize coding practice as a way of thinking and inquiry to understand wider cultural systems (computational thinking).
 
 ## CLASS SCHEDULE:
