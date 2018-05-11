@@ -1,0 +1,10 @@
+Preface
+
+What kind of book is this? A manual of sorts, but not in any conventional technical sense of it being a prescribed set of instructions (how-to recipe-book) in order to find out how to do something like coding in a straightforward relation (for ‘dummies’, if you pardon the expression). It is not simply meant to be read in order to learn to code, or indeed to offer critical reflection upon the practice of coding alone. Instead, it is meant to represent a more complex and deeply entangled set of relations between writing and coding as forms of knowledge production and aesthetic practice. Writing code and writing about code are forced together in ways that reflect broader cultural and technical shifts in the analysis of data and open publishing initiatives. Our use of a git repository for our writing further emphasises the point of how these practices come together in productive ways to illuminate our capacity to understand the infrastructures through which we encode our ideas. 
+(Note: Adrian Mackenzie’s iterative working process makes a good further example of this approach, see https://github.com/datapractice/machinelearners; Machine Learners: Archaeology of a Data Practice (MIT Press 2017). Mackenzie makes a point of explaining his emulation of the scientific and engineering publication conventions, as “auto-archaeology” as he puts it in the preface, to indicate how the object of study is fully integrated into the analysis.) Indeed text is in code (in the ways that it is made human-readable) and code is in text (in the use of the text editor, interfaces and online platforms we use to render these thoughts. More will be said on this towards the end of the book when we discuss machine learning in detail.). 
+Suffice to say for now that writing and coding are entangled in these ways is centrally what this book is about, and neither are to be privileged above the other: we learn one from the other, and vice versa.  
+
+// The perversity of writing a book about coding does not go unnoticed either, especially when chunks of code are displayed on the page...
+(find notes on this).
+
+ 
