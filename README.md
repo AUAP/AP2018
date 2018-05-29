@@ -299,6 +299,7 @@ The course is designed to complement the parallel course in SOFTWARE STUDIES whe
 - [JS1k](https://js1k.com/2018-coins/demos)
 
 ## OTHER REFERENCES:
+- [JavaScript basics](https://github.com/processing/p5.js/wiki/JavaScript-basics) by p5.js
 - [Text and source code: Coding Projects with p5.js by Catherine Leung](https://cathyatseneca.gitbooks.io/coding-projects-with-p5-js/)
 - [Video: Crockford on Javascript (more historical context)](https://www.youtube.com/watch?v=JxAXlJEmNMg&list=PLK2r_jmNshM9o-62zTR2toxyRlzrBsSL2) 
 - [A simple introduction to HTML and CSS](https://sites.google.com/sas.edu.sg/code/learn-to-code)
